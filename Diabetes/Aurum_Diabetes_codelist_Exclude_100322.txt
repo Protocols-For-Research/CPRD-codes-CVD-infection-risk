@@ -1,0 +1,309 @@
+v1	medcodeid	cleansedreadcode	observations	term	snomedctconceptid	Typei	Typeii	unknowntype
+602	1994041000006110	" "	300	"High risk of diabetes mellitus annual review declined"	1994041000006106	0	0	1
+436	6859611000006119	" "	4	"Insulin-like growth factor binding protein 3 level"	414519004	0	0	1
+1361	5587081000006116	" "	4	"Transitory neonatal hypoglycaemia"	276561008	0	0	1
+1273	1979741000006115	" "	1	"Liverpool diabetes pilot - support option 3"	1979741000006104	0	0	1
+493	250064017	"12G2.00"	2000	"FH: Diabetes in pregnancy"	160402005	0	0	1
+366	292645014	"C112z00"	10000	"Hypoglycaemia unspecified NOS"	302866003	0	0	1
+914	5110091000006113	" "	10	"Hypoglycaemic state in diabetes"	237633009	0	0	1
+1334	3615971000006113	" "	2	"Hypoglycaemia of infancy"	68581004	0	0	1
+632	128681000000117	"43Gk.00"	400	"Insulin antibody level"	995751000000100	0	0	1
+312	1227774019	"ZV65312"	6000	"[V]Dietary counselling in diabetes mellitus"	284350006	0	0	1
+89	2174191000000118	"14O8000"	200000	"High risk of diabetes mellitus"	837491000000107	0	0	1
+47	459805012	"R105712"	70000	"Hyperglycaemia"	80394007	0	0	1
+173	1927791000006119	" "	20000	"Raised HbA1c level"	1927791000006103	0	0	1
+333	817481000006113	"42c2.00"	10000	"Haemoglobin A1c greater than 10% indicating poor diabetic control"	165681007	0	0	1
+314	494186019	"C135.12"	900	"Diabetes insipidus - pituitary"	45369008	0	0	1
+1497	4832591000006114	" "	1	"Fetal or neonatal effect of placental or breast transfer of hypoglycaemic agent"	206025003	0	0	1
+1394	6036701000006116	" "	7	"HbA1c measurement (DCCT aligned)"	313835008	0	0	1
+1240	7960921000006113	" "	1	"HbA1c - Glycated haemoglobin-A1c"	733830002	0	0	1
+301	26721014	"C135.00"	20000	"Diabetes insipidus"	15771004	0	0	1
+1271	2831211000006119	" "	20	"Ketotic hypoglycaemia"	20825002	0	0	1
+856	4636411000006110	" "	600	"Diet controlled diabetes mellitus"	170745003	0	0	1
+810	147581000006112	"C110100"	40	"Self-induced hyperinsulinism"	190429008	0	0	1
+462	404510013	"4545.00"	600	"Insulin tolerance test"	1016041000000104	0	0	1
+176	1658941000000115	"8IAs.00"	30000	"Diabetic dietary review declined"	754141000000100	0	0	1
+284	292669013	"C11y100"	1000	"Drug-induced hypoglycaemia without coma"	190448007	0	0	1
+195	398792011	"C110.00"	6000	"Hypoglycaemic coma"	267384006	0	0	1
+1086	62895015	"C111000"	20	"Ectopic hyperinsulinism"	37703005	0	0	1
+1369	5110051000006119	" "	1	"Hypoglycemic disorder"	237630007	0	0	1
+1244	1658071000006118	" "	2	"Post prandial hypoglycaemia"	1658071000006102	0	0	1
+936	8286781000006119	" "	30	"Hyperglycaemia education"	846641000000100	0	0	1
+1317	2493341000000118	"38VP.00"	1	"Young Townson FootSkin Scale for Diabetic Neuropathy"	980351000000105	0	0	1
+184	2292001000000110	"38Gv.00"	40000	"Diabetes UK Diabetes Risk Score"	1084661000000103	0	0	1
+1074	1979331000006114	" "	70	"Did not complete NHS diabetes prevention programme"	1979331000006105	0	0	1
+15	457954013	"42W4.00"	20000000	"HbA1c level (Diabetes Control and Complications Trial aligned)"	1019431000000105	0	0	1
+437	958021000006118	" "	500	"FH: Diabetes mellitus child"	958021000006102	0	0	1
+750	1013701000006119	" "	60	"Adverse reaction to Oral Hypoglycaemic Drugs"	1013701000006103	0	0	1
+418	6611491000006110	" "	30000	"Health education - hypoglycaemia"	398772000	0	0	1
+492	259705016	"4525.00"	60	"Insulin response test - vagus"	167195007	0	0	1
+550	857091000006112	" "	500	"Number of admissions for hypoglycaemia"	857091000006108	0	0	1
+370	318064018	"Ryu8A00"	10000	"Hyperglycemia"	80394007	0	0	1
+337	499910017	"C307000"	6000	"Hyperglycinaemia"	64654004	0	0	1
+538	975481000006116	"388Y.00"	5000	"UKPDS (United Kingdom Prospective Diabetes Study) risk engine score"	1089101000000109	0	0	1
+1483	8454931000006116	" "	5	"Paediatric diabetes service"	1079491000000102	0	0	1
+860	2476914012	"43Yv.00"	7	"Human insulin RAST test"	994291000000103	0	0	1
+398	1957931000006117	" "	30000	"No H/O hypoglycaemic event in diabetes"	1957931000006101	0	0	1
+1368	4770571000006112	" "	1	"Neuropathy associated with hypoglycaemia"	193191009	0	0	1
+575	2588891000000116	" "	10000	"Leicester Diabetes Risk Score"	1025601000000108	0	0	1
+919	2843271000006114	" "	10	"Syndrome of infant of diabetic mother"	21584002	0	0	1
+1274	1979751000006118	" "	1	"Liverpool diabetes pilot - support option 4"	1979751000006102	0	0	1
+381	817471000006110	"42c0.00"	30000	"Haemoglobin A1c less than 7% indicating good diabetic control"	165679005	0	0	1
+674	215883014	"BB5B200"	2000	"Insulinoma"	302822000	0	0	1
+915	1488822019	"46Z0.00"	3000	"Urine screening test for diabetes"	395123002	0	0	1
+179	496430013	"Q447.00"	20000	"Neonatal hypoglycaemia"	52767006	0	0	1
+371	250447011	"13B1.00"	100000	"Diabetic diet"	160670007	0	0	1
+1192	6022671000006115	" "	5	"Proliferative diabetic retinopathy - non high risk"	312906006	0	0	1
+363	459472019	"R10C.00"	1000	"Drug-induced hyperglycaemia"	441690002	0	0	1
+896	1946681000006112	"8OAH.11"	900	"Provision of written information about diabetes & hypertensn"	715759002	0	0	1
+859	96311000006111	"Q44y100"	30	"Transitory metabolic disturbance in infant of pre-diabetic mother"	206506005	0	0	1
+53	1658821000000117	"66At.00"	2000000	"Diabetic dietary review"	754081000000109	0	0	1
+760	771461000006119	"4544.00"	100	"Insulin stress test -pituitary"	1016041000000104	0	0	1
+459	316953010	"Qyu6000"	400	"[X]Other neonatal hypoglycaemia"	52767006	0	0	1
+658	291841000006115	"Q440.00"	600	"'Infant of a diabetic mother' syndrome"	21584002	0	0	1
+285	637101000000118	"C116.00"	3000	"Other hypoglycaemia"	302866003	0	0	1
+438	1773555016	"66Ad.00"	5000	"Hypoglycaemic attack requiring 3rd party assistance"	401082004	0	0	1
+395	292636013	"C110z00"	800	"Hypoglycaemic coma NOS"	267384006	0	0	1
+1052	8288771000006118	" "	400	"Non-diabetic hyperglycaemia"	849171000000106	0	0	1
+367	63041000000111	"66Aa.00"	30000	"Poor compliance with diabetic diet"	25361000000103	0	0	1
+1114	5912361000006117	" "	70	"Hypoglycemia"	302866003	0	0	1
+347	1918361000006116	" "	30000	"Diabetes care planning test results sent to patient"	1918361000006100	0	0	1
+1479	2737581000000113	" "	500	"Signposting to Diabetes UK"	1092721000000109	0	0	1
+317	257620012	"42W2.00"	100000	"Hb. A1C 7-10% - borderline"	165680008	0	0	1
+964	1848531000006116	"PKyP.00"	20	"Diabetes insipidus, diabetes mellitus, optic atrophy and deafness"	70694009	0	0	1
+675	1979341000006116	" "	500	"Attended NHS diabetes prevention programme"	1979341000006100	0	0	1
+967	412754014	"Q447000"	30	"Iatrogenic neonatal hypoglycaemia"	276562001	0	0	1
+831	212381000006110	"C113z00"	50	"Postsurgical hyperglycaemia NOS"	190437000	0	0	1
+1417	8005771000006118	" "	5	"Infant of diabetic mother"	18311000119109	0	0	1
+696	1785163015	"F420700"	800	"High risk proliferative diabetic retinopathy"	312907002	0	0	1
+239	1986191000006114	" "	100000	"HbA1c (haemoglobin A1c) level (monitoring ranges) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised"	1049321000000109	0	0	1
+631	453050019	"3881.00"	4000	"Education score - diabetes"	309593006	0	0	1
+110	264711019	"66AJ000"	7000	"Chronic hyperglycaemia"	170765005	0	0	1
+537	958001000006111	" "	200	"Diabetes, Heart disease and Stroke(DHDS)prevention pilot project"	958001000006107	0	0	1
+1348	5980721000006114	" "	20	"Hypoglycaemia-induced convulsion"	308680003	0	0	1
+161	1222529016	"R102.11"	200000	"[D]Prediabetes"	9414007	0	0	1
+277	958041000006113	" "	4000	"FH: Diabetes mellitus brother"	958041000006109	0	0	1
+797	369661000000116	"7P17100"	30	"Insulin secretion glucagon test"	230241000000108	0	0	1
+7	249732015	"1228.00"	5000000	"No family history diabetes"	160274005	0	0	1
+409	794691000006115	"66A7000"	5000	"Frequency of hospital-treated hypoglycaemia attack"	712660009	0	0	1
+365	1216378012	"ZV65318"	10000	"[V]Dietary counselling in hypoglycaemia"	424753004	0	0	1
+834	3232091000006112	" "	20	"Central diabetes insipidus"	45369008	0	0	1
+757	1990701000006118	" "	10000	"Unsuitable for NHS Diabetes Prevention Programme"	1990701000006102	0	0	1
+1063	3651991000006118	" "	1	"Insulin-like growth factor"	70825004	0	0	1
+379	259365016	"44V3.00"	8000	"Glucose tolerance test indicates diabetes mellitus"	166928007	0	0	1
+8	249794016	"1252.00"	5000000	"FH: Diabetes mellitus"	160303001	0	0	1
+228	200111000006116	"8CA4100"	500000	"Diabetes mellitus diet education"	284350006	0	0	1
+637	958071000006117	" "	300	"DNA - Diabetes, Heart disease & Stroke prevention pilot project"	958071000006101	0	0	1
+558	1979241000006111	" "	30000	"NHS diabetes prevention programme invitation"	1979241000006107	0	0	1
+1104	1809221000006115	" "	100	"High risk of diabetes mellitus"	1809221000006104	0	0	1
+974	82979011	"Q441.00"	300	"Neonatal diabetes mellitus"	49817004	0	0	1
+1262	7318701000006114	" "	3	"HbA1c (haemoglobin A1c) target - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised"	446074002	0	0	1
+1466	5109541000006118	" "	6	"Transient neonatal diabetes mellitus"	237603002	0	0	1
+249	1823471000006110	" "	8000	"Diabetes mellitus high risk review"	1823471000006106	0	0	1
+1397	7693661000006116	" "	5	"Frequency of hospital-treated hypoglycaemia attack"	712660009	0	0	1
+559	1979311000006115	" "	3000	"Referral to NHS diabetes prevention programme"	1979311000006104	0	0	1
+616	20687013	"C111100"	100	"Functional hyperinsulinism"	12002009	0	0	1
+360	292637016	"C111.00"	3000	"Hyperinsulinism"	83469008	0	0	1
+233	1675511000006113	" "	4000	"Diabetes mellitus screening risk score"	1675511000006109	0	0	1
+564	958011000006114	" "	3000	"FH: Diabetes mellitus in first degree relative"	958011000006105	0	0	1
+1182	11931831000006116	" "	20	"Leicester Diabetes Risk Score"	1025571000000101	0	0	1
+378	264728016	"66AT.00"	100000	"Annual diabetic blood test"	170778005	0	0	1
+792	894491000006116	"Q447.99"	100	"Perinatal hypoglycaemia"	52767006	0	0	1
+281	356156019	"C116000"	600	"Post-prandial hypoglycaemia"	237638000	0	0	1
+116	2588311000000119	" "	100000	"Referral to NHS Diabetes Prevention Programme declined"	1025301000000100	0	0	1
+196	339351000006110	"ZV18000"	200000	"Family history: Diabetes mellitus"	160303001	0	0	1
+1130	5514331000006114	" "	2	"IST - Insulin stress test"	269877001	0	0	1
+1111	1856281000006116	" "	60	"Pre-diabetes"	1856281000006100	0	0	1
+356	958061000006112	" "	4000	"FH: Diabetes mellitus mother"	958061000006108	0	0	1
+243	2588121000000110	" "	50000	"NHS Diabetes Prevention Programme not completed"	1025211000000108	0	0	1
+1455	3107101000006113	" "	1	"Ectopic hyperinsulinaemia"	37703005	0	0	1
+372	119846018	"K081.00"	1000	"Nephrogenic diabetes insipidus"	111395007	0	0	1
+276	958051000006110	" "	10000	"FH: Diabetes mellitus father"	958051000006106	0	0	1
+420	2732281000000114	" "	60000	"NHS Diabetes Prevention Programme invitation"	1090701000000104	0	0	1
+782	1904571000006114	"4Q39000"	100	"Serum insulin-like growth factor binding protein 3 concentration"	1006141000000101	0	0	1
+264	817491000006111	"42c1.00"	40000	"Haemoglobin A1c between 7%-10% indicating borderline diabetic control"	165680008	0	0	1
+1423	3355601000006111	" "	6	"Neonatal hypoglycemia"	52767006	0	0	1
+1015	3748251000006115	" "	3	"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium"	76751001	0	0	1
+1	2232781000000111	"38Gj.00"	2000000	"QDiabetes risk calculator score"	863521000000106	0	0	1
+849	1979231000006118	" "	700	"NHS diabetes prevention programme (NHS DPP) administration"	1979231000006102	0	0	1
+1299	1759671000006111	" "	3	"Hyperglycaemia due to enteral feeding"	1759671000006107	0	0	1
+213	75638010	"C135000"	900	"Cranial diabetes insipidus"	45369008	0	0	1
+28	292640016	"C112.00"	200000	"Hypoglycaemia"	302866003	0	0	1
+1072	303696018	"J693000"	70	"Post gastrointestinal tract surgery hypoglycaemia"	197483008	0	0	1
+525	1920581000006113	" "	20000	"Referral to pre-diabetes structured education programme"	1920581000006109	0	0	1
+470	960571000006115	" "	4000	"Hypoglycaemia"	960571000006104	0	0	1
+355	292638014	"C111z00"	400	"Other hyperinsulinism NOS"	83469008	0	0	1
+200	2588201000000110	" "	10000	"NHS Diabetes Prevention Programme completed"	1025251000000107	0	0	1
+1251	1979691000006117	" "	20	"Liverpool diabetes pilot administration"	1979691000006101	0	0	1
+1058	3199191000006113	" "	300	"HbA1c - Hemoglobin A1c level"	43396009	0	0	1
+486	979861000006114	"9OLC.00"	40	"Family/carer attended diabetes structured education programme"	414229005	0	0	1
+479	4636471000006118	" "	2000	"Has seen dietitian - diabetes"	170752001	0	0	1
+1281	1979761000006116	" "	1	"Liverpool diabetes pilot - support option 5"	1979761000006100	0	0	1
+1181	7960911000006117	" "	3	"HbA1c - Glycated hemoglobin-A1c"	733830002	0	0	1
+100	1799481000000112	"671F100"	100000	"Hypoglycaemic management discussed"	804971000000100	0	0	1
+868	1979261000006110	" "	3000	"NHS diabetes prevention programme invitation second letter"	1979261000006106	0	0	1
+246	398855017	"C321.00"	10000	"Pure hyperglyceridaemia"	267433009	0	0	1
+836	3232021000006110	" "	70	"Neurohypophyseal diabetes insipidus"	45369008	0	0	1
+1347	4938901000006116	" "	1	"Sliding scale insulin regime"	225301004	0	0	1
+183	1221255018	"1154200"	40000	"No significant family history of diabetes"	160274005	0	0	1
+1266	2733231000006114	" "	1	"Idiopathic postprandial hypoglycemia"	14725002	0	0	1
+1480	8291261000006110	" "	1	"Clarke hypoglycaemia awareness questionnaire score"	851981000000106	0	0	1
+197	1986181000006111	" "	200000	"HbA1c (haemoglobin A1c) level (diagnostic reference range) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised"	1049301000000100	0	0	1
+1125	6764271000006118	" "	70	"Target HbA1c level"	408591000	0	0	1
+1186	5110161000006118	" "	30	"Non-diabetic hypoglycemia"	237637005	0	0	1
+1458	5912341000006116	" "	2	"Non-diabetic disorder of endocrine pancreas"	302865004	0	0	1
+1095	1776171000006113	" "	5	"Staff group: Nursing - Diabetic Nursing/Liaison"	1776171000006109	0	0	1
+1393	2611071000006115	" "	8	"Fasting hypoglycaemia"	6974005	0	0	1
+1327	1013741000006117	" "	2	"Adverse reaction to Drugs Used In The Treatment Of Hypoglycaemia"	1013741000006101	0	0	1
+747	404511012	"4544.11"	200	"Insulin stress test"	1016041000000104	0	0	1
+65	1946711000006113	"8OAK.00"	80000	"Provision of written information about diabetes and high cholesterol"	715879000	0	0	1
+283	789101000006116	" "	900	"Hypoglycaemia requiring GP/Paramedic since last appointment"	789101000006100	0	0	1
+413	1807191000006118	" "	200	"Recurrent severe hypoglycaemia"	237636001	0	0	1
+561	1979321000006111	" "	400	"Did not attend NHS diabetes prevention programme"	1979321000006107	0	0	1
+1261	2590411000006117	" "	1	"Insulin-like growth factor I"	5699003	0	0	1
+375	283027015	"8CE0.00"	80000	"Diabetic leaflet given"	183097007	0	0	1
+697	149278011	"C110000"	100	"Iatrogenic hyperinsulinism"	90054000	0	0	1
+891	5110151000006115	" "	70	"Non-diabetic hypoglycaemia"	237637005	0	0	1
+255	517921000006115	"44Uz.11"	10000	"Blood hyperglycaemia NOS"	444780001	0	0	1
+1119	8461611000006114	" "	2	"Assessment using Diabetes UK Diabetes Risk Score"	1084671000000105	0	0	1
+1362	7812121000006117	" "	50	"Diabetic retinopathy of eye not detected"	721103006	0	0	1
+1217	2160089017	"C10J.00"	20	"Insulin autoimmune syndrome"	408539000	0	0	1
+158	264688012	"66A7.00"	300000	"Frequency of hypoglycaemia attack"	712656006	0	0	1
+916	2843281000006112	" "	60	"Infant of a diabetic mother syndrome"	21584002	0	0	1
+146	1227610014	"ZV18011"	9000	"[V]Family history of diabetes mellitus (DM)"	160303001	0	0	1
+565	453102015	"1435.00"	400	"H/O: Admission in last year for hyperglycaemic disorder"	309636006	0	0	1
+1385	7722421000006118	" "	10	"Prediabetes"	714628002	0	0	1
+815	1920591000006111	" "	3000	"Pre-diabetes structured education programme declined"	1920591000006107	0	0	1
+604	5110071000006112	" "	90	"Hypoglycaemic event in diabetes"	237632004	0	0	1
+424	881531000006119	"C112.99"	6000	"Hypoglycaemia"	642831000000104	0	0	1
+1051	6036711000006118	" "	300	"HbA1c level (DCCT aligned)"	313835008	0	0	1
+1115	11917181000006110	" "	60	"Hyperglycemia"	80394007	0	0	1
+165	2221001000000112	"C11y500"	700000	"Pre-diabetes"	858301000000107	0	0	1
+727	135166013	"K081000"	100	"Acquired nephrogenic diabetes insipidus"	81475007	0	0	1
+185	2990619013	" "	500000	"Non-diabetic hyperglycaemia"	700449008	0	0	1
+979	7535301000006114	" "	400	"Non-diabetic hyperglycemia"	700449008	0	0	1
+951	310361000006113	"BB5B300"	80	"Malignant insulinoma"	20955008	0	0	1
+1241	1858821000006118	" "	10	"AURAS-AF - consider the patient not to have diabetes"	1858821000006102	0	0	1
+232	264695015	"66A9.00"	300000	"Understands diet - diabetes"	170753006	0	0	1
+270	453910015	"42c..00"	100000	"Haemoglobin A1C - diabetic control finding"	365845005	0	0	1
+225	257621011	"42W3.00"	50000	"Hb. A1C > 10% - bad control"	165681007	0	0	1
+651	1488675017	"43WQ.00"	200	"Insulin IgE antibody level"	994031000000108	0	0	1
+1264	2503601000006110	" "	9	"Hypoglycaemic reaction"	317006	0	0	1
+1224	671631000006118	"Q007A00"	10	"Fetus or neonate affected by placental or breast transfer of hypoglycaemic agent"	206025003	0	0	1
+1342	5980761000006115	" "	2	"Hypoglycaemia-induced seizure"	308680003	0	0	1
+117	2588351000000115	" "	300000	"Referral to NHS Diabetes Prevention Programme"	1025321000000109	0	0	1
+548	1979301000006118	" "	9000	"NHS diabetes prevention programme invitation SMS text message"	1979301000006102	0	0	1
+189	2203931000000113	"66Az.00"	200000	"High risk of diabetes mellitus annual review"	850581000000106	0	0	1
+198	2588241000000113	" "	40000	"NHS Diabetes Prevention Programme started"	1025271000000103	0	0	1
+159	2549389017	"1253.00"	300000	"FH: Diabetes mellitus in first degree relative"	416855002	0	0	1
+394	257619018	"42W1.00"	100000	"Hb. A1C < 7% - good control"	165679005	0	0	1
+1415	5311721000006114	" "	1	"Insulin/TRH/LHRH test"	252185008	0	0	1
+1443	3963921000006111	" "	1	"Iatrogenic hyperinsulinaemia"	90054000	0	0	1
+307	459695017	"13AC.00"	60000	"Diabetic weight reducing diet"	315208005	0	0	1
+231	63021000000116	"66AY.00"	90000	"Good compliance with diabetic diet"	25351000000101	0	0	1
+1324	1904581000006112	"4Q39100"	2	"Plasma insulin-like growth factor binding protein 3 concentration"	1006131000000105	0	0	1
+1452	8033291000006116	" "	1	"Pre-existing diabetes mellitus in mother complicating childbirth"	106281000119103	0	0	1
+683	7484021000006115	" "	3	"Discussion about hypoglycaemia in pregnancy"	473181008	0	0	1
+157	371002011	"13LZ.11"	4000	"Diabetic relative"	105452009	0	0	1
+969	297558014	"F374500"	10	"Polyneuropathy in hypoglycaemia"	193191009	0	0	1
+1206	5110141000006117	" "	2	"Recurrent severe hypoglycemia"	237636001	0	0	1
+403	1957911000006111	" "	4000	"H/O: hypoglycaemic event in diabetes"	1957911000006107	0	0	1
+1467	5110211000006110	" "	4	"Drug-induced hypoglycaemia"	237640005	0	0	1
+804	369641000000117	"7P17000"	40	"Insulin stress test of anterior pituitary function"	230231000000104	0	0	1
+1383	8242821000006115	" "	20	"No diabetic autonomic neuropathy"	777601000000102	0	0	1
+972	498950010	"K081100"	10	"Congenital nephrogenic diabetes insipidus"	61165007	0	0	1
+1489	6212141000006116	" "	1	"Congenital hyperinsulinism"	360339005	0	0	1
+1390	5109411000006118	" "	8	"Hyperglycaemic disorder"	237598005	0	0	1
+17	404444016	"42W..00"	3000000	"Haemoglobin A1C - diabetic control interpretation"	269823000	0	0	1
+4	251884012	"14O8.00"	400000	"At risk of diabetes mellitus"	161641009	0	0	1
+966	918281000006116	" "	3000	"Pt advised re diabetic diet"	918281000006100	0	0	1
+613	4636441000006114	" "	3000	"Last hypoglycaemia attack"	170748001	0	0	1
+70	1979251000006113	" "	50000	"NHS diabetes prevention programme invitation first letter"	1979251000006109	0	0	1
+396	958031000006115	" "	3000	"FH: Diabetes mellitus sister"	958031000006104	0	0	1
+322	1946691000006110	"8OAH.00"	30000	"Provision of written information about diabetes and hypertension"	715759002	0	0	1
+1198	12619061000006110	" "	40	"Gold Score for awareness of hypoglycaemia"	1104871000000103	0	0	1
+466	1059821000000116	"38DK.00"	10000	"FINDRISC (Finnish Diabetes Risk Score) score"	763117005	0	0	1
+278	2220161000000117	"8OA3.00"	30000	"Provision of written information about diabetes and driving"	857921000000103	0	0	1
+959	324113011	"SL23.00"	20	"Insulins and antidiabetic poisoning"	212545006	0	0	1
+1144	2831221000006110	" "	4	"Ketotic hypoglycemia"	20825002	0	0	1
+1456	12622041000006112	" "	2	"HbA1c (haemoglobin A1c) molar concentration in blood"	1107481000000106	0	0	1
+742	1660271000006119	"R10D100"	70	"[D]Stress induced hyperglycaemia"	237624007	0	0	1
+1040	1979271000006115	" "	800	"NHS diabetes prevention programme invitation third letter"	1979271000006104	0	0	1
+833	1761691000006115	" "	8	"Glucose tolerance test-induced hypoglycaemia"	1761691000006104	0	0	1
+1162	8258261000006110	" "	7	"Diabetes UK (United Kingdom) diabetes risk score"	805421000000105	0	0	1
+982	5110111000006116	" "	30	"Nocturnal hypoglycaemia"	237635002	0	0	1
+950	1488676016	"43WR.00"	100	"Insulin IgG antibody level"	994041000000104	0	0	1
+1464	3253871000006114	" "	1	"Nondiabetic proliferative retinopathy"	46674002	0	0	1
+1207	4363441000006117	" "	1	"Familial hyperglycerolaemia"	124322002	0	0	1
+1391	5289101000006113	" "	2	"Hypoglycaemic response"	250722009	0	0	1
+1183	5313001000006115	" "	2	"Insulinoma extended fasting test"	252251004	0	0	1
+684	3527831019	" "	700	"Hypoglycaemia self management plan"	737436002	0	0	1
+268	960581000006117	" "	4000	"Hyperglycaemia"	960581000006101	0	0	1
+467	2500921000000110	"13B1000"	800	"Diabetic carbohydrate counting diet"	983451000000106	0	0	1
+623	2636331000000114	" "	2000	"Hypoglycaemic attack - attendance by ambulance crew"	1046191000000101	0	0	1
+345	459694018	"13AB.00"	80000	"Diabetic lipid lowering diet"	315207000	0	0	1
+218	257623014	"42WZ.00"	90000	"Hb. A1C - diabetic control"	269823000	0	0	1
+1124	3199181000006110	" "	50	"HbA1c - Haemoglobin A1c level"	43396009	0	0	1
+960	5587011000006111	" "	9	"Neonatal hyperglycaemia"	276557002	0	0	1
+274	2576253017	"679L100"	100000	"Hypoglycaemia education"	398772000	0	0	1
+662	2533294013	"4Q39.00"	100	"Insulin-like growth factor binding protein 3 level"	1027711000000107	0	0	1
+978	5988631000006117	" "	30	"Diabetes dietitian"	309417009	0	0	1
+541	292644013	"C112100"	2000	"Spontaneous hypoglycaemia"	111559003	0	0	1
+1034	857531000006117	" "	10000	"No FH: diabetes"	857531000006101	0	0	1
+359	293761012	"Cyu3000"	4000	"[X]Other hypoglycaemia"	302866003	0	0	1
+11	1946701000006110	"8OAJ.00"	100000	"Provision of written information about diabetes and high haemoglobin A1c level"	719943000	0	0	1
+762	324117012	"SL23z00"	8	"Insulins or antidiabetic poisoning NOS"	212545006	0	0	1
+339	2587521000000117	" "	40000	"NHS Diabetes Prevention Programme"	1024941000000100	0	0	1
+1389	5110231000006116	" "	2	"Alcohol-induced hypoglycaemia"	237641009	0	0	1
+638	408811014	"3883.00"	20000	"DTSQs (Diabetes Treatment Satisfaction Questionnaire status version) score"	765147009	0	0	1
+1430	8279271000006111	" "	400	"Provision of written information about diabetes"	837801000000103	0	0	1
+508	1694821000006114	" "	30000	"Health education - hypoglycaemia"	1694821000006105	0	0	1
+1513	356101019	" "	3	"Hyperproinsulinaemia"	237613005	0	0	1
+1377	2733221000006111	" "	1	"Idiopathic postprandial hypoglycaemia"	14725002	0	0	1
+85	264693010	"66A8.00"	400000	"Has seen dietician - diabetes"	170752001	0	0	1
+669	978651000006118	"8Hj1.00"	700	"Family/carer referral to diabetes structured education programme"	414230000	0	0	1
+1312	189701000000116	"C10J000"	2	"Insulin autoimmune syndrome without complication"	408539000	0	0	1
+449	460375010	"ZV19800"	20000	"[V]Family history of diabetes mellitus"	160303001	0	0	1
+721	6022721000006112	" "	200	"Proliferative diabetic retinopathy - high risk"	312907002	0	0	1
+799	1979291000006119	" "	8000	"NHS diabetes prevention programme verbal invitation"	1979291000006103	0	0	1
+1188	894461000006112	"Q440.99"	20	"Diabetic mother syndrome"	21584002	0	0	1
+1185	486871014	"C113000"	20	"Postpancreatectomy hyperglycaemia"	37814003	0	0	1
+666	958321000006115	" "	2	"DHDS pilot project outcome - new diagnosis Diabetes"	958321000006104	0	0	1
+331	1222099015	"SL23400"	200	"Insulin poisoning"	18337009	0	0	1
+167	292641017	"C112000"	7000	"Reactive hypoglycaemia"	317006	0	0	1
+925	8286441000006116	" "	50	"No H/O hypoglycaemia"	846111000000106	0	0	1
+132	1753211000006115	"66Ae000"	300000	"HbA1c (haemoglobin A1c) target level - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised"	446074002	0	0	1
+584	5109931000006116	" "	20	"Acute hyperglycaemia"	237623001	0	0	1
+380	294711000006113	"R105711"	300	"[D]Drug induced hyperglycaemia"	441690002	0	1	0
+778	112841000006113	"Q44B.00"	300	"Syndrome of infant of mother with gestational diabetes"	762291006	0	1	0
+1478	3513886018	" "	2	"CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score"	735258002	0	1	0
+1000	2337941000000112	"38QW.00"	3000	"Diabetes Distress Scale 2 item score"	909421000000102	0	1	0
+1473	7500521000006111	" "	1	"Diabetes mellitus, transient neonatal 2"	609580007	0	1	0
+1392	7628821000006114	" "	3	"Steroid-induced hyperglycemia"	708122002	0	1	0
+1252	1979731000006113	" "	2	"Liverpool diabetes pilot - support option 2"	1979731000006109	0	1	0
+738	1716601000006119	"38DM.00"	500	"ABCD2 (Age, Blood pressure, Clinical features, Duration, Diabetes) stroke risk score"	1087971000000105	0	1	0
+680	7086021000006115	" "	400	"Dietary advice for type II diabetes"	428274007	0	1	0
+1155	458159017	"44AC.00"	300	"Serum insulin-like growth factor 2 level"	997361000000105	0	1	0
+257	1751441000006116	"1252111"	8000	"Family history of diabetes mellitus type II"	430679000	0	1	0
+186	2773645012	"1252100"	100000	"Family history of diabetes mellitus type 2"	430679000	0	1	0
+206	1715391000006114	"38DM.11"	10000	"ABCD2 (Age, Blood pressure, Clinical features, Duration, Diabetes) score"	1087971000000105	0	1	0
+5	1782641000006118	"38DE000"	1000000	"CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) stroke risk score"	735259005	0	1	0
+6	1678621000006111	"38DE.00"	500000	"CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score"	763008007	0	1	0
+1123	7217901000006119	" "	6	"Dietary education for gestational diabetes"	439051004	0	1	0
+1259	11998631000006118	" "	2	"CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score"	763008007	0	1	0
+1184	7628811000006118	" "	10	"Steroid-induced hyperglycaemia"	708122002	0	1	0
+866	458213010	"44A8.00"	10	"Plasma IGF 2 (insulin-like growth factor 2) level"	997321000000102	0	1	0
+930	1703761000000114	"8CE0000"	1000	"Gestational diabetes information leaflet given"	764921000000102	0	1	0
+1398	11928821000006114	" "	2	"CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) stroke risk score"	793851000000102	0	1	0
+973	2181051000000117	"43aw.00"	200	"Insulinoma-associated antigen-2 antibody level"	1006331000000108	0	1	0
+287	457874019	"44AB.00"	30000	"Serum insulin-like growth factor 1 level"	997351000000107	1	0	0
+325	458209015	"44A7.00"	3000	"Plasma IGF 1 (insulin-like growth factor 1) level"	997311000000108	1	0	0
+1298	1979721000006110	" "	1	"Liverpool diabetes pilot - support option 1"	1979721000006106	1	0	0
+1092	2338051000000112	"38QX.00"	30	"Diabetes Distress Scale 17 item score"	910931000000101	1	0	0
+1336	5311791000006111	" "	4	"Insulin/thyrotropin releasing hormone/luteinizing hormone releasing hormone test"	252185008	1	0	0
+175	2773644011	"1252000"	100000	"Family history of diabetes mellitus type 1"	430678008	1	0	0
+653	7098211000006116	" "	200	"Dietary education for type 1 diabetes mellitus"	429094000	1	0	0
+1512	7500501000006118	" "	2	"Diabetes mellitus, transient neonatal 1"	609579009	1	0	0
+725	1979281000006117	" "	2000	"NHS diabetes prevention programme telephone invitation"	1979281000006101	1	0	0
+1472	2590451000006116	" "	1	"IGF 1 - Insulin like growth factor 1"	5699003	1	0	0
+392	794681000006118	"66A7100"	20000	"Frequency of general practitioner treated hypoglycaemia attack"	712658007	1	0	0

@@ -1,0 +1,488 @@
+prodcodeid	dmdid	termfromemis	productname	formulation	routeofadministration	drugsubstancename	substancestrength	bnfchapter	drugissues	BBvar
+214541000033116	"318824000"	"Captopril 50mg tablets"	"Captopril 50mg tablets"	"Tablet"	"Oral"	"Captopril"	"50.000mg"	"2050501"	900000	0
+5890241000033117	"8622511000001100"	"Lisinopril 5mg/5ml oral solution"	"Lisinopril 5mg/5ml oral solution"	"Oral solution"	"Oral"	"Lisinopril"	"1.000mg/1.000ml"	" "	4000	0
+1067941000033111	"318897000"	"Perindopril erbumine 4mg tablets"	"Perindopril erbumine 4mg tablets"	"Tablet"	"Oral"	"Perindopril erbumine"	"4.000mg"	"2050501"	20000000	0
+787941000033112	"172711000001100"	"Istin 5mg tablets (Upjohn UK Ltd)"	"Istin 5mg tablets"	"Tablet"	"Oral"	"Amlodipine"	"5.000mg"	"2060200"	600000	0
+2041041000033110	"872011000001109"	"Teveten 600mg tablets (Mylan)"	"Teveten 600mg tablets"	"Tablet"	"Oral"	"Eprosartan mesilate"	"600.000mg"	"2050502"	10000	0
+40941000033118	"253711000001107"	"Aldomet 250mg tablets (Aspen Pharma Trading Ltd)"	"Aldomet 250mg tablets"	"Tablet"	"Oral"	"Methyldopa anhydrous"	"250.000mg"	"2050200"	100000	0
+5890341000033110	"8720811000001105"	"Ramipril 5mg/5ml oral solution"	"Ramipril 5mg/5ml oral solution"	"Oral solution"	"Oral"	"Ramipril"	"1.000mg/1.000ml"	" "	900	0
+9159441000033118	"24412511000001109"	"Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd)"	"Actelsar HCT 80mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 80.000mg"	" "	8	0
+609241000033116	"318910003"	"Fosinopril 20mg tablets"	"Fosinopril 20mg tablets"	"Tablet"	"Oral"	"Fosinopril sodium"	"20.000mg"	"2050501"	400000	0
+4957641000033110	"15138911000001101"	"Cozaar 12.5mg tablets (Organon Pharma (UK) Ltd)"	"Cozaar 12.5mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"12.500mg"	" "	10000	0
+211741000033110	"318978004"	"Candesartan 4mg tablets"	"Candesartan 4mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"4.000mg"	"2050502"	6000000	0
+5053141000033113	"15436111000001104"	"Indipam XL 1.5mg tablets (Accord Healthcare Ltd)"	"Indipam XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	" "	600	0
+213441000033119	"318820009"	"Captopril 12.5mg tablets"	"Captopril 12.5mg tablets"	"Tablet"	"Oral"	"Captopril"	"12.500mg"	"2050501"	1000000	0
+1845641000033119	"318097001"	"Amiloride 5mg / Bumetanide 1mg tablets"	"Amiloride 5mg / Bumetanide 1mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Bumetanide"	"5.000mg + 1.000mg"	"2020400"	200000	0
+3161141000033116	"134461004"	"Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets"	"Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Irbesartan"	"12.500mg + 150.000mg"	"2050502"	200000	0
+198941000033118	"540311000001105"	"Cardene SR 30mg capsules (Astellas Pharma Ltd)"	"Cardene SR 30mg capsules"	"Modified-release capsule"	"Oral"	"Nicardipine hydrochloride"	"30.000mg"	"2060200"	20000	0
+5128741000033110	"15600711000001107"	"Mapemid XL 1.5mg tablets (Teva UK Ltd)"	"Mapemid XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	" "	7	0
+1753841000033118	"680811000001102"	"Tanatril 10mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)"	"Tanatril 10mg tablets"	"Tablet"	"Oral"	"Imidapril hydrochloride"	"10.000mg"	"2050501"	2000	0
+12569041000033116	"11813011000001109"	"Clonidine 100micrograms/5ml oral suspension"	"Clonidine 100micrograms/5ml oral suspension"	"Oral suspension"	"Oral"	"Clonidine hydrochloride"	"20.000microgram/1.000ml"	" "	90	0
+4454641000033117	"13444311000001104"	"Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd)"	"Coversyl Arginine Plus 5mg/1.25mg tablets"	"Tablet"	"Oral"	"Indapamide/ Perindopril arginine"	"1.250mg + 5.000mg"	"2050501"	70000	0
+5006241000033115	"15772911000001108"	"Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar 40mg/5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Olmesartan medoxomil"	"5.000mg + 40.000mg"	"2050502"	2000	0
+6435741000033117	"19481911000001105"	"Irbesartan 37.5mg oral powder sachets"	"Irbesartan 37.5mg oral powder sachets"	"Powder"	"Oral"	"Irbesartan"	"37.500mg"	" "	30	0
+1455741000033119	"802311000001101"	"Tritace 5mg capsules (Sanofi)"	"Tritace 5mg capsules"	"Capsule"	"Oral"	"Ramipril"	"5.000mg"	"2050501"	40000	0
+3908941000033112	"409184002"	"Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets"	"Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Olmesartan medoxomil"	"12.500mg + 20.000mg"	"2050502"	60000	0
+5006041000033111	"429678006"	"Olmesartan medoxomil 40mg / Amlodipine 10mg tablets"	"Olmesartan medoxomil 40mg / Amlodipine 10mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Olmesartan medoxomil"	"10.000mg + 40.000mg"	"2050502"	10000	0
+614641000033117	"427411000001106"	"Frumil 40mg/5mg tablets (Sanofi)"	"Frumil 40mg/5mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"5.000mg + 40.000mg"	"2020400"	2000000	0
+3162741000033111	"407856001"	"Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets"	"Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 80.000mg"	"2050502"	100000	0
+10387441000033112	"29826211000001109"	"Amlodipine 10mg/5ml oral solution sugar free"	"Amlodipine 10mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Amlodipine"	"2.000mg/1.000ml"	" "	3000	0
+655241000033111	"36053311000001103"	"Guanethidine 10mg/1ml solution for injection ampoules"	"Guanethidine 10mg/1ml solution for injection ampoules"	"Solution for injection"	"Intramuscular"	"Guanethidine monosulfate"	"10.000mg/1.000ml"	"2050300"	90	0
+614341000033113	"550711000001106"	"Frumil LS 20mg/2.5mg tablets (Sanofi)"	"Frumil LS 20mg/2.5mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"2.500mg + 20.000mg"	"2020400"	300000	0
+956741000033114	"535711000001100"	"Navispare 2.5mg/250microgram tablets (Advanz Pharma)"	"Navispare 2.5mg/250microgram tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Cyclopenthiazide"	"2.500mg + 250.000microgram"	"2020400"	800000	0
+5816741000033112	"14693611000001102"	"Varbim XL 1.5mg tablets (Teva UK Ltd)"	"Varbim XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	" "	400	0
+2989941000033114	"5010511000001106"	"Tritace 1.25mg tablets (Sanofi)"	"Tritace 1.25mg tablets"	"Tablet"	"Oral"	"Ramipril"	"1.250mg"	"2050501"	10000	0
+211641000033118	"318977009"	"Candesartan 2mg tablets"	"Candesartan 2mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"2.000mg"	"2050502"	2000000	0
+1834341000033110	"3887911000001109"	"Triapin 5mg/5mg modified-release tablets (Sanofi)"	"Triapin 5mg/5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine/ Ramipril"	"5.000mg + 5.000mg"	"2050501"	7000	0
+116741000033118	"3689111000001107"	"Baratol 25mg tablets (Amdipharm Plc)"	"Baratol 25mg tablets"	"Tablet"	"Oral"	"Indoramin hydrochloride"	"25.000mg"	" "	6000	0
+1094141000033115	"490211000001101"	"Plendil 5mg modified-release tablets (AstraZeneca UK Ltd)"	"Plendil 5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	"2060200"	100000	0
+744941000033110	"376209006"	"Hydrochlorothiazide 25mg tablets"	"Hydrochlorothiazide 25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide"	"25.000mg"	" "	80000	0
+745641000033116	"3150911000001107"	"Hytrin 10mg tablets (Advanz Pharma)"	"Hytrin 10mg tablets"	"Tablet"	"Oral"	"Terazosin hydrochloride"	"10.000mg"	"7040100"	20000	0
+2036441000033114	"318995007"	"Eprosartan 400mg tablets"	"Eprosartan 400mg tablets"	"Tablet"	"Oral"	"Eprosartan mesilate"	"400.000mg"	"2050502"	200000	0
+955341000033117	"321811000001109"	"Natrilix 2.5mg tablets (Servier Laboratories Ltd)"	"Natrilix 2.5mg tablets"	"Tablet"	"Oral"	"Indapamide hemihydrate"	"2.500mg"	"2020100"	400000	0
+4021741000033119	"11161811000001108"	"Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd)"	"Exforge 5mg/80mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Valsartan"	"5.000mg + 80.000mg"	"2060200"	4000	0
+3160841000033117	"318884002"	"Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets"	"Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 10.000mg"	"2050501"	300000	0
+935541000033113	"453811000001103"	"Moduretic 5mg/50mg tablets (Merck Sharp & Dohme (UK) Ltd)"	"Moduretic 5mg/50mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide"	"5.000mg + 50.000mg"	"2020400"	1000000	0
+3177541000033111	"4973011000001100"	"Felogen XL 10mg tablets (Mylan)"	"Felogen XL 10mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	"2060200"	400	0
+12312641000033118	"34494911000001106"	"Alkapamid XL 1.5mg tablets (HBS Healthcare Ltd)"	"Alkapamid XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	" "	400	0
+1893241000033114	"318807006"	"Co-zidocapt 25mg/50mg tablets"	"Co-zidocapt 25mg/50mg tablets"	"Tablet"	"Oral"	"Captopril/ Hydrochlorothiazide"	"50.000mg + 25.000mg"	"2050501"	30000	0
+5710441000033117	"8427011000001108"	"Co-amilofruse 5mg/40mg/5ml oral suspension"	"Co-amilofruse 5mg/40mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"1.000mg/1.000ml + 8.000mg/1.000ml"	" "	100	0
+376941000033117	"318121006"	"Co-amilozide 2.5mg/25mg tablets"	"Co-amilozide 2.5mg/25mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide"	"2.500mg + 25.000mg"	"2020400"	600000	0
+837841000033110	"318859000"	"Lisinopril 10mg tablets"	"Lisinopril 10mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"10.000mg"	"2050501"	10000000	0
+3034441000033111	"5638811000001106"	"Vascalpha 10mg modified-release tablets (Accord Healthcare Ltd)"	"Vascalpha 10mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	"2060200"	10000	0
+13422241000033114	"429828006"	"Amlodipine 2.5mg tablets"	"Amlodipine 2.5mg tablets"	"Tablet"	"Oral"	"Amlodipine"	"2.500mg"	" "	10000	0
+4521541000033113	"18167311000001103"	"Neofel XL 2.5mg tablets (Actavis UK Ltd)"	"Neofel XL 2.5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	" "	1000	0
+1151441000033111	"318901006"	"Ramipril 2.5mg capsules"	"Ramipril 2.5mg capsules"	"Capsule"	"Oral"	"Ramipril"	"2.500mg"	"2050501"	20000000	0
+5401641000033118	"8347411000001109"	"Captopril 15mg/5ml oral suspension"	"Captopril 15mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"3.000mg/1.000ml"	" "	40	0
+5401741000033110	"8306711000001109"	"Bendroflumethiazide 5mg/5ml oral suspension"	"Bendroflumethiazide 5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Bendroflumethiazide"	"1.000mg/1.000ml"	" "	70	0
+10645041000033114	"30251811000001106"	"Lisinopril 5mg/5ml oral solution sugar free"	"Lisinopril 5mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Lisinopril"	"1.000mg/1.000ml"	" "	8000	0
+2036341000033115	"318994006"	"Eprosartan 300mg tablets"	"Eprosartan 300mg tablets"	"Tablet"	"Oral"	"Eprosartan mesilate"	"300.000mg"	"2050502"	200000	0
+2929041000033116	"3800711000001105"	"Cabren 10mg modified-release tablets (Teva UK Ltd)"	"Cabren 10mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	" "	300	0
+3038141000033110	"39731911000001109"	"Amlodipine 10mg tablets"	"Amlodipine 10mg tablets"	"Tablet"	"Oral"	"Amlodipine"	"10.000mg"	"2060200"	40000000	0
+11072741000033116	"8580911000001106"	"Hydralazine 25mg/5ml oral solution"	"Hydralazine 25mg/5ml oral solution"	"Oral solution"	"Oral"	"Hydralazine hydrochloride"	"5.000mg/1.000ml"	" "	20	0
+2846641000033111	"3803711000001101"	"Coversyl 8mg tablets (Servier Laboratories Ltd)"	"Coversyl 8mg tablets"	"Tablet"	"Oral"	"Perindopril erbumine"	"8.000mg"	"2050501"	7000	0
+1849641000033117	"318987008"	"Telmisartan 80mg tablets"	"Telmisartan 80mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"80.000mg"	"2050502"	800000	0
+60341000033110	"636611000001107"	"Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd)"	"Amil-Co 5mg/50mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide"	"5.000mg + 50.000mg"	"2020400"	30000	0
+2216141000033115	"792411000001108"	"CoAprovel 150mg/12.5mg tablets (Sanofi)"	"CoAprovel 150mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Irbesartan"	"12.500mg + 150.000mg"	"2050502"	50000	0
+209241000033119	"546711000001107"	"Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Capozide LS 12.5mg/25mg tablets"	"Tablet"	"Oral"	"Captopril/ Hydrochlorothiazide"	"25.000mg + 12.500mg"	" "	9000	0
+3851341000033117	"8350511000001107"	"Captopril 3mg/5ml oral solution"	"Captopril 3mg/5ml oral solution"	"Oral solution"	"Oral"	"Captopril"	"600.000microgram/1.000ml"	" "	800	0
+5005941000033118	"429503009"	"Olmesartan medoxomil 40mg / Amlodipine 5mg tablets"	"Olmesartan medoxomil 40mg / Amlodipine 5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Olmesartan medoxomil"	"5.000mg + 40.000mg"	"2050502"	10000	0
+780741000033110	"4369611000001106"	"Ismelin 10mg/1ml solution for injection ampoules (Amdipharm Plc)"	"Ismelin 10mg/1ml solution for injection ampoules"	"Solution for injection"	"Intramuscular"	"Guanethidine monosulfate"	"10.000mg/1.000ml"	" "	10	0
+7754841000033119	"20418711000001104"	"Azilsartan medoxomil 20mg tablets"	"Azilsartan medoxomil 20mg tablets"	"Tablet"	"Oral"	"Azilsartan medoxomil"	"20.000mg"	"2050502"	200	0
+745441000033118	"376508004"	"Hydrochlorothiazide 50mg tablets"	"Hydrochlorothiazide 50mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide"	"50.000mg"	" "	20000	0
+2739541000033117	"562511000001109"	"Coversyl Plus tablets (Servier Laboratories Ltd)"	"Coversyl Plus tablets"	"Tablet"	"Oral"	"Indapamide/ Perindopril erbumine"	"1.250mg + 4.000mg"	"2050501"	50000	0
+1611441000033117	"331311000001103"	"Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd)"	"Froop Co 5mg/40mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"5.000mg + 40.000mg"	"2020400"	2000	0
+568041000033111	"39020311000001104"	"Felodipine 2.5mg modified-release tablets"	"Felodipine 2.5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	"2060200"	5000000	0
+8197041000033112	"21578911000001105"	"Indapamide 2.5mg/5ml oral suspension"	"Indapamide 2.5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Indapamide"	"500.000microgram/1.000ml"	" "	200	0
+897441000033116	"318672001"	"Methyldopa 250mg tablets"	"Methyldopa 250mg tablets"	"Tablet"	"Oral"	"Methyldopa anhydrous"	"250.000mg"	"2050200"	700000	0
+9209341000033116	"24555211000001104"	"Tolura 20mg tablets (Consilient Health Ltd)"	"Tolura 20mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"20.000mg"	" "	1	0
+12118541000033112	"10449311000001104"	"Catapres TTS 3 patches (Imported (Germany))"	"Catapres TTS 3 patches"	"Transdermal patch"	" "	"Clonidine"	"300.000microgram/24.000hour"	" "	40	0
+4152241000033113	"8720311000001101"	"Ramipril 1.25mg/5ml oral suspension"	"Ramipril 1.25mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Ramipril"	"250.000microgram/1.000ml"	" "	1000	0
+1753941000033114	"797911000001103"	"Tanatril 5mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)"	"Tanatril 5mg tablets"	"Tablet"	"Oral"	"Imidapril hydrochloride"	"5.000mg"	"2050501"	2000	0
+74641000033118	"120911000001103"	"Aprinox 5mg tablets (Amdipharm Plc)"	"Aprinox 5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"5.000mg"	"2020100"	100000	0
+3279641000033119	"8145911000001100"	"Lisicostad 20mg/12.5mg tablets (Genus Pharmaceuticals Ltd)"	"Lisicostad 20mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 20.000mg"	"2050501"	3	0
+1893141000033119	"318806002"	"Co-zidocapt 12.5mg/25mg tablets"	"Co-zidocapt 12.5mg/25mg tablets"	"Tablet"	"Oral"	"Captopril/ Hydrochlorothiazide"	"25.000mg + 12.500mg"	"2050501"	3000	0
+1552141000033116	"891711000001107"	"Zestril 20mg tablets (AstraZeneca UK Ltd)"	"Zestril 20mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"20.000mg"	"2050501"	200000	0
+3161241000033111	"134460003"	"Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets"	"Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Irbesartan"	"12.500mg + 300.000mg"	"2050502"	400000	0
+1149541000033113	"318894007"	"Quinapril 40mg tablets"	"Quinapril 40mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"40.000mg"	"2050501"	200000	0
+1468141000033118	"721311000001104"	"Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd)"	"Triamaxco 50mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Triamterene"	"25.000mg + 50.000mg"	"2020400"	10000	0
+1429141000033119	"318776005"	"Terazosin 5mg tablets"	"Terazosin 5mg tablets"	"Tablet"	"Oral"	"Terazosin hydrochloride"	"5.000mg"	"7040100"	300000	0
+8276141000033118	"14057411000001109"	"Perindopril erbumine 8mg/5ml oral suspension"	"Perindopril erbumine 8mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Perindopril erbumine"	"1.600mg/1.000ml"	" "	100	0
+1622241000033119	"572511000001102"	"Kaplon 50mg tablets (Teva UK Ltd)"	"Kaplon 50mg tablets"	"Tablet"	"Oral"	"Captopril"	"50.000mg"	"2050501"	80	0
+4152841000033112	"11506711000001103"	"Cardioplen XL 2.5mg tablets (Chiesi Ltd)"	"Cardioplen XL 2.5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	" "	200000	0
+4454341000033113	"13444911000001103"	"Coversyl Arginine 5mg tablets (Servier Laboratories Ltd)"	"Coversyl Arginine 5mg tablets"	"Tablet"	"Oral"	"Perindopril arginine"	"5.000mg"	"2050501"	40000	0
+1151541000033112	"318902004"	"Ramipril 5mg capsules"	"Ramipril 5mg capsules"	"Capsule"	"Oral"	"Ramipril"	"5.000mg"	"2050501"	30000000	0
+57141000033118	"318052005"	"Amiloride 5mg tablets"	"Amiloride 5mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride"	"5.000mg"	"2020300"	2000000	0
+768541000033119	"39696511000001106"	"Indoramin 20mg tablets"	"Indoramin 20mg tablets"	"Tablet"	"Oral"	"Indoramin hydrochloride"	"20.000mg"	"7040100"	900000	0
+615241000033116	"818511000001106"	"Fru-Co 5mg/40mg tablets (Teva UK Ltd)"	"Fru-Co 5mg/40mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"5.000mg + 40.000mg"	"2020400"	90000	0
+2928541000033119	"653111000001108"	"Tensopril 50mg tablets (Teva UK Ltd)"	"Tensopril 50mg tablets"	"Tablet"	"Oral"	"Captopril"	"50.000mg"	"2050501"	30	0
+470741000033113	"348911000001105"	"Diurexan 20mg tablets (Mylan)"	"Diurexan 20mg tablets"	"Tablet"	"Oral"	"Xipamide"	"20.000mg"	"2020100"	40000	0
+2944841000033113	"4624011000001101"	"Olmetec 10mg tablets (Daiichi Sankyo UK Ltd)"	"Olmetec 10mg tablets"	"Tablet"	"Oral"	"Olmesartan medoxomil"	"10.000mg"	"2050502"	30000	0
+5971741000033116	"15451111000001107"	"Losartan 100mg/5ml oral solution"	"Losartan 100mg/5ml oral solution"	"Oral solution"	"Oral"	"Losartan potassium"	"20.000mg/1.000ml"	" "	300	0
+769241000033112	"302311000001104"	"Innovace 20mg tablets (Organon Pharma (UK) Ltd)"	"Innovace 20mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"20.000mg"	"2050501"	200000	0
+261841000033118	"36089511000001100"	"Clonidine 250microgram modified-release capsules"	"Clonidine 250microgram modified-release capsules"	"Modified-release capsule"	"Oral"	"Clonidine hydrochloride"	"250.000microgram"	" "	3000	0
+769041000033116	"316111000001104"	"Innovace 10mg tablets (Organon Pharma (UK) Ltd)"	"Innovace 10mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"10.000mg"	"2050501"	200000	0
+376641000033112	"318136009"	"Co-amilofruse 5mg/40mg tablets"	"Co-amilofruse 5mg/40mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"5.000mg + 40.000mg"	"2020400"	6000000	0
+788041000033110	"408111000001107"	"Istin 10mg tablets (Upjohn UK Ltd)"	"Istin 10mg tablets"	"Tablet"	"Oral"	"Amlodipine"	"10.000mg"	"2060200"	300000	0
+967741000033115	"319217004"	"Nicardipine 20mg capsules"	"Nicardipine 20mg capsules"	"Capsule"	"Oral"	"Nicardipine hydrochloride"	"20.000mg"	"2060200"	200000	0
+2989541000033115	"408040007"	"Ramipril 1.25mg tablets"	"Ramipril 1.25mg tablets"	"Tablet"	"Oral"	"Ramipril"	"1.250mg"	"2050501"	500000	0
+9159341000033112	"24411411000001100"	"Actelsar HCT 40mg/12.5mg tablets (Actavis UK Ltd)"	"Actelsar HCT 40mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 40.000mg"	" "	9	0
+234841000033110	"3932711000001105"	"Centyl K modified-release tablets (LEO Pharma)"	"Centyl K modified-release tablets"	"Modified-release tablet"	"Oral"	"Bendroflumethiazide/ Potassium chloride"	"2.500mg + 573.000mg"	" "	40000	0
+742841000033114	"285911000001101"	"Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd)"	"Hygroton 50mg tablets"	"Tablet"	"Oral"	"Chlortalidone"	"50.000mg"	"2020100"	50000	0
+285841000033118	"318667005"	"Clonidine 100microgram tablets"	"Clonidine 100microgram tablets"	"Tablet"	"Oral"	"Clonidine hydrochloride"	"100.000microgram"	"6040101"	200000	0
+2272741000033111	"648711000001100"	"Micardis 20mg tablets (Boehringer Ingelheim Ltd)"	"Micardis 20mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"20.000mg"	"2050502"	8000	0
+6045641000033115	"18149011000001101"	"Neo-Naclex 2.5mg tablets (Advanz Pharma)"	"Neo-Naclex 2.5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"2.500mg"	" "	8	0
+1495441000033116	"898211000001109"	"Urizide 5mg tablets (Dr Reddy's Laboratories (UK) Ltd)"	"Urizide 5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"5.000mg"	" "	1	0
+370841000033110	"255911000001105"	"Cozaar-Comp 50mg/12.5mg tablets (Organon Pharma (UK) Ltd)"	"Cozaar-Comp 50mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Losartan potassium"	"12.500mg + 50.000mg"	"2050502"	200000	0
+3086241000033111	"317935006"	"Chlortalidone 50mg tablets"	"Chlortalidone 50mg tablets"	"Tablet"	"Oral"	"Chlortalidone"	"50.000mg"	"2020100"	200000	0
+1455541000033110	"111611000001109"	"Tritace 1.25mg capsules (Aventis Pharma)"	"Tritace 1.25mg capsules"	"Capsule"	"Oral"	"Ramipril"	"1.250mg"	"2050501"	20000	0
+838141000033117	"318858008"	"Lisinopril 5mg tablets"	"Lisinopril 5mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"5.000mg"	"2050501"	10000000	0
+1622141000033114	"477111000001100"	"Kaplon 25mg tablets (Teva UK Ltd)"	"Kaplon 25mg tablets"	"Tablet"	"Oral"	"Captopril"	"25.000mg"	"2050501"	200	0
+1094041000033119	"48511000001101"	"Plendil 10mg modified-release tablets (AstraZeneca UK Ltd)"	"Plendil 10mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	"2060200"	70000	0
+5453941000033119	"8307011000001105"	"Bendroflumethiazide 1.25mg/5ml oral suspension"	"Bendroflumethiazide 1.25mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Bendroflumethiazide"	"250.000microgram/1.000ml"	" "	90	0
+216241000033114	"778011000001109"	"Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Carace 5mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"5.000mg"	" "	30000	0
+818941000033112	"678511000001106"	"Lasoride 5mg/40mg tablets (Sanofi)"	"Lasoride 5mg/40mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"5.000mg + 40.000mg"	"2020400"	200000	0
+3963741000033115	"8278111000001105"	"Amlodipine 10mg/5ml oral suspension"	"Amlodipine 10mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Amlodipine"	"2.000mg/1.000ml"	" "	9000	0
+745841000033115	"3154311000001103"	"Hytrin 5mg tablets (Advanz Pharma)"	"Hytrin 5mg tablets"	"Tablet"	"Oral"	"Terazosin hydrochloride"	"5.000mg"	"7040100"	30000	0
+215941000033111	"315211000001104"	"Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Carace 10mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"10.000mg"	" "	30000	0
+2272641000033119	"134463001"	"Telmisartan 20mg tablets"	"Telmisartan 20mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"20.000mg"	"2050502"	400000	0
+5998241000033112	"8720211000001109"	"Ramipril 1.25mg/5ml oral solution"	"Ramipril 1.25mg/5ml oral solution"	"Oral solution"	"Oral"	"Ramipril"	"250.000microgram/1.000ml"	" "	200	0
+59141000033113	"908511000001100"	"Amias 16mg tablets (Takeda UK Ltd)"	"Amias 16mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"16.000mg"	"2050502"	50000	0
+1918941000033117	"508511000001105"	"Pralenal 20 tablets (Opus Pharmaceuticals Ltd)"	"Pralenal 20 tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"20.000mg"	"2050501"	100	0
+12682241000033110	"36237311000001101"	"Amlodipine 5mg/5ml oral suspension sugar free"	"Amlodipine 5mg/5ml oral suspension sugar free"	"Oral suspension"	"Oral"	"Amlodipine"	"1.000mg/1.000ml"	" "	2000	0
+5566341000033111	"409185001"	"Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets"	"Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Olmesartan medoxomil"	"12.500mg + 40.000mg"	" "	10000	0
+851941000033113	"318956006"	"Losartan 50mg tablets"	"Losartan 50mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"50.000mg"	"2050502"	10000000	0
+4548741000033111	"13731911000001109"	"Telmisartan 80mg / Hydrochlorothiazide 25mg tablets"	"Telmisartan 80mg / Hydrochlorothiazide 25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"25.000mg + 80.000mg"	" "	10000	0
+176741000033114	"344811000001108"	"Cardene 20mg capsules (Astellas Pharma Ltd)"	"Cardene 20mg capsules"	"Capsule"	"Oral"	"Nicardipine hydrochloride"	"20.000mg"	"2060200"	80000	0
+5576441000033112	"13565311000001101"	"Folpik XL 2.5mg tablets (Teva UK Ltd)"	"Folpik XL 2.5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	" "	2000	0
+6012541000033117	"8485611000001104"	"Enalapril 1.25mg/5ml oral suspension"	"Enalapril 1.25mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Enalapril maleate"	"250.000microgram/1.000ml"	" "	60	0
+2883341000033118	"8720911000001100"	"Ramipril 5mg/5ml oral suspension"	"Ramipril 5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Ramipril"	"1.000mg/1.000ml"	" "	8000	0
+2216241000033110	"682711000001109"	"CoAprovel 300mg/12.5mg tablets (Sanofi)"	"CoAprovel 300mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Irbesartan"	"12.500mg + 300.000mg"	"2050502"	80000	0
+5006341000033113	"15772611000001102"	"Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar 40mg/10mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Olmesartan medoxomil"	"10.000mg + 40.000mg"	"2050502"	2000	0
+2989841000033118	"408052000"	"Ramipril 10mg tablets"	"Ramipril 10mg tablets"	"Tablet"	"Oral"	"Ramipril"	"10.000mg"	"2050501"	2000000	0
+3160941000033113	"318880006"	"Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets"	"Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 20.000mg"	"2050501"	800000	0
+5971541000033112	"8622811000001102"	"Lisinopril 7.5mg/5ml oral solution"	"Lisinopril 7.5mg/5ml oral solution"	"Oral solution"	"Oral"	"Lisinopril"	"1.500mg/1.000ml"	" "	50	0
+3190841000033119	"8150111000001108"	"Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)"	"Co-Diovan 80mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Valsartan"	"12.500mg + 80.000mg"	"2050502"	9000	0
+1470341000033112	"191211000001106"	"Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd)"	"Triam-Co 50mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Triamterene"	"25.000mg + 50.000mg"	"2020400"	30000	0
+4571241000033110	"13824811000001102"	"Ethibide XL 1.5mg tablets (Genus Pharmaceuticals Ltd)"	"Ethibide XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	"2020100"	9	0
+937041000033114	"910911000001108"	"Motens 2mg tablets (GlaxoSmithKline UK Ltd)"	"Motens 2mg tablets"	"Tablet"	"Oral"	"Lacidipine"	"2.000mg"	"2060200"	70000	0
+3995341000033119	"10968611000001106"	"CoAprovel 300mg/25mg tablets (Sanofi)"	"CoAprovel 300mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Irbesartan"	"25.000mg + 300.000mg"	" "	6000	0
+522641000033110	"318853004"	"Enalapril 10mg tablets"	"Enalapril 10mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"10.000mg"	"2050501"	5000000	0
+4424741000033110	"13112711000001103"	"Losartan 100mg / Hydrochlorothiazide 12.5mg tablets"	"Losartan 100mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Losartan potassium"	"12.500mg + 100.000mg"	" "	100000	0
+3163241000033112	"318177008"	"Felodipine 5mg modified-release / Ramipril 5mg tablets"	"Felodipine 5mg modified-release / Ramipril 5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine/ Ramipril"	"5.000mg + 5.000mg"	"2050501"	50000	0
+1455641000033111	"835411000001105"	"Tritace 2.5mg capsules (Sanofi)"	"Tritace 2.5mg capsules"	"Capsule"	"Oral"	"Ramipril"	"2.500mg"	"2050501"	30000	0
+9105441000033110	"23985211000001103"	"Perindopril erbumine 8mg / Amlodipine 5mg tablets"	"Perindopril erbumine 8mg / Amlodipine 5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Perindopril erbumine"	"5.000mg + 8.000mg"	" "	2000	0
+9292741000033112	"24573411000001102"	"Tolucombi 80mg/12.5mg tablets (Consilient Health Ltd)"	"Tolucombi 80mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 80.000mg"	" "	2	0
+3154941000033110	"7887511000001107"	"Cardioplen XL 10mg tablets (Chiesi Ltd)"	"Cardioplen XL 10mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	"2060200"	300000	0
+3162941000033114	"39725011000001105"	"Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets"	"Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Acebutolol hydrochloride/ Hydrochlorothiazide"	"200.000mg + 12.500mg"	" "	500	0
+5899041000033115	"8352011000001100"	"Captopril 6.25mg/5ml oral suspension"	"Captopril 6.25mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"1.250mg/1.000ml"	" "	50	0
+4454241000033115	"13445211000001108"	"Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd)"	"Coversyl Arginine 2.5mg tablets"	"Tablet"	"Oral"	"Perindopril arginine"	"2.500mg"	"2050501"	30000	0
+11041000033117	"814111000001108"	"Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Acepril 50mg tablets"	"Tablet"	"Oral"	"Captopril"	"50.000mg"	"2050501"	10000	0
+5150041000033110	"15506811000001105"	"Cozaar 2.5mg/ml oral suspension (Organon Pharma (UK) Ltd)"	"Cozaar 2.5mg/ml oral suspension"	"Oral suspension"	"Oral"	"Losartan potassium"	"2.500mg/1.000ml"	"2050502"	200	0
+769141000033117	"749611000001107"	"Innovace 2.5mg tablets (Organon Pharma (UK) Ltd)"	"Innovace 2.5mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"2.500mg"	"2050501"	60000	0
+2979941000033119	"4785111000001103"	"Felotens XL 5mg tablets (Thornton & Ross Ltd)"	"Felotens XL 5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	"2060200"	100000	0
+2990041000033116	"5010811000001109"	"Tritace 2.5mg tablets (Sanofi)"	"Tritace 2.5mg tablets"	"Tablet"	"Oral"	"Ramipril"	"2.500mg"	"2050501"	20000	0
+1739841000033119	"318943004"	"Imidapril 5mg tablets"	"Imidapril 5mg tablets"	"Tablet"	"Oral"	"Imidapril hydrochloride"	"5.000mg"	"2050501"	30000	0
+9292641000033116	"24573211000001101"	"Tolucombi 40mg/12.5mg tablets (Consilient Health Ltd)"	"Tolucombi 40mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 40.000mg"	" "	3	0
+2989641000033119	"408050008"	"Ramipril 2.5mg tablets"	"Ramipril 2.5mg tablets"	"Tablet"	"Oral"	"Ramipril"	"2.500mg"	"2050501"	1000000	0
+2944541000033111	"408055003"	"Olmesartan medoxomil 10mg tablets"	"Olmesartan medoxomil 10mg tablets"	"Tablet"	"Oral"	"Olmesartan medoxomil"	"10.000mg"	"2050502"	1000000	0
+9159541000033116	"24413611000001103"	"Actelsar HCT 80mg/25mg tablets (Accord Healthcare Ltd)"	"Actelsar HCT 80mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"25.000mg + 80.000mg"	" "	20	0
+3188841000033118	"8046411000001106"	"Amlostin 10mg tablets (Discovery Pharmaceuticals)"	"Amlostin 10mg tablets"	"Tablet"	"Oral"	"Amlodipine"	"10.000mg"	"2060200"	200000	0
+3161041000033115	"35910011000001105"	"Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets"	"Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets"	"Modified-release tablet"	"Oral"	"Bendroflumethiazide/ Potassium chloride"	"2.500mg + 573.000mg"	" "	2000	0
+211841000033117	"318979007"	"Candesartan 8mg tablets"	"Candesartan 8mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"8.000mg"	"2050502"	8000000	0
+4454541000033118	"13454311000001101"	"Perindopril arginine 5mg / Indapamide 1.25mg tablets"	"Perindopril arginine 5mg / Indapamide 1.25mg tablets"	"Tablet"	"Oral"	"Indapamide/ Perindopril arginine"	"1.250mg + 5.000mg"	"2050501"	200000	0
+5967041000033117	"8485711000001108"	"Enalapril 10mg/5ml oral solution"	"Enalapril 10mg/5ml oral solution"	"Oral solution"	"Oral"	"Enalapril maleate"	"2.000mg/1.000ml"	" "	100	0
+9108041000033112	"23707311000001108"	"Captopril 25mg/5ml oral solution sugar free"	"Captopril 25mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Captopril"	"5.000mg/1.000ml"	"2050501"	7000	0
+2945041000033117	"4624611000001108"	"Olmetec 40mg tablets (Daiichi Sankyo UK Ltd)"	"Olmetec 40mg tablets"	"Tablet"	"Oral"	"Olmesartan medoxomil"	"40.000mg"	"2050502"	8000	0
+5568741000033113	"20556011000001103"	"Lisinopril 40mg/5ml oral suspension"	"Lisinopril 40mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Lisinopril"	"8.000mg/1.000ml"	" "	100	0
+4454141000033110	"13454111000001103"	"Perindopril arginine 10mg tablets"	"Perindopril arginine 10mg tablets"	"Tablet"	"Oral"	"Perindopril arginine"	"10.000mg"	"2050501"	60000	0
+1551941000033114	"825311000001100"	"Zestril 10mg tablets (AstraZeneca UK Ltd)"	"Zestril 10mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"10.000mg"	"2050501"	300000	0
+8554141000033116	"22720311000001108"	"Ifirmasta 75mg tablets (Consilient Health Ltd)"	"Ifirmasta 75mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"75.000mg"	" "	20	0
+742641000033113	"4546211000001109"	"Hydrosaluric 50mg tablets (Organon Pharma (UK) Ltd)"	"Hydrosaluric 50mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide"	"50.000mg"	" "	2000	0
+5132041000033112	"8348611000001106"	"Captopril 25mg/5ml oral suspension"	"Captopril 25mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"5.000mg/1.000ml"	" "	2000	0
+2864341000033117	"3806911000001105"	"MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd)"	"MicardisPlus 80mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 80.000mg"	"2050502"	30000	0
+967141000033119	"319218009"	"Nicardipine 30mg capsules"	"Nicardipine 30mg capsules"	"Capsule"	"Oral"	"Nicardipine hydrochloride"	"30.000mg"	"2060200"	100000	0
+3162341000033110	"318100006"	"Triamterene 50mg / Chlortalidone 50mg tablets"	"Triamterene 50mg / Chlortalidone 50mg tablets"	"Tablet"	"Oral"	"Chlortalidone/ Triamterene"	"50.000mg + 50.000mg"	"2020400"	4000	0
+4548841000033118	"13719711000001103"	"MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd)"	"MicardisPlus 80mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"25.000mg + 80.000mg"	" "	1000	0
+13141000033119	"263311000001101"	"Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Acezide 25mg/50mg tablets"	"Tablet"	"Oral"	"Captopril/ Hydrochlorothiazide"	"50.000mg + 25.000mg"	"2050501"	20000	0
+897541000033115	"318673006"	"Methyldopa 500mg tablets"	"Methyldopa 500mg tablets"	"Tablet"	"Oral"	"Methyldopa anhydrous"	"500.000mg"	"2050200"	200000	0
+215441000033118	"368711000001103"	"Catapres 300microgram tablets (Boehringer Ingelheim Ltd)"	"Catapres 300microgram tablets"	"Tablet"	"Oral"	"Clonidine hydrochloride"	"300.000microgram"	"2050200"	2000	0
+3152541000033112	"7668611000001104"	"Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd)"	"Co-Diovan 160mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Valsartan"	"12.500mg + 160.000mg"	"2050502"	10000	0
+837941000033119	"318857003"	"Lisinopril 2.5mg tablets"	"Lisinopril 2.5mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"2.500mg"	"2050501"	5000000	0
+3909241000033111	"10261811000001100"	"Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd)"	"Olmetec Plus 20mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Olmesartan medoxomil"	"25.000mg + 20.000mg"	"2050502"	2000	0
+770141000033115	"146811000001108"	"Innozide 20mg/12.5mg tablets (Organon Pharma (UK) Ltd)"	"Innozide 20mg/12.5mg tablets"	"Tablet"	"Oral"	"Enalapril maleate/ Hydrochlorothiazide"	"20.000mg + 12.500mg"	"2050501"	100000	0
+4521741000033117	"8089811000001107"	"Neofel XL 10mg tablets (Kent Pharma (UK) Ltd)"	"Neofel XL 10mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	"2060200"	100	0
+1622041000033110	"777711000001105"	"Kaplon 12.5mg tablets (Teva UK Ltd)"	"Kaplon 12.5mg tablets"	"Tablet"	"Oral"	"Captopril"	"12.500mg"	"2050501"	70	0
+3083141000033112	"317919004"	"Bendroflumethiazide 2.5mg tablets"	"Bendroflumethiazide 2.5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"2.500mg"	"2020100"	80000000	0
+480541000033110	"3354611000001100"	"Doralese Tiltab 20mg tablets (Chemidex Pharma Ltd)"	"Doralese Tiltab 20mg tablets"	"Tablet"	"Oral"	"Indoramin hydrochloride"	"20.000mg"	"7040100"	100000	0
+3346841000033117	"395497004"	"Losartan 100mg / Hydrochlorothiazide 25mg tablets"	"Losartan 100mg / Hydrochlorothiazide 25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Losartan potassium"	"25.000mg + 100.000mg"	" "	300000	0
+2145841000033114	"318942009"	"Imidapril 20mg tablets"	"Imidapril 20mg tablets"	"Tablet"	"Oral"	"Imidapril hydrochloride"	"20.000mg"	"2050501"	30000	0
+741941000033113	"318649003"	"Hydralazine 25mg tablets"	"Hydralazine 25mg tablets"	"Tablet"	"Oral"	"Hydralazine hydrochloride"	"25.000mg"	"2050100"	500000	0
+3162241000033117	"39691911000001109"	"Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets"	"Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Enalapril maleate/ Hydrochlorothiazide"	"20.000mg + 12.500mg"	"2050501"	80000	0
+971441000033112	"39021711000001108"	"Nicardipine 30mg modified-release capsules"	"Nicardipine 30mg modified-release capsules"	"Modified-release capsule"	"Oral"	"Nicardipine hydrochloride"	"30.000mg"	"2060200"	80000	0
+6044541000033115	"8622411000001104"	"Lisinopril 20mg/5ml oral suspension"	"Lisinopril 20mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Lisinopril"	"4.000mg/1.000ml"	" "	400	0
+2040941000033117	"151411000001103"	"Teveten 400mg tablets (Abbott Healthcare Products Ltd)"	"Teveten 400mg tablets"	"Tablet"	"Oral"	"Eprosartan mesilate"	"400.000mg"	"2050502"	4000	0
+5005841000033114	"429502004"	"Olmesartan medoxomil 20mg / Amlodipine 5mg tablets"	"Olmesartan medoxomil 20mg / Amlodipine 5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Olmesartan medoxomil"	"5.000mg + 20.000mg"	"2050502"	20000	0
+9121841000033116	"24331611000001104"	"Cardide SR 1.5mg tablets (Teva UK Ltd)"	"Cardide SR 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	" "	3000	0
+2036541000033110	"318996008"	"Eprosartan 600mg tablets"	"Eprosartan 600mg tablets"	"Tablet"	"Oral"	"Eprosartan mesilate"	"600.000mg"	"2050502"	500000	0
+2989741000033111	"408051007"	"Ramipril 5mg tablets"	"Ramipril 5mg tablets"	"Tablet"	"Oral"	"Ramipril"	"5.000mg"	"2050501"	1000000	0
+769841000033111	"39696711000001101"	"Indoramin 25mg tablets"	"Indoramin 25mg tablets"	"Tablet"	"Oral"	"Indoramin hydrochloride"	"25.000mg"	"2050400"	30000	0
+615641000033118	"82611000001106"	"Frumil Forte 10mg/80mg tablets (Sanofi)"	"Frumil Forte 10mg/80mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"10.000mg + 80.000mg"	"2020400"	10000	0
+216141000033119	"56711000001109"	"Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Carace 20mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"20.000mg"	" "	30000	0
+216041000033118	"321011000001103"	"Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Carace 2.5mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"2.500mg"	" "	20000	0
+4273241000033118	"14680711000001103"	"Olmesartan medoxomil 10mg/5ml oral suspension"	"Olmesartan medoxomil 10mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Olmesartan medoxomil"	"2.000mg/1.000ml"	" "	100	0
+3333941000033117	"19820711000001101"	"Captopril 8mg/5ml oral suspension"	"Captopril 8mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"1.600mg/1.000ml"	" "	80	0
+1739741000033112	"318944005"	"Imidapril 10mg tablets"	"Imidapril 10mg tablets"	"Tablet"	"Oral"	"Imidapril hydrochloride"	"10.000mg"	"2050501"	60000	0
+838041000033116	"318860005"	"Lisinopril 20mg tablets"	"Lisinopril 20mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"20.000mg"	"2050501"	20000000	0
+5566441000033117	"17220911000001102"	"Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd)"	"Olmetec Plus 40mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Olmesartan medoxomil"	"12.500mg + 40.000mg"	" "	1000	0
+5970641000033117	"8580811000001101"	"Irbesartan 150mg/5ml oral suspension"	"Irbesartan 150mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Irbesartan"	"30.000mg/1.000ml"	" "	90	0
+775641000033115	"318968002"	"Irbesartan 75mg tablets"	"Irbesartan 75mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"75.000mg"	"2050502"	2000000	0
+3279541000033115	"8145711000001102"	"Lisicostad 10mg/12.5mg tablets (Genus Pharmaceuticals Ltd)"	"Lisicostad 10mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 10.000mg"	"2050501"	20	0
+3909141000033116	"10261511000001103"	"Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd)"	"Olmetec Plus 20mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Olmesartan medoxomil"	"12.500mg + 20.000mg"	"2050502"	6000	0
+53841000033117	"35900111000001108"	"Amiloride 5mg/5ml oral solution sugar free"	"Amiloride 5mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Amiloride hydrochloride"	"1.000mg/1.000ml"	"2020300"	20000	0
+8554341000033118	"22720811000001104"	"Ifirmasta 300mg tablets (Consilient Health Ltd)"	"Ifirmasta 300mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"300.000mg"	" "	10	0
+4453941000033114	"13454211000001109"	"Perindopril arginine 2.5mg tablets"	"Perindopril arginine 2.5mg tablets"	"Tablet"	"Oral"	"Perindopril arginine"	"2.500mg"	"2050501"	20000	0
+3227341000033118	"8983911000001107"	"Amias 32mg tablets (Takeda UK Ltd)"	"Amias 32mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"32.000mg"	" "	20000	0
+4805941000033114	"8720711000001102"	"Ramipril 2.5mg/5ml oral suspension"	"Ramipril 2.5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Ramipril"	"500.000microgram/1.000ml"	" "	4000	0
+4508041000033119	"29826311000001101"	"Amlodipine 5mg/5ml oral solution sugar free"	"Amlodipine 5mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Amlodipine"	"1.000mg/1.000ml"	" "	20000	0
+765741000033116	"39020711000001100"	"Indapamide 1.5mg modified-release tablets"	"Indapamide 1.5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	"2020100"	6000000	0
+6180841000033113	"18987011000001101"	"Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar HCT 40mg/10mg/12.5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil"	"10.000mg + 12.500mg + 40.000mg"	"2050502"	6000	0
+6180641000033112	"18986411000001108"	"Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar HCT 20mg/5mg/12.5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil"	"5.000mg + 12.500mg + 20.000mg"	"2050502"	8000	0
+4454441000033119	"13444611000001109"	"Coversyl Arginine 10mg tablets (Servier Laboratories Ltd)"	"Coversyl Arginine 10mg tablets"	"Tablet"	"Oral"	"Perindopril arginine"	"10.000mg"	"2050501"	10000	0
+13241000033114	"231111000001106"	"Accupro 10mg tablets (Pfizer Ltd)"	"Accupro 10mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"10.000mg"	"2050501"	20000	0
+9105341000033116	"23984911000001108"	"Perindopril erbumine 4mg / Amlodipine 10mg tablets"	"Perindopril erbumine 4mg / Amlodipine 10mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Perindopril erbumine"	"10.000mg + 4.000mg"	" "	600	0
+1552241000033111	"823211000001109"	"Zestril 5mg tablets (AstraZeneca UK Ltd)"	"Zestril 5mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"5.000mg"	"2050501"	200000	0
+215341000033112	"215111000001101"	"Catapres 100microgram tablets (Glenwood GmbH)"	"Catapres 100microgram tablets"	"Tablet"	"Oral"	"Clonidine hydrochloride"	"100.000microgram"	"2050200"	20000	0
+2956041000033112	"220711000001102"	"Amoride 5mg tablets (Dr Reddy's Laboratories (UK) Ltd)"	"Amoride 5mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride"	"5.000mg"	" "	8	0
+7755141000033114	"20350911000001100"	"Edarbi 20mg tablets (Takeda UK Ltd)"	"Edarbi 20mg tablets"	"Tablet"	"Oral"	"Azilsartan medoxomil"	"20.000mg"	"2050502"	20	0
+1849841000033116	"527411000001102"	"Micardis 80mg tablets (Boehringer Ingelheim Ltd)"	"Micardis 80mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"80.000mg"	"2050502"	10000	0
+3162641000033119	"407855002"	"Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets"	"Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 40.000mg"	"2050502"	90000	0
+199041000033110	"118811000001102"	"Cardene SR 45mg capsules (Astellas Pharma Ltd)"	"Cardene SR 45mg capsules"	"Modified-release capsule"	"Oral"	"Nicardipine hydrochloride"	"45.000mg"	"2060200"	6000	0
+5971341000033117	"8622111000001109"	"Lisinopril 2.5mg/5ml oral solution"	"Lisinopril 2.5mg/5ml oral solution"	"Oral solution"	"Oral"	"Lisinopril"	"500.000microgram/1.000ml"	" "	400	0
+8961341000033119	"23681711000001107"	"Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd)"	"Noyada 25mg/5ml oral solution"	"Oral solution"	"Oral"	"Captopril"	"5.000mg/1.000ml"	"2050501"	300	0
+3346941000033113	"9566911000001105"	"Cozaar-Comp 100mg/25mg tablets (Organon Pharma (UK) Ltd)"	"Cozaar-Comp 100mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Losartan potassium"	"25.000mg + 100.000mg"	" "	20000	0
+2719841000033113	"8348311000001101"	"Captopril 20mg/5ml oral suspension"	"Captopril 20mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"4.000mg/1.000ml"	" "	800	0
+3940841000033110	"8791811000001109"	"Captopril 2mg capsules"	"Captopril 2mg capsules"	"Capsule"	"Oral"	"Captopril"	"2.000mg"	" "	200	0
+2990141000033117	"5011111000001108"	"Tritace 5mg tablets (Sanofi)"	"Tritace 5mg tablets"	"Tablet"	"Oral"	"Ramipril"	"5.000mg"	"2050501"	30000	0
+4656741000033119	"14242211000001100"	"Tensaid XL 1.5mg tablets (Mylan)"	"Tensaid XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	"2020100"	500	0
+892341000033112	"8667311000001100"	"Methyldopa 250mg/5ml oral suspension"	"Methyldopa 250mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Methyldopa anhydrous"	"50.000mg/1.000ml"	" "	1000	0
+1425341000033119	"318779003"	"Terazosin 2mg tablets"	"Terazosin 2mg tablets"	"Tablet"	"Oral"	"Terazosin hydrochloride"	"2.000mg"	"7040100"	200000	0
+5898741000033114	"8347111000001104"	"Captopril 12.5mg/5ml oral solution"	"Captopril 12.5mg/5ml oral solution"	"Oral solution"	"Oral"	"Captopril"	"2.500mg/1.000ml"	" "	100	0
+214341000033111	"386611000001109"	"Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Capoten 50mg tablets"	"Tablet"	"Oral"	"Captopril"	"50.000mg"	"2050501"	80000	0
+1149341000033118	"318886000"	"Quinapril 10mg tablets"	"Quinapril 10mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"10.000mg"	"2050501"	200000	0
+3995241000033112	"10970311000001105"	"Irbesartan 300mg / Hydrochlorothiazide 25mg tablets"	"Irbesartan 300mg / Hydrochlorothiazide 25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Irbesartan"	"25.000mg + 300.000mg"	" "	50000	0
+897341000033110	"318671008"	"Methyldopa 125mg tablets"	"Methyldopa 125mg tablets"	"Tablet"	"Oral"	"Methyldopa anhydrous"	"125.000mg"	"2050200"	100000	0
+3279241000033117	"20092911000001108"	"Enalapril 5mg/5ml oral suspension sugar free"	"Enalapril 5mg/5ml oral suspension sugar free"	"Oral suspension"	"Oral"	"Enalapril maleate"	"1.000mg/1.000ml"	" "	2000	0
+3909041000033115	"10270711000001105"	"Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets"	"Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Olmesartan medoxomil"	"25.000mg + 20.000mg"	"2050502"	20000	0
+369141000033118	"377566005"	"Co-amilozide 5mg/50mg tablets"	"Co-amilozide 5mg/50mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide"	"5.000mg + 50.000mg"	"2020400"	2000000	0
+214441000033117	"318821008"	"Captopril 25mg tablets"	"Captopril 25mg tablets"	"Tablet"	"Oral"	"Captopril"	"25.000mg"	"2050501"	2000000	0
+11241000033113	"260211000001104"	"Accuretic 10mg/12.5mg tablets (Pfizer Ltd)"	"Accuretic 10mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Quinapril hydrochloride"	"12.500mg + 10.000mg"	"2050501"	20000	0
+11641000033111	"86411000001109"	"Accupro 40mg tablets (Pfizer Ltd)"	"Accupro 40mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"40.000mg"	"2050501"	3000	0
+492341000033115	"132811000001106"	"Dyazide 50mg/25mg tablets (Advanz Pharma)"	"Dyazide 50mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Triamterene"	"25.000mg + 50.000mg"	"2020400"	1000000	0
+13443441000033116	"38240211000001100"	"Lisoretic 10mg/12.5mg tablets (Bristol Laboratories Ltd)"	"Lisoretic 10mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 10.000mg"	" "	2	0
+4021541000033110	"11160211000001101"	"Amlodipine 5mg / Valsartan 160mg tablets"	"Amlodipine 5mg / Valsartan 160mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Valsartan"	"5.000mg + 160.000mg"	"2060200"	30000	0
+1552341000033118	"3143111000001100"	"Zestoretic 20 tablets (AstraZeneca UK Ltd)"	"Zestoretic 20 tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 20.000mg"	"2050501"	300000	0
+3152641000033113	"7668911000001105"	"Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd)"	"Co-Diovan 160mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Valsartan"	"25.000mg + 160.000mg"	"2050502"	7000	0
+6517041000033110	"19877111000001100"	"Ramipril 2.5mg/5ml oral solution sugar free"	"Ramipril 2.5mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Ramipril"	"500.000microgram/1.000ml"	" "	20000	0
+7740641000033112	"20478011000001105"	"Amlodipine 10mg/5ml oral solution"	"Amlodipine 10mg/5ml oral solution"	"Oral solution"	"Oral"	"Amlodipine"	"2.000mg/1.000ml"	" "	1000	0
+4021841000033112	"11161511000001105"	"Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)"	"Exforge 5mg/160mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Valsartan"	"5.000mg + 160.000mg"	"2060200"	4000	0
+3161441000033112	"395521005"	"Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets"	"Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Valsartan"	"12.500mg + 160.000mg"	"2050502"	200000	0
+351941000033111	"8792311000001109"	"Co-amilozide 5mg/50mg/5ml oral solution"	"Co-amilozide 5mg/50mg/5ml oral solution"	"Oral solution"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide"	"1.000mg/1.000ml + 10.000mg/1.000ml"	" "	3000	0
+370441000033112	"266511000001104"	"Cozaar 25mg tablets (Organon Pharma (UK) Ltd)"	"Cozaar 25mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"25.000mg"	"2050502"	30000	0
+6001041000033115	"8351611000001101"	"Captopril 5mg/5ml oral solution"	"Captopril 5mg/5ml oral solution"	"Oral solution"	"Oral"	"Captopril"	"1.000mg/1.000ml"	" "	2000	0
+522841000033111	"318851002"	"Enalapril 5mg tablets"	"Enalapril 5mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"5.000mg"	"2050501"	4000000	0
+7755041000033110	"449333009"	"Azilsartan medoxomil 80mg tablets"	"Azilsartan medoxomil 80mg tablets"	"Tablet"	"Oral"	"Azilsartan medoxomil"	"80.000mg"	"2050502"	600	0
+2101641000033119	"799711000001108"	"Amilamont 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)"	"Amilamont 5mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Amiloride hydrochloride"	"1.000mg/1.000ml"	"2020300"	400	0
+3283141000033118	"9207711000001100"	"Quinil 5mg tablets (Tillomed Laboratories Ltd)"	"Quinil 5mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"5.000mg"	" "	1	0
+3161541000033113	"409298002"	"Valsartan 160mg / Hydrochlorothiazide 25mg tablets"	"Valsartan 160mg / Hydrochlorothiazide 25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Valsartan"	"25.000mg + 160.000mg"	"2050502"	80000	0
+5008141000033111	"8346811000001109"	"Captopril 10mg/5ml oral suspension"	"Captopril 10mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"2.000mg/1.000ml"	" "	300	0
+4957541000033114	"15148111000001100"	"Losartan 12.5mg tablets"	"Losartan 12.5mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"12.500mg"	" "	400000	0
+370241000033111	"410896007"	"Co-triamterzide 50mg/25mg tablets"	"Co-triamterzide 50mg/25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Triamterene"	"25.000mg + 50.000mg"	"2020400"	300000	0
+8276041000033117	"8671311000001103"	"Perindopril erbumine 4mg/5ml oral suspension"	"Perindopril erbumine 4mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Perindopril erbumine"	"800.000microgram/1.000ml"	" "	600	0
+5992641000033112	"8487011000001104"	"Enalapril 5mg/5ml oral suspension"	"Enalapril 5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Enalapril maleate"	"1.000mg/1.000ml"	" "	900	0
+216441000033110	"17311000001102"	"Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Capozide 25mg/50mg tablets"	"Tablet"	"Oral"	"Captopril/ Hydrochlorothiazide"	"50.000mg + 25.000mg"	"2050501"	200000	0
+5898941000033112	"8351911000001107"	"Captopril 6.25mg/5ml oral solution"	"Captopril 6.25mg/5ml oral solution"	"Oral solution"	"Oral"	"Captopril"	"1.250mg/1.000ml"	" "	60	0
+5566041000033114	"16737911000001105"	"Rawel XL 1.5mg tablets (Consilient Health Ltd)"	"Rawel XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	" "	200	0
+2945841000033112	"221411000001104"	"Ecopace 12.5mg tablets (Advanz Pharma)"	"Ecopace 12.5mg tablets"	"Tablet"	"Oral"	"Captopril"	"12.500mg"	"2050501"	5	0
+3162841000033118	"35910111000001106"	"Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets"	"Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets"	"Modified-release tablet"	"Oral"	"Bendroflumethiazide/ Potassium chloride"	"2.500mg + 630.000mg"	" "	10000	0
+2846741000033119	"374667004"	"Perindopril erbumine 8mg tablets"	"Perindopril erbumine 8mg tablets"	"Tablet"	"Oral"	"Perindopril erbumine"	"8.000mg"	"2050501"	8000000	0
+2040841000033113	"401211000001105"	"Teveten 300mg tablets (Mylan)"	"Teveten 300mg tablets"	"Tablet"	"Oral"	"Eprosartan mesilate"	"300.000mg"	"2050502"	8000	0
+2864241000033110	"3806311000001109"	"MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd)"	"MicardisPlus 40mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Telmisartan"	"12.500mg + 40.000mg"	"2050502"	20000	0
+6180941000033117	"18987311000001103"	"Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar HCT 40mg/5mg/25mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil"	"5.000mg + 25.000mg + 40.000mg"	"2050502"	1000	0
+57341000033115	"712211000001108"	"Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd)"	"Amilmaxco 5mg/50mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide"	"5.000mg + 50.000mg"	" "	8000	0
+3038041000033111	"39732011000001102"	"Amlodipine 5mg tablets"	"Amlodipine 5mg tablets"	"Tablet"	"Oral"	"Amlodipine"	"5.000mg"	"2060200"	60000000	0
+1769841000033111	"318906001"	"Ramipril 10mg capsules"	"Ramipril 10mg capsules"	"Capsule"	"Oral"	"Ramipril"	"10.000mg"	"2050501"	40000000	0
+172341000033112	"33911000001104"	"Burinex A 5mg/1mg tablets (LEO Pharma)"	"Burinex A 5mg/1mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Bumetanide"	"5.000mg + 1.000mg"	" "	400000	0
+13344441000033112	"38019311000001102"	"Lacidipine 6mg tablets"	"Lacidipine 6mg tablets"	"Tablet"	"Oral"	"Lacidipine"	"6.000mg"	" "	800	0
+3161741000033117	"318959004"	"Losartan 50mg / Hydrochlorothiazide 12.5mg tablets"	"Losartan 50mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Losartan potassium"	"12.500mg + 50.000mg"	"2050502"	400000	0
+59341000033111	"857411000001100"	"Amias 4mg tablets (Takeda UK Ltd)"	"Amias 4mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"4.000mg"	"2050502"	60000	0
+523541000033115	"318850001"	"Enalapril 2.5mg tablets"	"Enalapril 2.5mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"2.500mg"	"2050501"	2000000	0
+13812841000033112	"39565011000001104"	"Chlortalidone 12.5mg tablets"	"Chlortalidone 12.5mg tablets"	"Tablet"	"Oral"	"Chlortalidone"	"12.500mg"	" "	30	0
+5971941000033118	"14159411000001106"	"Losartan 50mg/5ml oral solution"	"Losartan 50mg/5ml oral solution"	"Oral solution"	"Oral"	"Losartan potassium"	"10.000mg/1.000ml"	" "	600	0
+9108141000033110	"23707511000001102"	"Captopril 5mg/5ml oral solution sugar free"	"Captopril 5mg/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Captopril"	"1.000mg/1.000ml"	"2050501"	7000	0
+5971841000033114	"15451211000001101"	"Losartan 100mg/5ml oral suspension"	"Losartan 100mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Losartan potassium"	"20.000mg/1.000ml"	" "	100	0
+376741000033115	"318137000"	"Co-amilofruse 10mg/80mg tablets"	"Co-amilofruse 10mg/80mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"10.000mg + 80.000mg"	"2020400"	70000	0
+3083241000033117	"317920005"	"Bendroflumethiazide 5mg tablets"	"Bendroflumethiazide 5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"5.000mg"	"2020100"	6000000	0
+851841000033117	"318955005"	"Losartan 25mg tablets"	"Losartan 25mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"25.000mg"	"2050502"	5000000	0
+4454041000033111	"13454411000001108"	"Perindopril arginine 5mg tablets"	"Perindopril arginine 5mg tablets"	"Tablet"	"Oral"	"Perindopril arginine"	"5.000mg"	"2050501"	50000	0
+6180741000033115	"18986711000001102"	"Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar HCT 40mg/5mg/12.5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil"	"5.000mg + 12.500mg + 40.000mg"	"2050502"	4000	0
+5971441000033111	"8622211000001103"	"Lisinopril 2.5mg/5ml oral suspension"	"Lisinopril 2.5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Lisinopril"	"500.000microgram/1.000ml"	" "	100	0
+1093941000033116	"562711000001104"	"Plendil 2.5mg modified-release tablets (AstraZeneca UK Ltd)"	"Plendil 2.5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	"2060200"	60000	0
+1149241000033111	"318885001"	"Quinapril 5mg tablets"	"Quinapril 5mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"5.000mg"	"2050501"	100000	0
+2720241000033110	"245811000001102"	"Cozaar 100mg tablets (Organon Pharma (UK) Ltd)"	"Cozaar 100mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"100.000mg"	"2050502"	50000	0
+214141000033113	"134511000001103"	"Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Capoten 12.5mg tablets"	"Tablet"	"Oral"	"Captopril"	"12.500mg"	"2050501"	100000	0
+12988441000033112	"36812711000001103"	"Lorvacs XL 1.5mg tablets (Torrent Pharma (UK) Ltd)"	"Lorvacs XL 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	" "	100	0
+12107141000033116	"10448811000001101"	"Catapres TTS 1 patches (Imported (Germany))"	"Catapres TTS 1 patches"	"Transdermal patch"	" "	"Clonidine"	"100.000microgram/24.000hour"	" "	80	0
+5900141000033118	"8398511000001100"	"Clonidine 50micrograms/5ml oral solution"	"Clonidine 50micrograms/5ml oral solution"	"Oral solution"	"Oral"	"Clonidine hydrochloride"	"10.000microgram/1.000ml"	" "	3000	0
+1918741000033115	"578511000001100"	"Pralenal 5 tablets (Opus Pharmaceuticals Ltd)"	"Pralenal 5 tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"5.000mg"	"2050501"	200	0
+569141000033116	"39020611000001109"	"Felodipine 5mg modified-release tablets"	"Felodipine 5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	"2060200"	8000000	0
+1387441000033115	"348111000001107"	"Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Staril 20mg tablets"	"Tablet"	"Oral"	"Fosinopril sodium"	"20.000mg"	" "	40000	0
+8263541000033111	"21939811000001102"	"Perindopril tosilate 10mg tablets"	"Perindopril tosilate 10mg tablets"	"Tablet"	"Oral"	"Perindopril tosilate"	"10.000mg"	" "	1000	0
+6044641000033119	"8622311000001106"	"Lisinopril 20mg/5ml oral solution"	"Lisinopril 20mg/5ml oral solution"	"Oral solution"	"Oral"	"Lisinopril"	"4.000mg/1.000ml"	" "	300	0
+3177441000033110	"4972811000001103"	"Felogen XL 5mg tablets (Mylan)"	"Felogen XL 5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	"2060200"	500	0
+377541000033114	"48211000001104"	"Coversyl 2mg tablets (Servier Laboratories Ltd)"	"Coversyl 2mg tablets"	"Tablet"	"Oral"	"Perindopril erbumine"	"2.000mg"	"2050501"	60000	0
+8263341000033116	"21939911000001107"	"Perindopril tosilate 2.5mg tablets"	"Perindopril tosilate 2.5mg tablets"	"Tablet"	"Oral"	"Perindopril tosilate"	"2.500mg"	" "	70	0
+5992541000033111	"8486911000001103"	"Enalapril 5mg/5ml oral solution"	"Enalapril 5mg/5ml oral solution"	"Oral solution"	"Oral"	"Enalapril maleate"	"1.000mg/1.000ml"	" "	2000	0
+3154841000033119	"7887011000001104"	"Cardioplen XL 5mg tablets (Chiesi Ltd)"	"Cardioplen XL 5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	"2060200"	400000	0
+3034341000033117	"5638311000001102"	"Vascalpha 5mg modified-release tablets (Accord Healthcare Ltd)"	"Vascalpha 5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	"2060200"	7000	0
+953141000033119	"456611000001108"	"Natrilix SR 1.5mg tablets (Servier Laboratories Ltd)"	"Natrilix SR 1.5mg tablets"	"Modified-release tablet"	"Oral"	"Indapamide"	"1.500mg"	"2020100"	200000	0
+4954341000033111	"12639511000001103"	"Irbesartan 300mg/5ml oral suspension"	"Irbesartan 300mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Irbesartan"	"60.000mg/1.000ml"	" "	400	0
+8961241000033112	"23682011000001102"	"Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd)"	"Noyada 5mg/5ml oral solution"	"Oral solution"	"Oral"	"Captopril"	"1.000mg/1.000ml"	"2050501"	100	0
+4456241000033111	"8528611000001105"	"Hydralazine 10mg/5ml oral suspension"	"Hydralazine 10mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Hydralazine hydrochloride"	"2.000mg/1.000ml"	" "	200	0
+1918841000033113	"761411000001101"	"Pralenal 10 tablets (Opus Pharmaceuticals Ltd)"	"Pralenal 10 tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"10.000mg"	"2050501"	100	0
+464341000033111	"344511000001105"	"Dixarit 25microgram tablets (Boehringer Ingelheim Ltd)"	"Dixarit 25microgram tablets"	"Tablet"	"Oral"	"Clonidine hydrochloride"	"25.000microgram"	"4070402"	300000	0
+5969841000033119	"12538711000001107"	"Hydrochlorothiazide 5mg/5ml oral solution"	"Hydrochlorothiazide 5mg/5ml oral solution"	"Oral solution"	"Oral"	"Hydrochlorothiazide"	"1.000mg/1.000ml"	" "	90	0
+817541000033119	"319300008"	"Lacidipine 2mg tablets"	"Lacidipine 2mg tablets"	"Tablet"	"Oral"	"Lacidipine"	"2.000mg"	"2060200"	1000000	0
+6181041000033110	"18987611000001108"	"Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar HCT 40mg/10mg/25mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil"	"10.000mg + 25.000mg + 40.000mg"	"2050502"	5000	0
+5898841000033116	"8347211000001105"	"Captopril 12.5mg/5ml oral suspension"	"Captopril 12.5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"2.500mg/1.000ml"	" "	30	0
+2946041000033114	"767911000001101"	"Ecopace 50mg tablets (Advanz Pharma)"	"Ecopace 50mg tablets"	"Tablet"	"Oral"	"Captopril"	"50.000mg"	"2050501"	1	0
+176841000033116	"291111000001102"	"Cardene 30mg capsules (Astellas Pharma Ltd)"	"Cardene 30mg capsules"	"Capsule"	"Oral"	"Nicardipine hydrochloride"	"30.000mg"	"2060200"	30000	0
+10841000033119	"660111000001107"	"Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Acepril 12.5mg tablets"	"Tablet"	"Oral"	"Captopril"	"12.500mg"	"2050501"	20000	0
+8264941000033119	"4093211000001109"	"Triapin 2.5mg/2.5mg modified-release tablets (Sanofi)"	"Triapin 2.5mg/2.5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine/ Ramipril"	"2.500mg + 2.500mg"	"2050501"	300	0
+609141000033111	"318909008"	"Fosinopril 10mg tablets"	"Fosinopril 10mg tablets"	"Tablet"	"Oral"	"Fosinopril sodium"	"10.000mg"	"2050501"	400000	0
+2945941000033116	"817411000001108"	"Ecopace 25mg tablets (Advanz Pharma)"	"Ecopace 25mg tablets"	"Tablet"	"Oral"	"Captopril"	"25.000mg"	"2050501"	8	0
+3136141000033118	"7385711000001106"	"Caralpha 20mg/12.5mg tablets (Actavis UK Ltd)"	"Caralpha 20mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 20.000mg"	" "	8	0
+2928441000033115	"597511000001109"	"Tensopril 25mg tablets (Teva UK Ltd)"	"Tensopril 25mg tablets"	"Tablet"	"Oral"	"Captopril"	"25.000mg"	"2050501"	60	0
+4424841000033117	"13094111000001102"	"Cozaar-Comp 100mg/12.5mg tablets (Organon Pharma (UK) Ltd)"	"Cozaar-Comp 100mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Losartan potassium"	"12.500mg + 100.000mg"	" "	5000	0
+8869441000033119	"23471511000001106"	"Perindopril erbumine 4mg/5ml oral solution"	"Perindopril erbumine 4mg/5ml oral solution"	"Oral solution"	"Oral"	"Perindopril erbumine"	"800.000microgram/1.000ml"	" "	500	0
+41041000033111	"73611000001108"	"Aldomet 500mg tablets (Aspen Pharma Trading Ltd)"	"Aldomet 500mg tablets"	"Tablet"	"Oral"	"Methyldopa anhydrous"	"500.000mg"	"2050200"	30000	0
+3151841000033117	"8306811000001101"	"Bendroflumethiazide 2.5mg/5ml oral suspension"	"Bendroflumethiazide 2.5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Bendroflumethiazide"	"500.000microgram/1.000ml"	" "	10000	0
+217041000033116	"3143511000001109"	"Carace 20 Plus tablets (Organon Pharma (UK) Ltd)"	"Carace 20 Plus tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 20.000mg"	"2050501"	30000	0
+2656341000033110	"8351811000001102"	"Captopril 5mg/5ml oral suspension"	"Captopril 5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Captopril"	"1.000mg/1.000ml"	" "	6000	0
+13443541000033120	"38240011000001105"	"Lisoretic 20mg/12.5mg tablets (Bristol Laboratories Ltd)"	"Lisoretic 20mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 20.000mg"	" "	3	0
+4021441000033114	"11160311000001109"	"Amlodipine 5mg / Valsartan 80mg tablets"	"Amlodipine 5mg / Valsartan 80mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Valsartan"	"5.000mg + 80.000mg"	"2060200"	40000	0
+5576341000033118	"5008911000001100"	"Folpik XL 10mg tablets (Teva UK Ltd)"	"Folpik XL 10mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	" "	1000	0
+7755341000033112	"20351811000001102"	"Edarbi 80mg tablets (Takeda UK Ltd)"	"Edarbi 80mg tablets"	"Tablet"	"Oral"	"Azilsartan medoxomil"	"80.000mg"	"2050502"	90	0
+12684041000033114	"36392711000001102"	"Clonidine 50micrograms/5ml oral solution sugar free"	"Clonidine 50micrograms/5ml oral solution sugar free"	"Oral solution"	"Oral"	"Clonidine hydrochloride"	"10.000microgram/1.000ml"	" "	4000	0
+769741000033118	"424311000001108"	"Nindaxa 2.5 tablets (Ashbourne Pharmaceuticals Ltd)"	"Nindaxa 2.5 tablets"	"Tablet"	"Oral"	"Indapamide hemihydrate"	"2.500mg"	"2020100"	4000	0
+13441000033110	"582611000001106"	"Accupro 5mg tablets (Pfizer Ltd)"	"Accupro 5mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"5.000mg"	"2050501"	20000	0
+4897741000033118	"15773511000001108"	"Amlodipine 1.5mg/5ml oral suspension"	"Amlodipine 1.5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Amlodipine"	"300.000microgram/1.000ml"	" "	200	0
+522741000033118	"318855006"	"Enalapril 20mg tablets"	"Enalapril 20mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"20.000mg"	"2050501"	6000000	0
+2980041000033115	"4785511000001107"	"Felotens XL 10mg tablets (Thornton & Ross Ltd)"	"Felotens XL 10mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	"2060200"	100000	0
+3163341000033119	"318176004"	"Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets"	"Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine/ Ramipril"	"2.500mg + 2.500mg"	"2050501"	8000	0
+7754941000033110	"449109006"	"Azilsartan medoxomil 40mg tablets"	"Azilsartan medoxomil 40mg tablets"	"Tablet"	"Oral"	"Azilsartan medoxomil"	"40.000mg"	"2050502"	800	0
+1274641000033111	"878911000001106"	"Secadrex 200mg/12.5mg tablets (Sanofi)"	"Secadrex 200mg/12.5mg tablets"	"Tablet"	"Oral"	"Acebutolol hydrochloride/ Hydrochlorothiazide"	"200.000mg + 12.500mg"	" "	20000	0
+1552041000033115	"593111000001108"	"Zestril 2.5mg tablets (AstraZeneca UK Ltd)"	"Zestril 2.5mg tablets"	"Tablet"	"Oral"	"Lisinopril"	"2.500mg"	"2050501"	100000	0
+5887841000033118	"8720411000001108"	"Ramipril 10mg/5ml oral solution"	"Ramipril 10mg/5ml oral solution"	"Oral solution"	"Oral"	"Ramipril"	"2.000mg/1.000ml"	" "	600	0
+4429241000033115	"13127311000001107"	"Felotens XL 2.5mg tablets (Thornton & Ross Ltd)"	"Felotens XL 2.5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	"2060200"	30000	0
+9121641000033116	"7387911000001103"	"Parmid XL 5mg tablets (Sandoz Ltd)"	"Parmid XL 5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	" "	9	0
+8263441000033110	"21940111000001100"	"Perindopril tosilate 5mg tablets"	"Perindopril tosilate 5mg tablets"	"Tablet"	"Oral"	"Perindopril tosilate"	"5.000mg"	" "	300	0
+13740241000033120	"38955411000001109"	"Enalapril 20mg tablets (Imported)"	"Enalapril 20mg tablets"	"Tablet"	" "	"Enalapril maleate"	"20.000mg"	" "	1	0
+4521641000033114	"8090111000001106"	"Neofel XL 5mg tablets (Kent Pharma (UK) Ltd)"	"Neofel XL 5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	"2060200"	200	0
+4021941000033116	"11160711000001108"	"Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd)"	"Exforge 10mg/160mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Valsartan"	"10.000mg + 160.000mg"	"2060200"	4000	0
+3159841000033118	"7948911000001100"	"Lopace 5mg capsules (Discovery Pharmaceuticals)"	"Lopace 5mg capsules"	"Capsule"	"Oral"	"Ramipril"	"5.000mg"	"2050501"	50000	0
+9105241000033114	"23985011000001108"	"Perindopril erbumine 4mg / Amlodipine 5mg tablets"	"Perindopril erbumine 4mg / Amlodipine 5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Perindopril erbumine"	"5.000mg + 4.000mg"	" "	1000	0
+12877141000033120	"414426001"	"Hydralazine 10mg tablets"	"Hydralazine 10mg tablets"	"Tablet"	"Oral"	"Hydralazine hydrochloride"	"10.000mg"	" "	30	0
+2928841000033117	"3800311000001106"	"Cabren 2.5mg modified-release tablets (Teva UK Ltd)"	"Cabren 2.5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	" "	300	0
+9121741000033112	"7388311000001103"	"Parmid XL 10mg tablets (Sandoz Ltd)"	"Parmid XL 10mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	" "	8	0
+5006141000033110	"15773211000001105"	"Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd)"	"Sevikar 20mg/5mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Olmesartan medoxomil"	"5.000mg + 20.000mg"	"2050502"	4000	0
+3136041000033117	"7385911000001108"	"Caralpha 10mg/12.5mg tablets (Actavis UK Ltd)"	"Caralpha 10mg/12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 10.000mg"	" "	6	0
+5576541000033113	"5008511000001107"	"Folpik XL 5mg tablets (Teva UK Ltd)"	"Folpik XL 5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	" "	2000	0
+2944641000033112	"385542009"	"Olmesartan medoxomil 20mg tablets"	"Olmesartan medoxomil 20mg tablets"	"Tablet"	"Oral"	"Olmesartan medoxomil"	"20.000mg"	"2050502"	1000000	0
+5888741000033110	"8278311000001107"	"Amlodipine 5mg/5ml oral suspension"	"Amlodipine 5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Amlodipine"	"1.000mg/1.000ml"	" "	5000	0
+937141000033113	"333011000001100"	"Motens 4mg tablets (GlaxoSmithKline UK Ltd)"	"Motens 4mg tablets"	"Tablet"	"Oral"	"Lacidipine"	"4.000mg"	"2060200"	70000	0
+370541000033113	"53611000001106"	"Cozaar 50mg tablets (Organon Pharma (UK) Ltd)"	"Cozaar 50mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"50.000mg"	"2050502"	200000	0
+9209541000033112	"24555611000001102"	"Tolura 80mg tablets (Consilient Health Ltd)"	"Tolura 80mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"80.000mg"	" "	1	0
+935441000033112	"314211000001100"	"Moduret 25 tablets (Organon Pharma (UK) Ltd)"	"Moduret 25 tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide"	"2.500mg + 25.000mg"	"2020400"	200000	0
+7755241000033119	"20351211000001103"	"Edarbi 40mg tablets (Takeda UK Ltd)"	"Edarbi 40mg tablets"	"Tablet"	"Oral"	"Azilsartan medoxomil"	"40.000mg"	"2050502"	50	0
+1543941000033111	"317970008"	"Xipamide 20mg tablets"	"Xipamide 20mg tablets"	"Tablet"	"Oral"	"Xipamide"	"20.000mg"	"2020100"	60000	0
+742541000033112	"4544011000001109"	"Hydrosaluric 25mg tablets (Organon Pharma (UK) Ltd)"	"Hydrosaluric 25mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide"	"25.000mg"	" "	3000	0
+2990241000033112	"5011411000001103"	"Tritace 10mg tablets (Sanofi)"	"Tritace 10mg tablets"	"Tablet"	"Oral"	"Ramipril"	"10.000mg"	"2050501"	40000	0
+5890541000033115	"8720611000001106"	"Ramipril 2.5mg/5ml oral solution"	"Ramipril 2.5mg/5ml oral solution"	"Oral solution"	"Oral"	"Ramipril"	"500.000microgram/1.000ml"	" "	300	0
+8554241000033111	"22720611000001103"	"Ifirmasta 150mg tablets (Consilient Health Ltd)"	"Ifirmasta 150mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"150.000mg"	" "	7	0
+12117941000033118	"7657311000001101"	"Catapres TTS 2 patches (Imported (Germany))"	"Catapres TTS 2 patches"	"Transdermal patch"	" "	"Clonidine"	"200.000microgram/24.000hour"	" "	10	0
+9105541000033112	"23985111000001109"	"Perindopril erbumine 8mg / Amlodipine 10mg tablets"	"Perindopril erbumine 8mg / Amlodipine 10mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Perindopril erbumine"	"10.000mg + 8.000mg"	" "	800	0
+1918641000033112	"448611000001106"	"Pralenal 2.5 tablets (Opus Pharmaceuticals Ltd)"	"Pralenal 2.5 tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"2.500mg"	"2050501"	50	0
+965341000033114	"817911000001100"	"Neo-Naclex 5mg tablets (Mercury Pharma Group Ltd)"	"Neo-Naclex 5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"5.000mg"	"2020100"	30000	0
+1849541000033118	"318986004"	"Telmisartan 40mg tablets"	"Telmisartan 40mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"40.000mg"	"2050502"	1000000	0
+3159741000033111	"7948711000001102"	"Lopace 2.5mg capsules (Discovery Pharmaceuticals)"	"Lopace 2.5mg capsules"	"Capsule"	"Oral"	"Ramipril"	"2.500mg"	"2050501"	40000	0
+285941000033114	"322840006"	"Clonidine 25microgram tablets"	"Clonidine 25microgram tablets"	"Tablet"	"Oral"	"Clonidine hydrochloride"	"25.000microgram"	"6040101"	2000000	0
+1551841000033118	"3144311000001101"	"Zestoretic 10 tablets (AstraZeneca UK Ltd)"	"Zestoretic 10 tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 10.000mg"	"2050501"	100000	0
+775541000033116	"318970006"	"Irbesartan 300mg tablets"	"Irbesartan 300mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"300.000mg"	"2050502"	4000000	0
+2944941000033117	"4624311000001103"	"Olmetec 20mg tablets (Daiichi Sankyo UK Ltd)"	"Olmetec 20mg tablets"	"Tablet"	"Oral"	"Olmesartan medoxomil"	"20.000mg"	"2050502"	30000	0
+1151341000033117	"318900007"	"Ramipril 1.25mg capsules"	"Ramipril 1.25mg capsules"	"Capsule"	"Oral"	"Ramipril"	"1.250mg"	"2050501"	10000000	0
+59441000033117	"36011000001106"	"Amias 8mg tablets (Takeda UK Ltd)"	"Amias 8mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"8.000mg"	"2050502"	80000	0
+817641000033118	"319301007"	"Lacidipine 4mg tablets"	"Lacidipine 4mg tablets"	"Tablet"	"Oral"	"Lacidipine"	"4.000mg"	"2060200"	2000000	0
+287241000033110	"318668000"	"Clonidine 300microgram tablets"	"Clonidine 300microgram tablets"	"Tablet"	"Oral"	"Clonidine hydrochloride"	"300.000microgram"	"6040101"	5000	0
+3190741000033112	"377488008"	"Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets"	"Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Valsartan"	"12.500mg + 80.000mg"	"2050502"	100000	0
+8275941000033110	"14057311000001102"	"Perindopril erbumine 8mg/5ml oral solution"	"Perindopril erbumine 8mg/5ml oral solution"	"Oral solution"	"Oral"	"Perindopril erbumine"	"1.600mg/1.000ml"	" "	100	0
+5971641000033113	"8622911000001107"	"Lisinopril 7.5mg/5ml oral suspension"	"Lisinopril 7.5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Lisinopril"	"1.500mg/1.000ml"	" "	100	0
+5887941000033114	"8720511000001107"	"Ramipril 10mg/5ml oral suspension"	"Ramipril 10mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Ramipril"	"2.000mg/1.000ml"	" "	1000	0
+2746441000033111	"8529611000001101"	"Hydrochlorothiazide 50mg/5ml oral solution"	"Hydrochlorothiazide 50mg/5ml oral solution"	"Oral solution"	"Oral"	"Hydrochlorothiazide"	"10.000mg/1.000ml"	" "	300	0
+3188741000033111	"8046211000001107"	"Amlostin 5mg tablets (Discovery Pharmaceuticals)"	"Amlostin 5mg tablets"	"Tablet"	"Oral"	"Amlodipine"	"5.000mg"	"2060200"	200000	0
+769341000033119	"730211000001104"	"Innovace 5mg tablets (Organon Pharma (UK) Ltd)"	"Innovace 5mg tablets"	"Tablet"	"Oral"	"Enalapril maleate"	"5.000mg"	"2050501"	200000	0
+211541000033119	"318980005"	"Candesartan 16mg tablets"	"Candesartan 16mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"16.000mg"	"2050502"	6000000	0
+5900241000033113	"8398611000001101"	"Clonidine 50micrograms/5ml oral suspension"	"Clonidine 50micrograms/5ml oral suspension"	"Oral suspension"	"Oral"	"Clonidine hydrochloride"	"10.000microgram/1.000ml"	" "	700	0
+5969941000033110	"12538811000001104"	"Hydrochlorothiazide 5mg/5ml oral suspension"	"Hydrochlorothiazide 5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Hydrochlorothiazide"	"1.000mg/1.000ml"	" "	50	0
+1067841000033115	"318896009"	"Perindopril erbumine 2mg tablets"	"Perindopril erbumine 2mg tablets"	"Tablet"	"Oral"	"Perindopril erbumine"	"2.000mg"	"2050501"	10000000	0
+76141000033117	"434511000001104"	"Aprovel 75mg tablets (Sanofi)"	"Aprovel 75mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"75.000mg"	"2050502"	30000	0
+5490241000033113	"13892511000001100"	"Amlodipine 5mg/5ml oral solution"	"Amlodipine 5mg/5ml oral solution"	"Oral solution"	"Oral"	"Amlodipine"	"1.000mg/1.000ml"	" "	4000	0
+2944741000033115	"385543004"	"Olmesartan medoxomil 40mg tablets"	"Olmesartan medoxomil 40mg tablets"	"Tablet"	"Oral"	"Olmesartan medoxomil"	"40.000mg"	"2050502"	500000	0
+8263641000033112	"21940011000001101"	"Perindopril tosilate 5mg / Indapamide 1.25mg tablets"	"Perindopril tosilate 5mg / Indapamide 1.25mg tablets"	"Tablet"	"Oral"	"Indapamide/ Perindopril tosilate"	"1.250mg + 5.000mg"	" "	800	0
+971541000033113	"39021811000001100"	"Nicardipine 45mg modified-release capsules"	"Nicardipine 45mg modified-release capsules"	"Modified-release capsule"	"Oral"	"Nicardipine hydrochloride"	"45.000mg"	"2060200"	40000	0
+74541000033119	"672111000001100"	"Aprinox 2.5mg tablets (Advanz Pharma)"	"Aprinox 2.5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"2.500mg"	"2020100"	80000	0
+6012441000033118	"8485511000001103"	"Enalapril 1.25mg/5ml oral solution"	"Enalapril 1.25mg/5ml oral solution"	"Oral solution"	"Oral"	"Enalapril maleate"	"250.000microgram/1.000ml"	" "	300	0
+13341000033116	"829111000001100"	"Accupro 20mg tablets (Pfizer Ltd)"	"Accupro 20mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"20.000mg"	"2050501"	20000	0
+1903541000033116	"318096005"	"Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets"	"Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Cyclopenthiazide"	"2.500mg + 250.000microgram"	"2020400"	200000	0
+5972041000033112	"14159511000001105"	"Losartan 50mg/5ml oral suspension"	"Losartan 50mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Losartan potassium"	"10.000mg/1.000ml"	" "	500	0
+2720141000033115	"407784004"	"Losartan 100mg tablets"	"Losartan 100mg tablets"	"Tablet"	"Oral"	"Losartan potassium"	"100.000mg"	"2050502"	10000000	0
+3161641000033114	"3437611000001100"	"Perindopril erbumine 4mg / Indapamide 1.25mg tablets"	"Perindopril erbumine 4mg / Indapamide 1.25mg tablets"	"Tablet"	"Oral"	"Indapamide/ Perindopril erbumine"	"1.250mg + 4.000mg"	"2050501"	300000	0
+2955941000033119	"485311000001101"	"Urizide 2.5mg tablets (Dr Reddy's Laboratories (UK) Ltd)"	"Urizide 2.5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide"	"2.500mg"	" "	3	0
+3012741000033115	"8348511000001107"	"Captopril 25mg/5ml oral solution"	"Captopril 25mg/5ml oral solution"	"Oral solution"	"Oral"	"Captopril"	"5.000mg/1.000ml"	" "	8000	0
+4021641000033111	"11160111000001107"	"Amlodipine 10mg / Valsartan 160mg tablets"	"Amlodipine 10mg / Valsartan 160mg tablets"	"Tablet"	"Oral"	"Amlodipine besilate/ Valsartan"	"10.000mg + 160.000mg"	"2060200"	40000	0
+1769941000033115	"43711000001100"	"Tritace 10mg capsules (Sanofi)"	"Tritace 10mg capsules"	"Capsule"	"Oral"	"Ramipril"	"10.000mg"	"2050501"	6000	0
+10217641000033116	"28882211000001100"	"Molap 4mg tablets (Rivopharm (UK) Ltd)"	"Molap 4mg tablets"	"Tablet"	"Oral"	"Lacidipine"	"4.000mg"	" "	5	0
+3227241000033111	"376998003"	"Candesartan 32mg tablets"	"Candesartan 32mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"32.000mg"	" "	2000000	0
+1849741000033114	"924911000001106"	"Micardis 40mg tablets (Boehringer Ingelheim Ltd)"	"Micardis 40mg tablets"	"Tablet"	"Oral"	"Telmisartan"	"40.000mg"	"2050502"	20000	0
+76041000033116	"323211000001107"	"Aprovel 300mg tablets (Sanofi)"	"Aprovel 300mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"300.000mg"	"2050502"	40000	0
+2145741000033116	"533511000001106"	"Tanatril 20mg tablets (Mitsubishi Tanabe Pharma Europe Ltd)"	"Tanatril 20mg tablets"	"Tablet"	"Oral"	"Imidapril hydrochloride"	"20.000mg"	"2050501"	1000	0
+209841000033115	"3144511000001107"	"Carace 10 Plus tablets (Organon Pharma (UK) Ltd)"	"Carace 10 Plus tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Lisinopril"	"12.500mg + 10.000mg"	"2050501"	10000	0
+214241000033118	"455611000001103"	"Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Capoten 25mg tablets"	"Tablet"	"Oral"	"Captopril"	"25.000mg"	"2050501"	200000	0
+74341000033114	"657011000001101"	"Apresoline 25mg tablets (Advanz Pharma)"	"Apresoline 25mg tablets"	"Tablet"	"Oral"	"Hydralazine hydrochloride"	"25.000mg"	"2050100"	70000	0
+1149441000033112	"318887009"	"Quinapril 20mg tablets"	"Quinapril 20mg tablets"	"Tablet"	"Oral"	"Quinapril hydrochloride"	"20.000mg"	"2050501"	300000	0
+376841000033113	"318135008"	"Co-amilofruse 2.5mg/20mg tablets"	"Co-amilofruse 2.5mg/20mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Furosemide"	"2.500mg + 20.000mg"	"2020400"	2000000	0
+11807841000033120	"33628611000001102"	"Benph 5mg tablets (Mylan)"	"Benph 5mg tablets"	"Tablet"	"Oral"	"Terazosin hydrochloride"	"5.000mg"	" "	1	0
+5967141000033118	"8485811000001100"	"Enalapril 10mg/5ml oral suspension"	"Enalapril 10mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Enalapril maleate"	"2.000mg/1.000ml"	" "	200	0
+775441000033117	"318969005"	"Irbesartan 150mg tablets"	"Irbesartan 150mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"150.000mg"	"2050502"	4000000	0
+5149941000033118	"15507411000001105"	"Losartan 2.5mg/ml oral suspension sugar free"	"Losartan 2.5mg/ml oral suspension sugar free"	"Oral suspension"	"Oral"	"Losartan potassium"	"2.500mg/1.000ml"	"2050502"	3000	0
+569041000033115	"39020511000001105"	"Felodipine 10mg modified-release tablets"	"Felodipine 10mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"10.000mg"	"2060200"	6000000	0
+3159941000033114	"7949111000001105"	"Lopace 10mg capsules (Discovery Pharmaceuticals)"	"Lopace 10mg capsules"	"Capsule"	"Oral"	"Ramipril"	"10.000mg"	"2050501"	70000	0
+10941000033110	"517711000001103"	"Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Acepril 25mg tablets"	"Tablet"	"Oral"	"Captopril"	"25.000mg"	"2050501"	30000	0
+59241000033118	"97311000001103"	"Amias 2mg tablets (Takeda UK Ltd)"	"Amias 2mg tablets"	"Tablet"	"Oral"	"Candesartan cilexetil"	"2.000mg"	"2050502"	20000	0
+3152141000033115	"8622611000001101"	"Lisinopril 5mg/5ml oral suspension"	"Lisinopril 5mg/5ml oral suspension"	"Oral suspension"	"Oral"	"Lisinopril"	"1.000mg/1.000ml"	" "	6000	0
+742041000033119	"318650003"	"Hydralazine 50mg tablets"	"Hydralazine 50mg tablets"	"Tablet"	"Oral"	"Hydralazine hydrochloride"	"50.000mg"	"2050100"	300000	0
+1387341000033114	"462511000001104"	"Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)"	"Staril 10mg tablets"	"Tablet"	"Oral"	"Fosinopril sodium"	"10.000mg"	" "	60000	0
+2928341000033114	"673711000001107"	"Tensopril 12.5mg tablets (Teva UK Ltd)"	"Tensopril 12.5mg tablets"	"Tablet"	"Oral"	"Captopril"	"12.500mg"	"2050501"	7	0
+2928941000033113	"3800511000001100"	"Cabren 5mg modified-release tablets (Teva UK Ltd)"	"Cabren 5mg modified-release tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"5.000mg"	" "	600	0
+967041000033118	"3638211000001100"	"Neo-Naclex-K modified-release tablets (Mercury Pharma Group Ltd)"	"Neo-Naclex-K modified-release tablets"	"Modified-release tablet"	"Oral"	"Bendroflumethiazide/ Potassium chloride"	"2.500mg + 630.000mg"	" "	100000	0
+796541000033115	"3252011000001105"	"Kalspare tablets (DHP Healthcare Ltd)"	"Kalspare tablets"	"Tablet"	"Oral"	"Chlortalidone/ Triamterene"	"50.000mg + 50.000mg"	"2020400"	8000	0
+9121541000033116	"24221811000001105"	"Parmid XL 2.5mg tablets (Sandoz Ltd)"	"Parmid XL 2.5mg tablets"	"Modified-release tablet"	"Oral"	"Felodipine"	"2.500mg"	" "	1000	0
+377641000033110	"902211000001100"	"Coversyl 4mg tablets (Servier Laboratories Ltd)"	"Coversyl 4mg tablets"	"Tablet"	"Oral"	"Perindopril erbumine"	"4.000mg"	"2050501"	70000	0
+3160641000033118	"39693411000001102"	"Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets"	"Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Quinapril hydrochloride"	"12.500mg + 10.000mg"	"2050501"	20000	0
+75941000033114	"859711000001103"	"Aprovel 150mg tablets (Sanofi)"	"Aprovel 150mg tablets"	"Tablet"	"Oral"	"Irbesartan"	"150.000mg"	"2050502"	60000	0
+5454041000033117	"8791911000001104"	"Captopril 4mg capsules"	"Captopril 4mg capsules"	"Capsule"	"Oral"	"Captopril"	"4.000mg"	" "	20	0
+768641000033118	"39696211000001108"	"Indapamide 2.5mg tablets"	"Indapamide 2.5mg tablets"	"Tablet"	"Oral"	"Indapamide hemihydrate"	"2.500mg"	"2020100"	9000000	0
+1429041000033118	"318777001"	"Terazosin 10mg tablets"	"Terazosin 10mg tablets"	"Tablet"	"Oral"	"Terazosin hydrochloride"	"10.000mg"	"7040100"	100000	0
+745741000033113	"3147611000001100"	"Hytrin 2mg tablets (Advanz Pharma)"	"Hytrin 2mg tablets"	"Tablet"	"Oral"	"Terazosin hydrochloride"	"2.000mg"	"7040100"	40000	0
+1425441000033113	"439411000001104"	"Tenchlor 50mg/12.5mg tablets (Teva UK Ltd)"	"Tenchlor 50mg/12.5mg tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"50.000mg + 12.500mg"	" "	1000	1
+3161341000033118	"318546001"	"Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets"	"Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Metoprolol tartrate"	"12.500mg + 100.000mg"	" "	4000	1
+1426241000033117	"825011000001103"	"Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd)"	"Tenoret 50mg/12.5mg tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"50.000mg + 12.500mg"	"2040000"	600000	1
+756741000033117	"350811000001100"	"Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd)"	"Inderex 160mg/5mg modified-release capsules"	"Modified-release capsule"	"Oral"	"Bendroflumethiazide/ Propranolol hydrochloride"	"5.000mg + 160.000mg"	" "	40000	1
+90741000033113	"101411000001108"	"Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd)"	"Atenix Co 100 tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"100.000mg + 25.000mg"	"2040000"	10000	1
+1426341000033110	"288711000001105"	"Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd)"	"Tenoretic 100mg/25mg tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"100.000mg + 25.000mg"	"2040000"	1000000	1
+1132741000033111	"98411000001109"	"Prestim tablets (Meda Pharmaceuticals Ltd)"	"Prestim tablets"	"Tablet"	"Oral"	"Bendroflumethiazide/ Timolol maleate"	"2.500mg + 10.000mg"	"2040000"	60000	1
+376541000033111	"377211005"	"Co-tenidone 100mg/25mg tablets"	"Co-tenidone 100mg/25mg tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"100.000mg + 25.000mg"	"2040000"	2000000	1
+375441000033118	"3886211000001102"	"Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd)"	"Corgaretic 40mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide/ Nadolol"	"5.000mg + 40.000mg"	" "	7000	1
+3346641000033118	"318556002"	"Timolol 10mg / Bendroflumethiazide 2.5mg tablets"	"Timolol 10mg / Bendroflumethiazide 2.5mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide/ Timolol maleate"	"2.500mg + 10.000mg"	"2040000"	6000	1
+935341000033118	"74311000001101"	"Moducren tablets (Organon Pharma (UK) Ltd)"	"Moducren tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate"	"2.500mg + 25.000mg + 10.000mg"	" "	90000	1
+1414241000033117	"721411000001106"	"Tenben 25mg/1.25mg capsules (Galen Ltd)"	"Tenben 25mg/1.25mg capsules"	"Capsule"	"Oral"	"Atenolol/ Bendroflumethiazide"	"25.000mg + 1.250mg"	" "	20000	1
+5376441000033114	"16458411000001107"	"Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets (Essential Generics Ltd)"	"Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets"	"Tablet"	"Oral"	"Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate"	"2.500mg + 25.000mg + 10.000mg"	" "	900	1
+1425541000033114	"298311000001107"	"Tenchlor 100mg/25mg tablets (Teva UK Ltd)"	"Tenchlor 100mg/25mg tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"100.000mg + 25.000mg"	" "	2000	1
+372841000033114	"3853411000001104"	"Co-Betaloc SA tablets (Pfizer Ltd)"	"Co-Betaloc SA tablets"	"Modified-release tablet"	"Oral"	"Hydrochlorothiazide/ Metoprolol tartrate"	"25.000mg + 200.000mg"	" "	5000	1
+375541000033117	"4057911000001102"	"Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd)"	"Corgaretic 80mg tablets"	"Tablet"	"Oral"	"Bendroflumethiazide/ Nadolol"	"5.000mg + 80.000mg"	" "	8000	1
+756641000033114	"333111000001104"	"Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd)"	"Inderetic 80mg/2.5mg capsules"	"Capsule"	"Oral"	"Bendroflumethiazide/ Propranolol hydrochloride"	"2.500mg + 80.000mg"	" "	40000	1
+793741000033117	"237011000001100"	"Kalten capsules (M & A Pharmachem Ltd)"	"Kalten capsules"	"Capsule"	"Oral"	"Amiloride hydrochloride/ Atenolol/ Hydrochlorothiazide"	"2.500mg + 50.000mg + 25.000mg"	"2040000"	100000	1
+92441000033119	"629011000001109"	"Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd)"	"Atenix Co 50 tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"50.000mg + 12.500mg"	"2040000"	3000	1
+937341000033111	"4542911000001104"	"Monozide 10 tablets (Wyeth Pharmaceuticals)"	"Monozide 10 tablets"	"Tablet"	"Oral"	"Bisoprolol fumarate/ Hydrochlorothiazide"	"10.000mg + 6.250mg"	" "	3000	1
+372741000033116	"2977611000001106"	"Co-Betaloc tablets (Pfizer Ltd)"	"Co-Betaloc tablets"	"Tablet"	"Oral"	"Hydrochlorothiazide/ Metoprolol tartrate"	"12.500mg + 100.000mg"	" "	40000	1
+376441000033110	"318575007"	"Co-tenidone 50mg/12.5mg tablets"	"Co-tenidone 50mg/12.5mg tablets"	"Tablet"	"Oral"	"Atenolol/ Chlortalidone"	"50.000mg + 12.500mg"	"2040000"	2000000	1

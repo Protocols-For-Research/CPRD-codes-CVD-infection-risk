@@ -1,0 +1,11 @@
+v1	medcodeid	cleansedreadcode	observations	term	snomedctconceptid
+26	79212010	"H421.00"	400	"Simple silicosis"	47515009
+10	21163015	"H34..00"	800000	"Bronchiectasis"	12295008
+83	1772931000006114	" "	80	"Desquamative interstitial pneumonia"	8549006
+123	2867041000006113	" "	8	"Post-tuberculous bronchiectasis"	23022004
+22	301525010	"H341.00"	2000	"Post-infective bronchiectasis"	195985008
+30	301526011	"H34z.00"	30000	"Bronchiectasis NOS"	12295008
+50	38677017	"A115.00"	2000	"Tuberculous bronchiectasis"	23022004
+29	301524014	"H340.00"	8000	"Recurrent bronchiectasis"	195984007
+120	3228331000006111	" "	6	"Swyer-James syndrome"	45145000
+89	5053671000006110	" "	10	"Acquired bronchiectasis"	233628009

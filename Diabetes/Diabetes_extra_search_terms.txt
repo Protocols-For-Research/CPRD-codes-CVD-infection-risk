@@ -1,0 +1,16 @@
+
+diabetes
+diabetic
+HbA1 
+HbA1 less than 7% - good control
+HbA1 7-10% - borderline control
+Hb. A1C < 7% - good control
+Hb. A1C 7-10% - borderline
+Hb. A1C > 10% - bad control
+
+hyperglyc
+hypoglyc
+IDDM
+NIDDM
+Ketoacidosis
+Insulin

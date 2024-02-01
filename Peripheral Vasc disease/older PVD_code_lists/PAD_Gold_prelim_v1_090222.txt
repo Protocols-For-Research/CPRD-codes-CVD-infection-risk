@@ -1,0 +1,484 @@
+	medcode	clinicalevents	readcode	readterm
+41197	1517	139116	G73z000	Intermittent claudication
+75804	1231	132280	G730.00	Raynaud's syndrome
+77788	3530	71320	G73z.00	Peripheral vascular disease NOS
+45723	2760	57752	G73zz00	Peripheral vascular disease NOS
+50931	5943	34023	G73..00	Other peripheral vascular disease
+85732	18499	20647	662U.00	Peripheral vascular disease monitoring
+67761	1002	20472	G730000	Raynaud's disease
+46861	6853	18902	G73z011	Claudication
+50206	5595	16275	G730100	Raynaud's phenomenon
+71981	1826	15523	G73..12	Ischaemia of legs
+11599	106260	11842	9m10.00	Peripheral vascular disease monitoring first letter
+
+99264	1736	10814	7A14.11	Aortic aneurysm repair
+87627	4325	9700	G73yz00	Other specified peripheral vascular disease NOS
+
+81513	6356	8915	7A4B000	Percutaneous transluminal angioplasty of femoral artery
+50598	10827	5664	7A44000	Percutaneous transluminal angioplasty of iliac artery
+85851	14797	4961	G702.00	Extremity artery atheroma
+87444	104394	4726	9hS0.00	Excepted frm peripheral arterial dis qual ind: pt unsuitable
+90229	5702	4603	G73..11	Peripheral ischaemic vascular disease
+61658	104270	4585	9hS1.00	Except frm peripheral arter dis qual indicat: inform dissent
+15993	35399	4115	C107.00	Diabetes mellitus with peripheral circulatory disorder
+92692	2066	3597	7A48z00	Other bypass of femoral artery or popliteal artery NOS
+65600	9561	3528	2G63.00	Ischaemic toe
+54870	24327	3269	M271000	Ischaemic ulcer diabetic foot
+71980	6827	3201	G73..13	Peripheral ischaemia
+27365	9881	3179	M271200	Mixed diabetic ulcer - foot
+75906	105317	2984	G734.00	Peripheral arterial disease
+48100	106224	2963	9m1..00	Peripheral vascular disease monitoring invitation
+85833	1318	2612	G700.00	Aortic atherosclerosis
+82922	4317	2547	G73y200	Acrocyanosis
+102647	98174	2479	G733.00	Ischaemic foot
+107248	18060	2478	7A48.14	Other bypass of femoral artery
+4695	24692	2390	7A48.00	Other bypass of femoral artery or popliteal artery
+65924	18816	2353	7A49200	Endarterectomy of femoral artery NEC
+29372	106660	2139	9m11.00	Peripheral vascular disease monitoring second letter
+99530	29112	2086	7A4B100	Percutaneous transluminal angioplasty of popliteal artery
+28662	23880	2041	G730111	Vibratory white finger
+102184	5414	1948	G732000	Gangrene of toe
+26759	17370	1894	7K6G700	Closed reduction of dislocation of thumb
+95475	7111	1849	7A44300	Insertion of iliac artery stent
+106101	10500	1835	G73y800	Erythromelalgia
+96872	16991	1617	7A4..00	Iliac and femoral artery operations
+33980	3946	1617	7A1A300	Aortography
+75884	9204	1477	G732.00	Peripheral gangrene
+71593	24185	1476	R055100	[D]Cardiogenic shock
+28323	14895	1379	7A12111	Aorto bifemoral graft
+98097	12331	1335	7A48.15	Other bypass of popliteal artery
+40613	5050	1268	ZV7A100	[V]Screening for glaucoma
+75541	17328	1203	7A1..00	Aorta operations
+7991	2761	1163	7A12100	Bypass bifurc aorta by anastom aorta to femoral artery NEC
+102930	39097	1163	G730z00	Raynaud's syndrome NOS
+101598	28777	1122	7A49000	Endarterectomy and patch repair of femoral artery
+35199	106855	1065	9m12.00	Peripheral vascular disease monitoring third letter
+95784	98356	1018	N14A.00	Neurogenic claudication
+29779	36235	1004	67A4.00	Pregnancy exercise advice
+66253	22016	991	7A48E00	Femoro-femoral prosthetic cross over graft
+87360	110926	968	8CMG700	
+82479	17220	949	7A13.11	Emergency repair of aortic aneurysm
+64777	19155	944	G700.11	Aorto-iliac disease
+77697	43108	934	7A14.00	Other replacement of aneurysmal segment of aorta
+92277	9119	919	7A4A200	Open embolectomy of femoral artery
+
+75863	23497	877	G731000	Buerger's disease
+43842	34153	793	7A10200	Axillo-bifemoral bypass graft
+7785	3715	776	G73y600	Acroparaesthesia - unspecified
+104105	18423	776	G76A.00	Arterial insufficiency
+83909	12735	681	G732100	Gangrene of foot
+16652	105704	664	9OXE100	Influenza vaccination invitation second email
+56953	27580	656	7A48000	Bypass femoral artery by fem/pop art anast c prosthesis NEC
+55390	24723	632	7A4B600	Arteriography of femoral artery
+8144	15863	591	G73z100	Spasm of peripheral artery
+115143	17336	577	7A4A212	Open femoral embolectomy
+91980	28030	572	7A48200	Bypass femoral artery by fem/pop art anast c vein graft NEC
+7344	15302	503	G742z00	Peripheral arterial embolism and thrombosis NOS
+90051	28840	485	7A4A500	Operation on aneurysm of femoral artery NEC
+25139	15272	483	G73y700	Erythrocyanosis
+51969	30296	455	7A1A000	Percutaneous transluminal balloon angioplasty of aorta
+32551	104910	453	9hS..00	Exception report: peripherl arterial disease quality indicat
+94739	24229	387	7A44400	Percutaneous transluminal insertion of iliac artery stent
+23945	107372	366	G735.11	Vibration white finger
+88025	47138	360	727A400	Scanning laser ophthalmoscopy evaluation of retina
+54241	14796	344	R055000	[D]Failure of peripheral circulation
+8189	25735	342	7A1z.00	Aorta operations NOS
+10054	28418	342	R055400	[D]Hypovolaemic shock
+96082	83577	330	7A1C000	Endovas ins stent graft for infrarenal abdom aortic aneurysm
+100503	24371	325	7A18.00	Plastic repair of aorta
+26019	40302	317	7A10300	Axillo-unifemoral PTFE bypass graft
+48602	81445	311	7A4B900	Percutaneous transluminal insertion of stent femoral artery
+37215	32403	305	C107.11	Diabetes mellitus with gangrene
+115141	16363	289	7A4A211	Open thrombectomy of femoral artery
+86926	34152	286	G73y000	Diabetic peripheral angiopathy
+26671	27482	285	R055.00	[D]Shock without mention of trauma
+107688	98550	275	M127A11	Actinic elastosis
+107872	30484	273	R055011	[D]Peripheral circulatory failure
+46394	6256	272	7A4B200	Percutaneous transluminal embolectomy of femoral artery
+93650	21927	269	7A41.00	Other bypass of iliac artery
+
+22854	32862	265	ZL1G700	Under care of oral surgeon
+23594	34037	261	7A43300	Open insertion of iliac artery stent
+104505	31613	260	7A13.00	Emergency replacement of aneurysmal segment of aorta
+41131	5597	239	7A16400	Bypass of abdominal aorta by anastomosis aorta to aorta NEC
+57573	11766	239	7A47.16	Other emergency bypass of femoral artery
+74575	39437	239	7A4A300	Open embolectomy popliteal artery
+66082	3778	238	7A12311	Aorto biiliac graft
+16903	38907	234	G73y.00	Other specified peripheral vascular disease
+15281	63357	232	C107100	Diabetes mellitus, adult, + peripheral circulatory disorder
+107826	16148	224	SP12.00	Peripheral vascular complications of care
+7536	97217	218	7A1B800	Endovascul insert stent infrarenal abdominal aortic aneurysm
+3753	33430	218	7A19400	Operation on aneurysm of aorta NEC
+81592	46465	209	7A4B.00	Transluminal operations on femoral or popliteal artery
+101846	107272	205	G735.00	HAVS - Hand-arm vibration syndrome
+74943	42640	204	7A48y00	Other bypass of femoral artery or popliteal artery OS
+14220	41768	203	7A41F00	Ilio-femoral prosthetic cross over graft
+48894	23079	201	R055511	[D]Septicaemic shock
+6983	37806	201	C10FF00	Type 2 diabetes mellitus with peripheral angiopathy
+21638	47835	191	7A49600	Profundoplasty of femoral artery NEC
+69412	30466	184	7A1A100	Percutaneous transluminal angioplasty of aorta NEC
+39031	25343	182	ZL5G700	Referral to orthodontist
+37118	33555	180	7A4A000	Repair of femoral artery NEC
+96735	28651	179	7A4z.00	Iliac and femoral artery operations NOS
+37418	110450	176	PG73.00	Congenital umbilical hernia
+87122	15532	170	7A12300	Bypass bifurcation aorta by anastom aorta to iliac artery
+37214	32556	170	C107.12	Diabetes with gangrene
+75379	17347	166	7A4..11	Leg artery operations
+41356	39749	150	7A43200	Operation on aneurysm of iliac artery NEC
+40732	34638	148	G731.00	Thromboangiitis obliterans
+57575	39776	146	7A47.14	Other emergency bypass of popliteal artery
+35926	9099	142	7A47.00	Other emergency bypass of femoral artery or popliteal artery
+34571	89731	137	7A1AA00	Percutaneous transluminal insertion of stent into aorta
+63280	53634	136	R054200	[D]Gangrene of toe in diabetic
+
+50049	16260	131	G702z00	Extremity artery atheroma NOS
+115276	23352	130	7A10100	Bypass aorta by anastomosis axillary to femoral artery NEC
+78305	55877	129	7A44z00	Transluminal operation on iliac artery NOS
+113543	20892	128	7A4A.13	Other open operations on popliteal artery
+73864	24677	128	7A4Ay00	Other open operation on femoral or popliteal artery OS
+77675	36952	126	7A12.00	Other bypass of bifurcation of aorta
+33981	35023	124	7A1y.00	Other specified operations on aorta
+65383	36008	124	7A19100	Endarterectomy of aorta NEC
+5586	28616	123	7A41100	Bypass iliac artery by iliac/femoral artery anastomosis NEC
+91243	20078	119	7A18z00	Plastic repair of aorta NOS
+61778	59534	119	14NB.00	H/O: Peripheral vascular disease procedure
+25609	70446	116	7A1B000	Endovascular stenting infrarenal abdominal aortic aneurysm
+40932	44439	116	7A46.14	Other replacement of aneurysmal popliteal artery
+42081	39949	115	G732200	Gangrene of finger
+61762	36651	112	7A14z00	Other replacement of aneurysmal segment of aorta NOS
+
+90820	40397	108	7A4A.00	Other open operations on femoral artery or popliteal artery
+101809	28166	107	7A12112	Dacron aortofemoral Y graft
+7345	19996	107	7A14400	Replace aneurysm abdominal aorta by anast aorta to aorta NEC
+98622	51124	107	7A4A400	Ligation of aneurysm of popliteal artery
+74313	49878	104	7A18100	Plastic repair of aorta using subclavian flap
+60891	18038	103	7A50200	Revision of reconstruction involving femoral artery
+32151	65025	102	C107z00	Diabetes mellitus NOS with peripheral circulatory disorder
+55642	40028	101	7A1A311	Arteriography of aorta
+93265	42645	101	7A4A311	Open thrombectomy of popliteal artery
+64107	52289	95	7A4B300	Percutaneous transluminal embolectomy of popliteal artery
+80832	46168	93	7A4y.00	Other specified operations on iliac and femoral artery
+60984	102684	92	7A10400	Bypass aorta anastomosis axillary artery bi femoral arteries
+98497	44430	91	7A42111	Endarterectomy of common iliac artery NEC
+
+93064	31338	89	7A49.00	Reconstruction of femoral artery or popliteal artery
+77773	37639	89	7A16.00	Other bypass of segment of aorta
+21	63396	87	7A49.13	Reconstruction of femoral artery
+37955	18051	86	7A19300	Operation on aortic body
+39760	41823	81	7A48600	Bypass femoral artery by fem/tib art anast c vein graft NEC
+72422	48846	80	7A4A600	Operation on popliteal artery NEC
+66576	19825	80	5593.00	Femoral arteriogram abnormal
+97054	38546	80	7A1..11	Dacron graft operations on aorta
+114964	45428	78	7A48C00	Bypass femoral artery by femoral/femoral art anastomosis NEC
+85148	56803	77	C107400	NIDDM with peripheral circulatory disorder
+111060	28119	76	7A4A100	Repair of popliteal artery NEC
+68915	51720	76	7A4B.15	Transluminal procedure on superficial femoral artery
+35717	44097	72	7A44.00	Transluminal operations on iliac artery
+87441	52473	70	7A4B.14	Transluminal procedure on popliteal artery
+67704	33807	69	C107200	Diabetes mellitus, adult with gangrene
+16569	91462	64	7A1C200	Endov insertion of stent graft for thoracic aortic aneurysm
+56697	37577	64	7A44211	Arteriography of common iliac artery
+110774	17111	62	7A18300	Release of vascular ring of aorta
+57055	67046	62	7A18600	Repair of interrupted aortic arch
+111002	101866	62	G73z012	Vascular claudication
+9552	49943	61	7A44200	Arteriography of iliac artery
+28216	26232	60	7A14411	Tube graft of Abdominal aortic aneurysm
+76957	51211	60	7A42100	Endarterectomy of iliac artery NEC
+45967	31053	60	R054300	[D]Widespread diabetic foot gangrene
+64179	42115	59	7A48D00	Bypass popliteal artery by pop/fem artery anastomosis NEC
+53869	57531	58	PKy7A11	Beals syndrome
+31448	109957	57	67A1200	Prov information about extensively hydrolysed infant formula
+63620	30989	57	7A41311	Femoro-femoral prosthetic cross over graft
+5798	44553	57	7A14300	Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+60554	95976	55	7A1B500	Endovascular stenting of aorto-uniiliac aneurysm
+84659	36443	53	7A41300	Bypass iliac artery by femoral/femoral art anastomosis NEC
+12667	55319	53	7A18200	Plastic repair of aorta using patch graft
+78675	52358	53	7A11.00	Replacement of aneurysmal bifurcation of aorta
+91700	92330	50	7A18111	Hamilton repair coarctation of aorta using subclavian flap
+110721	24097	50	7A48300	Bypass popliteal artery by pop/pop a anast c vein graft NEC
+98098	37787	50	7A48.12	Other bypass of common femoral artery
+17	28125	47	7A49.14	Reconstruction of popliteal artery
+114890	104639	47	C10FF11	Type II diabetes mellitus with peripheral angiopathy
+50766	69124	46	C107300	IDDM with peripheral circulatory disorder
+78948	94331	46	7A1C.00	Translum insert stent graft for aneurysmal segment of aorta
+89631	46125	45	7A45.14	Emergency replacement of aneurysmal popliteal artery
+62281	69346	44	7A46.00	Other replacement of aneurysmal femoral artery
+105370	22834	43	G73y400	Acroparaesthesia - Schultze's type
+101960	49319	43	7A4A.14	Other open operations on superficial femoral artery
+64915	56429	42	P76z.00	Peripheral vascular system anomaly NOS
+44132	99787	42	7A1BB00	Endovascular ins stent for aortic dissection in any position
+98101	61974	41	7A48.11	Other bypass of femoral or popliteal artery by anastomosis
+53156	93959	40	7A1B.00	Transluminal operations on aneurysmal segment of aorta
+90436	51166	40	7A11311	Y graft abdominal Aortic aneurysm
+8712	98556	40	38DJ.00	Edinburgh claudication questionnaire
+12623	39877	39	7A48400	Bypass femoral artery by fem/tib art anast c prosthesis NEC
+107216	40732	38	7A48.16	Other bypass of superficial femoral artery
+23378	51804	38	G702000	Monckeberg's medial sclerosis
+81712	47562	37	7A43111	Open embolectomy of common iliac artery
+48253	36136	37	7A49300	Endarterectomy of popliteal artery NEC
+105417	62264	36	7A6G700	Insertion of vascular closure device
+68534	51331	36	7A43.00	Other open operations on iliac artery
+21721	95147	36	ByuG700	[X]Benign lipomatous neoplasm of other sites
+73913	38921	35	7A41z00	Other bypass of iliac artery NOS
+34085	89714	35	7A1C300	Endov ins stent graft for aortic dissection in any position
+92016	39962	35	7A18000	Plastic repair of aorta and end to end anastomosis of aorta
+89701	53580	35	7A43.11	Other open operations on common iliac artery
+22624	64798	35	7A12z00	Other bypass of bifurcation of aorta NOS
+57482	41825	35	55A2.00	Lower limb arteriogram abnorm.
+11672	53163	34	7A19.00	Other open operations on aorta
+19676	36928	34	7A19z00	Other open operation on aorta NOS
+28931	52869	33	7A49800	Reconstruction of femoral artery with vein graft
+39898	6617	33	7A49z00	Reconstruction of femoral or popliteal artery NOS
+111522	53675	33	7A48A00	Bypass femoral artery by fem/peron a anast c vein graft NEC
+56507	47538	33	7A4Az00	Other open operation on femoral or popliteal artery NOS
+3465	98542	32	7A1BA00	Endovascular insertion of stent for thoracic aortic aneurysm
+48988	57793	32	7A49400	Profundoplasty femoral artery & patch repair deep fem artery
+6267	61256	32	7A43000	Repair of iliac artery NEC
+44956	39443	32	7A4B611	Arteriography of popliteal artery
+69059	43651	31	7A47000	Emerg bypass femoral art by fem/pop art anast c prosth NEC
+87447	52462	31	7A4B.13	Transluminal procedure on femoral artery
+47509	57539	31	7A1A.11	Percutaneous transluminal operations on aorta
+13375	40115	31	Z7A1B00	Process training
+55975	43179	31	7A19000	Endarterectomy of aorta and patch repair of aorta
+35146	73961	31	Gyu7400	[X]Other specified peripheral vascular diseases
+102373	69519	31	7A49900	Reconstruction of popliteal artery with vein graft
+12076	63408	30	7A13411	Tube graft abdominal Aortic aneurysm (emergency)
+89155	46104	29	R055200	[D]Endotoxic shock
+59618	64961	28	7A14000	Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+54364	55445	28	7A14y00	Other replacement of aneurysmal segment of aorta OS
+105848	51061	27	7A1B200	Endovascular stenting of thoracic aortic aneurysm
+115554	42611	27	G73y811	Erythralgia
+
+17158	89198	26	7A1A500	Percutaneous transluminal balloon angioplasty stenting aorta
+38029	36065	26	7A42011	Endarterectomy and patch repair of common iliac artery
+86976	86810	26	7A1A600	Percutan transluminal aortic stent graft fenestration NEC
+64664	73822	25	7A49.11	Reconstruction of common femoral artery
+52869	66914	25	7A10.00	Extraanatomic bypass of aorta
+85245	52342	25	7A47200	Emerg bypass femoral art by fem/pop a anast c vein graft NEC
+12016	90504	25	7A18500	Plastic repair of aorta and insertion of tube graft
+57715	48700	25	7A48700	Bypass popliteal artery by pop/tib a anast c vein graft NEC
+68462	61666	24	7A45.00	Emergency replacement of aneurysmal femoral/popliteal artery
+94113	42751	24	7A16z00	Other bypass of segment of aorta NOS
+38027	59602	24	7A42012	Iliac endarterectomy and patch
+27156	66437	23	7A43011	Repair of common iliac artery NEC
+66847	66930	23	7A44100	Percutaneous transluminal embolectomy of iliac artery
+75068	18030	22	7A4B800	Percut translum thrombolysis femoral graft streptokinase
+86833	52357	22	7A41y00	Other specified other bypass of iliac artery
+52785	48768	22	7A1Az00	Transluminal operation on aorta NOS
+112947	59756	21	7A40.00	Replacement of aneurysmal iliac artery
+83403	52695	21	7A49100	Endarterectomy and patch repair of popliteal artery
+41779	42444	20	7A14100	Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+37286	71041	19	7A4B400	Percutaneous transluminal embolisation of femoral artery
+66265	41583	19	7A4By00	Transluminal operation on femoral or popliteal artery OS
+68735	57141	19	7A1A.00	Transluminal operations on aorta
+21281	63711	19	7A4Bz00	Transluminal operation on femoral or popliteal artery NOS
+9708	48939	18	7A47C00	Emerg bypass femoral artery by fem/fem art anastomosis NEC
+
+115030	45474	18	7A13z00	Emergency replacement of aneurysmal segment of aorta NOS
+47418	40799	18	7M27100	Pectoralis major myocutaneous flap
+87392	68320	18	7A47z00	Other emergency bypass of femoral or popliteal artery NOS
+69270	56510	18	7A11300	Replace aneurysm bifurc aorta by anast aorta to iliac artery
+
+21780	62331	18	A3BXE00	Proteus(mirabilis)(morganii)cause/dis classfd/oth chapter
+113542	60212	17	7A4A.11	Other open operations on common femoral artery
+103701	61255	17	7A43100	Open embolectomy of iliac artery
+
+66083	42465	17	7A12312	Dacron aortoiliac Y graft
+72696	62818	17	7A42000	Endarterectomy and patch repair of iliac artery
+6975	23672	16	G732400	Gangrene of hand
+43034	65286	16	7A50300	Revision of reconstruction of popliteal artery
+10170	55402	16	7A19200	Open embolectomy of bifurcation of aorta
+112928	39039	16	7A42.00	Reconstruction of iliac artery
+5067	67083	16	7A49y00	Reconstruction of femoral or popliteal artery OS
+33130	54192	16	7A13400	Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
+69284	32492	15	7A41900	Bypass common iliac artery by aorta/com iliac art anast NEC
+87737	20657	15	7A50.00	Revision of reconstruction of artery
+16443	50122	15	7A1A200	Percutaneous transluminal embolectomy of aortic bifurcation
+33353	94069	15	7A1C400	Endovas insertion of stent graft for aortic bifurcation NEC
+104530	31822	15	7A15.00	Other emergency bypass of segment of aorta
+24291	51057	15	G732300	Gangrene of thumb
+48947	67839	14	7A10y00	Other specified extraanatomic bypass of aorta
+33843	55554	14	7A41B00	Bypass leg artery by aorta/com femoral art anastomosis NEC
+25280	54071	14	7A50000	Revision of reconstruction involving aorta
+68184	83527	14	7A1B300	Endovascular stenting of aortic dissection in any position
+105411	87370	14	7A1A700	Percutaneous transluminal aortic stent graft branches NEC
+114923	23871	14	G73y100	Peripheral angiopathic disease EC NOS
+93933	86053	13	7A19y00	Other specified other open operation on aorta
+113003	59518	13	7A16y00	Other specified other bypass of segment of aorta
+10789	72510	13	R055z00	[D]Shock without mention of trauma NOS
+13820	62866	13	7A42z00	Reconstruction of iliac artery NOS
+26321	99859	13	7A1BC00	Endovas insert stent for aortic aneurysm of bifurcation NEC
+113997	90861	13	7A1Bz00	Transluminal operations on aneurysmal segment of aorta NOS
+97965	100579	12	Gyu7000	[X]Atherosclerosis of other arteries
+83690	70635	12	7A4B700	Arteriography of popliteal artery
+90256	63280	12	7A42.11	Reconstruction of common iliac artery
+115914	29632	12	7A1A400	Transoesophageal aortography
+35929	95381	12	Gyu7300	[X]Aneurysm of other specified arteries
+51934	52497	12	7A18y00	Other specified plastic repair of aorta
+6891	54461	12	Z7A1800	Visual processing training
+42699	65692	12	7A47y00	Other emergency bypass of femoral or popliteal artery OS
+33854	66232	11	7A13300	Emerg replace aneurysm infrarenal aorta by anast aorta/aorta
+101877	44250	11	7A41000	Emerg bypass iliac art by iliac/femoral art anastomosis NEC
+102943	72448	11	7A41200	Emerg bypass iliac artery by femoral/femoral art anast NEC
+75027	33209	10	Z7A1A00	Executive functions training
+30207	92925	10	7A11211	Y graft of abdominal Aortic aneurysm (emergency)
+7356	55825	10	7A12y00	Other specified other bypass of bifurcation of aorta
+30077	60465	10	7A48500	Bypass popliteal artery by pop/tib a anast c prosthesis NEC
+8125	61978	10	7A16300	Bypass of infrarenal aorta by anastomosis aorta to aorta NEC
+25391	48755	10	7A12000	Emerg bypass bifurc aorta by anast aorta to femoral artery
+24287	55324	10	7A43y00	Other specified other open operation on iliac artery
+60961	28894	10	7A44y00	Other specified transluminal operation on iliac artery
+42178	54212	10	C109F00	Non-insulin-dependent d m with peripheral angiopath
+4345	65669	10	7A49700	Profundoplasty of popliteal artery NEC
+16318	66804	9	7A41C00	Bypass leg artery by aorta/deep femoral art anastomosis NEC
+26255	89705	9	727A100	Indocyanine angiography evaluation of retina
+18774	44528	9	SP12z00	Peripheral vascular complications of care NOS
+74223	64555	9	7A48100	Bypass popliteal artery by pop/pop a anast c prosthesis NEC
+69816	90549	9	7A1B400	Endovascular stenting of aortic bifurcation NEC
+53242	45477	9	7A13y00	Emergency replacement of aneurysmal segment of aorta OS
+73241	59187	9	7A44.11	Transluminal operations on common iliac artery
+73417	57822	9	7A43z00	Other open operation on iliac artery NOS
+9103	43648	8	7A41211	Emergency femoro-femoral prosthetic cross over graft
+7927	49273	8	7A50100	Revision of reconstruction involving iliac artery
+65258	93468	8	C10EG00	Type 1 diabetes mellitus with peripheral angiopathy
+105214	56495	8	7A11100	Replace aneurysm bifurc aorta by anast aorta to femoral art
+97564	53891	8	7A1Ay00	Other specified transluminal operation on aorta
+
+74978	67982	8	7A48800	Bypass femoral artery by fem/peron a anast c prosthesis NEC
+53778	72491	8	7A47.11	Other emerg bypass femoral or popliteal art by anastomosis
+8258	97030	8	7A1B100	Endovascular stenting of suprarenal aortic aneurysm
+51823	69922	7	7A11200	Emerg repl aneurysm bifurc aorta by anast aorta to iliac a
+95868	96809	7	7A49.15	Reconstruction of superficial femoral artery
+48158	103427	7	7A1C500	Endovas insertion of stent graft for aorto-uniiliac aneurysm
+93362	109126	7	67A1100	Provisn of information about amino acid-based infant formula
+42693	100195	7	7A1B600	Endovascular stenting for aortic aneurysm of bifurcation NEC
+55084	63368	7	7A4A700	Repair of femoral artery with temporary silastic shunt
+104605	98211	7	7A17.00	Attention to prosthesis of aorta
+105104	106780	7	7A1B900	Endovascular insertion stent for suprarenal aortic aneurysm
+16605	95573	7	7A10000	Emerg aortic bypass by anastomosis axillary to femoral art
+8983	98175	7	7A1BD00	Endovascular insertion of stent for aorto-uniiliac aneurysm
+115242	94682	7	7A1C100	Endovas insert of stent graft for suprarenal aortic aneurysm
+52498	66761	7	7A11z00	Replacement of aneurysmal bifurcation of aorta NOS
+41015	40068	6	G731100	Presenile gangrene
+
+89630	94784	6	7A45.15	Emergency replacement aneurysmal superficial femoral artery
+105882	66820	6	7A47400	Emerg bypass femoral art by fem/tib art anast c prosth NEC
+14123	69258	6	Z7A1600	Orientation training
+13337	68412	6	7A48B00	Bypass popliteal art by pop/peron art anast c vein graft NEC
+4799	61312	6	ZS7A111	Developmental semantic disorder
+61100	53050	6	7A16000	Bypass of ascending aorta by anastomosis aorta to aorta NEC
+60210	96656	6	7A46z00	Other replacement of aneurysmal femoral/popliteal artery NOS
+70495	69099	6	Gyu7600	[X]Other specified disorders of arteries and arterioles
+55773	94556	6	7A46y00	Other replacement of aneurysmal femoral/popliteal artery OS
+65031	105136	6	7A18400	Revision of plastic repair of aorta
+31188	63605	5	7A49500	Profundoplasty and patch repair of popliteal artery
+41023	50894	5	7A42y00	Other specified reconstruction of iliac artery
+70119	96912	5	7A1A800	Transluminal aortic stent graft with fenestration NEC
+108863	96255	5	7A47600	Emerg bypass femoral art by fem/tib a anast c vein graft NEC
+6716	67401	5	G731z00	Thromboangiitis obliterans NOS
+17275	97661	5	7A46C00	Replace aneurysm fem artery by fem/fem art anastomosis NEC
+73673	99049	5	SyuG700	[X]Toxic effects of other specified gases, fumes & vapours
+2978	100602	5	27A1.00	O/E - VE - P.P high
+33937	66316	5	7A17100	Revision of prosthesis of bifurcation of aorta
+59236	60699	5	C109F12	Type 2 diabetes mellitus with peripheral angiopathy
+66940	66879	4	7A47700	Emerg bypass pop art by pop/tib art anast c vein graft NEC
+59233	54899	4	C109F11	Type II diabetes mellitus with peripheral angiopathy
+37486	70922	4	7A47D00	Emerg bypass popliteal artery by pop/fem art anastomosis NEC
+40933	103731	4	7A46.15	Other replacement of aneurysmal superficial femoral artery
+32846	70448	4	C107000	Diabetes mellitus, juvenile +peripheral circulatory disorder
+27407	106488	4	7A40y00	Other specified replacement of aneurysmal iliac artery
+28527	40619	4	7A4B500	Percutaneous transluminal embolisation of popliteal artery
+86035	95503	4	7A40z00	Replacement of aneurysmal iliac artery NOS
+110279	66869	4	7A4A800	Repair of popliteal artery with temporary silastic shunt
+87446	107740	4	7A4B.11	Transluminal procedure on common femoral artery
+52699	25954	4	G73y500	Acroparaesthesia - Nothnagel's type
+51928	65813	4	7A17200	Revision of prosthesis of abdominal aorta NEC
+53141	109425	4	Gyu7500	[X]Embolism and thrombosis of other arteries
+71337	72632	4	A3A0F00	Gas gangrene-foot
+6498	102725	4	Gyu7100	[X]Aortic aneurysm of unspecified site, ruptured
+73631	68698	4	G73y511	Nothnagel's vasomotor acroparaesthesia
+80000	111245	4	Gyu7700	[X]Other diseases of capillaries
+81572	60693	4	7A47300	Emerg bypass pop art by pop/pop art anast c vein graft NEC
+16600	96472	3	7A46000	Replace aneurysm fem art by fem/pop art anastom c prosth NEC
+85341	67818	3	7A47100	Emerg bypass popliteal art by pop/pop art anast c prosth NEC
+106645	41231	3	Gyu7.00	[X]Diseases of arteries, arterioles and capillaries
+535	101910	3	7A41.11	Other bypass of iliac artery by anastomosis
+
+69365	95721	3	7A17300	Removal of prosthesis from aorta
+115269	71141	3	7A46300	Replace aneurysm pop art by pop/pop a anast c vein graft NEC
+461	93627	3	7A1Cz00	Translum ins stent graft for aneurysmal segment of aorta NOS
+10279	93950	3	U60G700	[X]Topically appl dental drug caus advers eff therapeut use
+59866	62025	3	7A45200	Emerg replace aneurysm fem art by fem/pop anast c vein graft
+24866	97109	3	7A1B700	Endovascular stenting for aorto-uniiliac aneurysm
+109833	109601	3	ZV6G700	[V]Acquired absence of genital organ(s)
+89629	103988	3	7A45.12	Emergency replacement of aneurysmal common femoral artery
+
+42022	99068	3	7A45300	Emerg replace aneurys pop art by pop/pop a anast c vein graf
+92714	107158	3	7A48900	Bypass popliteal artery by pop/peron art anast c prosth NEC
+32116	65926	3	7A16100	Bypass of thoracic aorta by anastomosis aorta to aorta NEC
+55273	70285	2	ZS7A100	Developmental semantic impairment
+57577	100113	2	7A47.12	Other emergency bypass of common femoral artery
+46563	99676	2	7A47800	Emerg bypass femoral art by fem/peron art anast c prosth NEC
+83585	97606	2	7A47.15	Other emergency bypass of superficial femoral artery
+34625	102031	2	7A15400	Emerg bypass abdominal aorta by anastom aorta to aorta NEC
+7323	99727	2	7A40A00	Replace aneurysm iliac art by aorta/ext iliac art anast NEC
+106724	64667	2	Z7A1211	Comprehension training
+85423	68141	2	7A41400	Emerg bypass comm iliac art by aorta/com iliac art anast NEC
+92931	93947	2	R055111	[D]Heart shock
+3403	99722	2	7A13000	Emerg replace aneurysm asc aorta by anastom aorta to aorta
+40930	111896	2	7A46.12	Other replacement of aneurysmal common femoral artery
+67201	107284	2	7A17y00	Other specified attention to prosthesis of aorta
+13811	66917	2	7A41600	Emerg bypass leg artery by aorta/com fem art anastomosis NEC
+67403	96699	2	7A40000	Emerg replace aneurysm iliac art by iliac/femoral art anast
+101976	100940	2	7A50y00	Other specified revision of reconstruction of artery
+40929	68385	2	7A46.11	Other replacement aneurysmal femoral artery by anastomosis
+77946	55394	2	7A45D00	Emerg replace aneurysm pop artery by pop/fem art anastomosis
+27037	62775	2	7A47B00	Emerg bypass pop art by pop/peron art anast c vein graft NEC
+57343	106838	2	AyuG700	[X]Cysticercosis of other sites
+51839	114056	2	7A41A00	Bypass iliac artery by aorta/ext iliac art anastomosis NEC
+101241	105621	2	Gyu7800	[X]Aneurysm of aorta in diseases classified elsewhere
+22	112218	2	7A49.12	Reconstruction of deep femoral artery
+
+41217	112402	1	C107y00	Other specified diabetes mellitus with periph circ comps
+86774	96654	1	7A11000	Emerg repl aneurysm bifurc aorta by anast aorta to fem art
+79596	115472	1	7A1A900	Transluminal aortic stent graft with branches NEC
+5688	112536	1	7A45z00	Emergency replacement aneurysmal femoral/popliteal art NOS
+
+53450	73053	1	7A50z00	Revision of reconstruction of artery NOS
+114435	115213	1	7A46800	Replace aneurysm fem art by fem/peron art anast c prosth NEC
+91601	98082	1	7A15300	Emerg bypass infrarenal aorta by anastom aorta to aorta NEC
+114939	93060	1	7A13100	Emerg replace aneurysm thor aorta by anastom aorta to aorta
+2994	103044	1	7A45y00	Emergency replacement aneurysmal femoral/popliteal artery OS
+49544	100036	1	7A41D00	Bypass iliac artery by iliac/iliac artery anastomosis NEC
+
+475	114791	1	7A46B00	Replace aneurys pop art by pop/peron a anast c vein graf NEC
+90284	103347	1	7A40.11	Replacement of aneurysmal iliac artery by anastomosis
+113544	112813	1	7A4A.12	Other open operations on deep femoral artery
+107286	113851	1	7A48.13	Other bypass of deep femoral artery
+87152	101835	1	7A15y00	Other specified other emergency bypass of segment of aorta
+97285	62301	1	7A11y00	Replacement of aneurysmal bifurcation of aorta OS
+86722	55476	1	7A45000	Emerg replace aneurysm fem art by fem/pop art anast c prosth
+31738	112861	1	7A41E00	Emergency bypass of iliac artery by unspecified anastomosis
+86460	54379	1	7A14200	Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+102068	53462	1	Z7A1400	Attention training
+25957	58092	1	7A46100	Replace aneurysm pop art by pop/pop art anastom c prosth NEC
+52474	97596	1	7A17z00	Attention to prosthesis of aorta NOS
+32471	112581	1	7A15100	Emerg bypass thoracic aorta by anatomosis aorta to aorta NEC
+97588	95416	1	7A46D00	Replace aneurysm popliteal artery by pop/fem anastomosis NEC
+85584	98565	1	7A1Cy00	OS translum ins stent graft for aneurysmal segment of aorta
+95197	104815	1	7A15z00	Other emergency bypass of segment of aorta NOS
+18296	102719	1	Gyu7200	[X]Aortic aneurysm of unspecified site, nonruptured
+61890	112957	1	Gyu7B00	[X]Oth disorders/arteries,arterioles+capillaries/diseases CE
+35188	115697	1	7A46600	Replace aneurysm fem art by fem/tib a anast c vein graft NEC
+57576	63238	1	7A47.13	Other emergency bypass of deep femoral artery
+14957	66810	1	7A15000	Emerg bypass ascending aorta by anastom aorta to aorta NEC
+37509	111190	1	7A47900	Emerg bypass popliteal art by pop/peron a anast c prosth NEC
+
+13865	109431	1	7A40200	Emerg replace aneurysmal iliac artery by fem/fem art anast
+100462	110617	1	7A45C00	Emerg replace aneurysm fem artery by fem/fem art anastomosis
+107410	115355	1	7A45.11	Emerg replacement aneurysmal femoral/popl art by anastomosis
+77175	112511	1	7A47A00	Emerg bypass fem art by fem/peron a anast c vein graft NEC
+
+79735	100712	0	7A10z00	Extraanatomic bypass of aorta NOS
+86053	89470	0	7A45700	Emerg replace aneurysm pop art by pop/tib anast c vein graft
+

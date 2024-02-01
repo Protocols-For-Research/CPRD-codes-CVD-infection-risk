@@ -1,0 +1,10 @@
+medcodeid	term	originalreadcode	cleansedreadcode	snomedctconceptid	snomedctdescriptionid	release
+411904010	"Aspirin prophylaxis - IHD"	"8B63-1"	"8B63.11"	275931000	411904010	
+855191000006118	"Aspirin prophylaxis (over the counter)"	"EGTONAS1"	""	855191000006102	855191000006118	
+456162011	"Aspirin prophylaxis"	"8B63-2"	"8B63.12"	312452009	456162011	
+458847018	"Over the counter aspirin therapy"	"8B3T"	"8B3T.00"	314481009	458847018	
+52981000006112	"On Warfarin and aspirin - IHD prophylaxis"	"EMISHGT39"	""	52981000006108	52981000006112	
+12321000033119	"Aspirin"	"DRGC167"	""	387458008	12321000033119	
+1484915016	"Referral to GP - aspirin management"	"8H6D"	"8H6D.00"	390882005	1484915016	
+241031000033114	"Nu-Seals Aspirin"	"DRGA3321"	""	241031000033105	241031000033114	
+216558013	"Aspirin indicated"	"8BG5"	"8BG5.00"	135800003	216558013	

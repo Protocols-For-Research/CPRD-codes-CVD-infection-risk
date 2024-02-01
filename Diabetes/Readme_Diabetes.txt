@@ -1,0 +1,7 @@
+***Readme Diabetes 10/3/22
+
+***These code lists are designed to identify diabetes in the primary care records, for a project concernting infection-related CVD. The types of diabetes are coded too. Exclusions are codes thought to relate to diabetes, but not necessarily the diagnosis. So discussion about diets might occur in prevtion for example, and are excluded unless there is a specific mention of the diagnosis.  Handing out leaflets and education might relate to family members - excluded. Family history is excluded. Included are referrals to diabetic services, as I don't think people would attend there until after a diagnosis. Many people are going to have unknown (to us) types of diabetes. Transient episodes, neonatal, hypoglycaemia, hyperglycaemia - all of which are possibly caused by other things, are excluded. Gestational has been included and classed as type 2. This is a judgement call based on these folks having high risk of subsequent diabetes and therefore CVD. 
+
+
+*They were originally derived from UK goverment published lists of snomed codes for CVD QoF rules - the 2021 PCD_Refset_Content files published by NHS Digital. These were examined to identify acute relevant events, and then translated to codes for Gold and Aurum. SNOMED codes were translated to CPRD medcodes by merging on both readcodes and terms, and resulting lists were supplemented with additional term searches using the CPRD Gold and Aurum dictionaries. 
+

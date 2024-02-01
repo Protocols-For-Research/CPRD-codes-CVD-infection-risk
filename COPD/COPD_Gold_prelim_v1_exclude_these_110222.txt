@@ -1,0 +1,7 @@
+v1	medcode	readcode	clinicalevents	readterm
+50	62233	"H421.00"	107	"Simple silicosis"
+5	2195	"H34..00"	125773	"Bronchiectasis"
+34	20364	"H340.00"	663	"Recurrent bronchiectasis"
+28	32679	"H34z.00"	3182	"Bronchiectasis NOS"
+40	15693	"A115.00"	380	"Tuberculous bronchiectasis"
+25	41491	"H341.00"	153	"Post-infective bronchiectasis"

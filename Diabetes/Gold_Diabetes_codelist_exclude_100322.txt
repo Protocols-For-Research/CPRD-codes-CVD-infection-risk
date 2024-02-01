@@ -1,0 +1,130 @@
+v1	medcode	readcode	clinicalevents	readterm	Typei	Typeii	unknowntype
+551	46598	"4544.00"	5	"Insulin stress test -pituitary"	0	0	1
+668	63337	"43WQ.00"	1	"Insulin IgE antibody level"	0	0	1
+383	67664	"ZRBa.00"	20	"Education score - diabetes"	0	0	1
+702	72882	"C110100"	18	"Self-induced hyperinsulinism"	0	0	1
+161	2472	"C110.00"	4129	"Hypoglycaemic coma"	0	0	1
+301	101208	"66Ae000"	9082	"HbA1c target level - IFCC standardised"	0	0	1
+384	106358	"679L100"	15914	"Hypoglycaemia education"	0	0	1
+371	31752	"66A7000"	475	"Frequency of hospital treated hypoglycaemia"	0	0	1
+550	65463	"F420800"	74	"High risk non proliferative diabetic retinopathy"	0	0	1
+47	23005	"1253.00"	98586	"FH: Diabetes mellitus in first degree relative"	0	0	1
+469	95609	"BB5B300"	11	"[M]Insulinoma, malignant"	0	0	1
+774	56530	"C111000"	1	"Ectopic hyperinsulinism"	0	0	1
+283	10192	"1154200"	17413	"No significant family history of diabetes"	0	0	1
+303	40363	"66A7100"	498	"Frequency of GP or paramedic treated hypoglycaemia"	0	0	1
+170	103468	"671F100"	11840	"Hypoglycaemic management discussed"	0	0	1
+67	10166	"C307000"	2782	"Hyperglycinaemia"	0	0	1
+149	13597	"42W1.00"	2284	"Hb. A1C < 7% - good control"	0	0	1
+458	30127	"1435.00"	392	"H/O: Admission in last year for hyperglycaemic disorder"	0	0	1
+505	96942	"C116000"	109	"Post-prandial hypoglycaemia"	0	0	1
+485	95641	"8Hj1.00"	49	"Family/carer referral to diabetes structured education prog"	0	0	1
+386	30477	"F420700"	129	"High risk proliferative diabetic retinopathy"	0	0	1
+396	29218	"42W2.00"	1178	"Hb. A1C 7-10% - borderline"	0	0	1
+811	67960	"4525.00"	1	"Insulin response test - vagus"	0	0	1
+536	61520	"C110000"	33	"Iatrogenic hyperinsulinism"	0	0	1
+410	52409	"Cyu3000"	820	"[X]Other hypoglycaemia"	0	0	1
+574	94904	"R10D100"	62	"[D]Stress induced hyperglycaemia"	0	0	1
+488	17910	"13LZ.11"	863	"Diabetic relative"	0	0	1
+471	112237	"8OAJ.00"	9	"Provision written information abt diabetes & high HbA1c levl"	0	0	1
+129	1173	"C321.00"	7729	"Pure hyperglyceridaemia"	0	0	1
+250	18066	"8CE0.00"	16755	"Diabetic leaflet given"	0	0	1
+819	115021	"SL23z00"	2	"Insulins or antidiabetic poisoning NOS"	0	0	1
+314	51066	"9OLC.00"	17	"Family/carer attended diabetes structured education prog"	0	0	1
+131	22189	"ZV18011"	2900	"[V]Family history of diabetes mellitus (DM)"	0	0	1
+94	8414	"8CA4100"	107331	"Pt advised re diabetic diet"	0	0	1
+661	71987	"Q007A00"	9	"Fetus/neonate affect-plac./breast transf hypoglycaemic agent"	0	0	1
+343	30310	"K081.00"	400	"Nephrogenic diabetes insipidus"	0	0	1
+591	72975	"Qyu6000"	30	"[X]Other neonatal hypoglycaemia"	0	0	1
+547	60046	"C135.12"	26	"Diabetes insipidus - pituitary"	0	0	1
+593	34581	"4544.11"	38	"Insulin stress test"	0	0	1
+136	1789	"R105712"	31647	"[D]Hyperglycaemia"	0	0	1
+186	13297	"Q447.00"	6945	"Neonatal hypoglycaemia"	0	0	1
+590	101172	"C135000"	94	"Cranial diabetes insipidus"	0	0	1
+344	31949	"ZV65318"	1074	"[V]Dietary counselling in hypoglycaemia"	0	0	1
+417	37036	"ZV19800"	1969	"[V]Family history of diabetes mellitus"	0	0	1
+431	101456	"8IAs.00"	9035	"Diabetic dietary review declined"	0	0	1
+467	110087	"8OAH.00"	58	"Provision of written information about diabetes and high BP"	0	0	1
+544	110393	"13B1000"	121	"Diabetic carbohydrate counting diet"	0	0	1
+42	1410	"C112.00"	104817	"Hypoglycaemia unspecified"	0	0	1
+194	27304	"C111.00"	590	"Other hyperinsulinism"	0	0	1
+759	96118	"C113z00"	2	"Postsurgical hyperglycaemia NOS"	0	0	1
+116	1045	"C135.00"	4356	"Diabetes insipidus"	0	0	1
+490	50064	"Q44y100"	23	"Transitory metabolic disturbance-infant pre-diabetic mother"	0	0	1
+95	9308	"ZV18000"	7899	"[V]Family history of diabetes mellitus"	0	0	1
+470	109744	"8OAK.00"	55	"Provsn written information about diabetes & high cholesterol"	0	0	1
+24	101177	"66At.00"	480704	"Diabetic dietary review"	0	0	1
+251	11149	"R102.11"	72942	"[D]Prediabetes"	0	0	1
+60	9958	"42W..00"	28779	"Hb. A1C - diabetic control"	0	0	1
+298	16881	"ZV65312"	1029	"[V]Dietary counselling in diabetes mellitus"	0	0	1
+272	37035	"66Ae.00"	28414	"HbA1c target"	0	0	1
+45	21689	"13AB.00"	44842	"Diabetic lipid lowering diet"	0	0	1
+65	13074	"13B1.00"	112791	"Diabetic diet"	0	0	1
+815	114017	"C10J000"	1	"Insulin autoimmune syndrome without complication"	0	0	1
+317	13245	"12G2.00"	978	"FH: Diabetes in pregnancy"	0	0	1
+204	13069	"66A8.00"	20109	"Has seen dietician - diabetes"	0	0	1
+820	115207	"C113000"	1	"Postpancreatectomy hyperglycaemia"	0	0	1
+68	4563	"C112000"	3002	"Reactive hypoglycaemia NOS"	0	0	1
+63	9310	"Ryu8A00"	14323	"[X]Hyperglycaemia, unspecified"	0	0	1
+350	24405	"C112100"	290	"Spontaneous hypoglycaemia NOS"	0	0	1
+151	49421	"4545.00"	39	"Insulin tolerance test"	0	0	1
+299	9224	"BB5B200"	371	"[M]Insulinoma NOS"	0	0	1
+532	52278	"J693000"	21	"Post gastrointestinal tract surgery hypoglycaemia"	0	0	1
+340	106604	"C11y500"	24674	"Pre-diabetes"	0	0	1
+337	32999	"Q440.00"	222	"'Infant of a diabetic mother' syndrome"	0	0	1
+307	21472	"Q441.00"	54	"Neonatal diabetes mellitus"	0	0	1
+96	13078	"13AC.00"	11277	"Diabetic weight reducing diet"	0	0	1
+180	18167	"66AT.00"	23599	"Annual diabetic blood test"	0	0	1
+623	55492	"Q447000"	22	"Iatrogenic neonatal hypoglycaemia"	0	0	1
+363	38078	"66A9.00"	33173	"Understands diet - diabetes"	0	0	1
+184	18583	"66Ad.00"	1909	"Hypoglycaemic attack requiring 3rd party assistance"	0	0	1
+27	20368	"C112z00"	2022	"Hypoglycaemia unspecified NOS"	0	0	1
+260	5905	"14O8.00"	66190	"At risk of diabetes mellitus"	0	0	1
+630	72827	"7P17100"	11	"Insulin secretion glucagon test"	0	0	1
+627	97599	"7P17000"	3	"Insulin stress test of anterior pituitary function"	0	0	1
+19	6795	"1252.00"	1259981	"FH: Diabetes mellitus"	0	0	1
+104	10642	"ZC2C800"	38104	"Dietary advice for diabetes mellitus"	0	0	1
+288	106679	"8OA3.00"	10808	"Provision of written information about diabetes and driving"	0	0	1
+397	23340	"SL23400"	182	"Insulin poisoning"	0	0	1
+763	68960	"F374500"	7	"Polyneuropathy in hypoglycaemia"	0	0	1
+464	12703	"3881.00"	1822	"Education score - diabetes"	0	0	1
+805	109878	"ZC2C911"	1	"Diet advice for insulin-dependent diabetes"	0	0	1
+312	99822	"38DK.00"	444	"Finnish diabetes risk score"	0	0	1
+37	11050	"44Uz.11"	3893	"Blood hyperglycaemia NOS"	0	0	1
+716	69862	"C111100"	12	"Functional hyperinsulinism"	0	0	1
+797	114011	"K081100"	2	"Congenital nephrogenic diabetes insipidus"	0	0	1
+232	25636	"66Aa.00"	6882	"Diabetic diet - poor compliance"	0	0	1
+782	68714	"SL23.00"	36	"Insulins and antidiabetic poisoning"	0	0	1
+724	113762	"8OAH.11"	6	"Provision of written information about diabetes & hypertensn"	0	0	1
+411	13604	"42W3.00"	1844	"Hb. A1C > 10% - bad control"	0	0	1
+743	68517	"C10J.00"	10	"Insulin autoimmune syndrome"	0	0	1
+18	13241	"1228.00"	831226	"No family history diabetes"	0	0	1
+563	14049	"42WZ.00"	84	"Hb. A1C - diabetic control NOS"	0	0	1
+164	51371	"C110z00"	198	"Hypoglycaemic coma NOS"	0	0	1
+316	22959	"66AJ000"	1285	"Chronic hyperglycaemia"	0	0	1
+770	110481	"K081000"	3	"Acquired nephrogenic diabetes insipidus"	0	0	1
+526	50491	"C111z00"	76	"Other hyperinsulinism NOS"	0	0	1
+475	31529	"U602300"	88	"[X]Insul/oral hypoglyc drugs caus adverse eff therapeut use"	0	0	1
+223	107554	"38Gv.00"	56171	"Diabetes UK diabetes risk score"	0	0	1
+373	105484	"66Az.00"	10539	"High risk of diabetes mellitus annual review"	0	0	1
+220	105481	"14O8000"	10812	"High risk of diabetes mellitus"	0	0	1
+287	26604	"66AY.00"	21804	"Diabetic diet - good compliance"	0	0	1
+509	14053	"42W4.00"	219	"HbA1c level (DCCT aligned)"	0	0	1
+257	32885	"C11y100"	581	"Drug-induced hypoglycaemia without coma"	0	0	1
+499	44993	"46Z0.00"	651	"Urine screening test for diabetes"	0	0	1
+733	43542	"43Gk.00"	3	"Insulin antibody level"	0	0	1
+366	32770	"44V3.00"	84	"Glucose tol. test diabetic"	0	0	1
+168	95920	"C116.00"	2927	"Other hypoglycaemia"	0	0	1
+701	65171	"R105711"	32	"[D]Drug induced hyperglycaemia"	0	1	0
+156	30205	"R10C.00"	669	"[D]Drug induced hyperglycaemia"	0	1	0
+338	30970	"Q44B.00"	153	"Syndrome of infant of mother with gestational diabetes"	0	1	0
+753	113594	"38QW.00"	3	"Diabetes Distress Scale 2 item"	0	1	0
+793	108013	"ZC2CB00"	6	"Dietary advice for gestational diabetes"	0	1	0
+216	101802	"1252100"	5546	"Family history of diabetes mellitus type 2"	0	1	0
+211	102435	"8CE0000"	196	"Gestational diabetes information leaflet given"	0	1	0
+546	25041	"ZC2CA00"	605	"Dietary advice for type II diabetes"	0	1	0
+222	103597	"1252111"	316	"Family history of diabetes mellitus type II"	0	1	0
+714	69043	"ZC2C900"	59	"Dietary advice for type I diabetes"	1	0	0
+441	27078	"44AB.00"	38	"Serum insulin-like growth factor 1 level"	1	0	0
+420	40463	"42c1.00"	4616	"HbA1 7 - 10% - borderline control"	1	0	0
+209	101430	"1252000"	5002	"Family history of diabetes mellitus type 1"	1	0	0

@@ -1,0 +1,156 @@
+v1	medcodeid	cleansedreadcode	observations	term	snomedctconceptid
+215	1950791000006116	" "	50	"Dementia link worker - mental health CPN"	1950791000006100
+382	1950811000006117	" "	10	"Dementia link worker - mental health OT"	1950811000006101
+467	4936881000006119	" "	3	"Debridement of wound with topical agent"	225149002
+14	411113013	"7G2D011"	50000	"Debridement of wound of skin"	85875009
+249	28038011	"C373G00"	400	"Senile cardiac amyloidosis"	16573007
+198	299464010	"FyuE000"	30	"[X]Other senile cataract"	10810001
+273	2334241000000110	"8IBB000"	3000	"Dementia assessment not indicated"	908001000000107
+481	1871881000006112	" "	40	"Dementia screening declined"	1871881000006108
+355	7268641000006111	" "	1	"Excision debridement - action"	442837002
+84	308946015	"M222.00"	6000	"Senile keratoma"	201097003
+260	6020421000006115	" "	10	"Debridement of leg ulcer"	312732009
+380	8341331000006112	" "	20	"Debridement of wound of skin using debridement pad"	939871000000108
+420	1971701000006118	" "	1	"Mental & behav dis due to use opioids: resid & late-onset psychot dis, dementia"	1971701000006102
+276	298102014	"F461y00"	40	"Other senile cataract"	39450006
+68	1212126019	"1FM..00"	7000	"Picky eater"	373664004
+379	8313671000006111	" "	10	"Dementia assessment service"	893331000000102
+27	2271571000000113	"8IEu.00"	100000	"Dementia screening declined"	880571000000101
+28	2145441000000117	"918y.00"	20000	"Carer of person with dementia"	824401000000105
+362	7341691000006113	" "	1	"Debridement of thumb"	447524001
+328	4649051000006113	" "	40	"Debridement of corneal lesion"	172410004
+6	1867041000006112	"67DF.00"	600000	"NHS Health Check raising awareness about dementia and memory clinics"	870991000000101
+98	315261000006112	"BBC9.11"	30	"[M]Pick's tubular adenoma"	417629008
+66	369021000000116	"7K6b100"	2000	"Open debridement of joint"	737494001
+42	1488581017	"129B.00"	20000	"FH: Alzheimer's disease"	394877006
+240	2404531000000115	"8T05200"	7000	"Referral for dementia assessment"	939231000000107
+207	298081018	"F460200"	500	"Unspecified presenile cataract"	399305009
+213	6020431000006117	" "	1000	"Debridement of foot ulcer"	312733004
+15	394557011	"7G2D000"	30000	"Debridement of skin"	795191000000102
+7	2537365016	"F425100"	100000	"Dry senile macular degeneration"	414875008
+320	298088012	"F460z00"	80	"Nonsenile cataract NOS"	193571008
+222	2284371000000110	"38C1300"	1000	"Assessment of psychotic and behavioural symptoms of dementia"	700464008
+460	5548281000006118	" "	1	"Blessed dementia rating scale"	273323004
+251	490431000000113	"7G2J100"	200	"Debridement of skin and subcutaneous tissue"	31064000
+269	4936871000006117	" "	80	"Surgical debridement of wound"	225148005
+189	7798761000006110	" "	90	"CDR (Clinical Dementia Rating) score"	720204003
+113	2282071000000118	"9OqE.00"	20000	"Dementia screening questionnaire completed"	885371000000102
+389	1950861000006119	" "	10	"Dementia link worker - social worker"	1950861000006103
+29	1778331010	"M221.00"	100000	"Senile hyperkeratosis"	398838000
+381	3895811000006115	" "	10	"Debridement of skin"	85875009
+195	9918017	"F461700"	500	"Posterior subcapsular polar senile cataract"	5318001
+162	2535848016	"C38y000"	600	"Pickwickian syndrome"	190966007
+473	7771441000006116	" "	2	"Assessment using CDR (Clinical Dementia Rating)"	718372000
+160	317930017	"R203.00"	4000	"Senile debility"	271875007
+13	612761000006118	"3A...12"	40000	"Dementia assessment"	473203000
+153	488981000000116	"7M04900"	200	"Debridement of organ NOC"	283641000000105
+346	5132351000006112	" "	9	"Debridement of tendon"	239231007
+476	4213941000006116	" "	2	"Arthroscopy of elbow with limited debridement"	112739002
+5	2538088014	"F425200"	100000	"Wet senile macular degeneration"	414173003
+394	3158101000006119	" "	3	"Excisional debridement of burn"	40872008
+138	883821000006115	"F580199"	2000	"Senile/other presbyacusis"	49526009
+374	3895801000006118	" "	100	"Wound debridement"	85875009
+124	297521000006119	"F427z12"	900	"Nonsenile retinal degeneration"	41799005
+150	300635016	"G771100"	1000	"Senile naevus"	195383008
+331	300502019	"G731100"	10	"Presenile gangrene"	195299000
+238	2391821000000112	"918f000"	400	"No longer carer of patient with dementia"	933581000000105
+155	232631000006113	"C38y.11"	500	"Pickwickian syndrome"	190966007
+129	257074017	"3AD1.00"	8000	"Ten item dementia test"	165321000
+85	92123011	"F4E0100"	5000	"Senile entropion"	55408009
+289	6612911000006115	" "	80	"Senile wart"	398838000
+436	5123811000006110	" "	1	"Senile xeroderma"	238597002
+95	461302019	"ZV7A400"	1000	"[V]Screening for senile macular lesion"	440001000000102
+462	1950871000006114	" "	8	"Dementia link worker - other"	1950871000006105
+214	148301000006112	"68A5.00"	500	"Senile macular disorder screening"	171218006
+303	317929010	"R202.00"	100	"Senile asthenia"	18726006
+30	77061012	"7K12B00"	10000	"Debridement of bone"	46211007
+314	5135261000006112	" "	100	"Debridement of joint cavity"	239453006
+139	275863011	"7H51300"	700	"Debridement of muscle"	69773006
+173	7484361000006111	" "	800	"Assessment of dementia"	473203000
+278	2287501000000117	"9OqF.00"	300	"No response to dementia screening invitation"	887951000000102
+96	275031018	"7G2D100"	500	"Debridement of skin of head"	450670006
+88	365891000000114	"7K1T800"	1000	"Debridement of bone NEC"	46211007
+184	298097011	"F461A00"	200	"Total, mature senile cataract"	193590000
+464	1950781000006119	" "	20	"Dementia link worker details"	1950781000006103
+351	298086011	"F460x00"	20	"Combined nonsenile cataract"	193579005
+335	178759010	"F461600"	30	"Anterior subcapsular polar senile cataract"	111515007
+294	397921000006118	"Eu11600"	30	"[X]Mental and behav dis due to use opioids: amnesic syndrome"	91388009
+300	5549001000006110	" "	40	"Clinical dementia rating scale"	273367002
+193	2549335019	"14OQ.00"	500	"At risk of variant Creutzfeldt-Jakob disease"	416805005
+111	298103016	"F461z00"	1000	"Senile cataract NOS"	39450006
+270	6620601000006118	" "	2	"Nonsenile cataract"	399305009
+179	130863017	"F461800"	600	"Cortical senile cataract"	78875003
+103	747031000000118	"7K6pz00"	400	"Debridement and irrigation of joint NOS"	442400004
+48	275010016	"7G2C300"	2000	"Debridement of burnt skin"	221270009
+25	399676018	"F425.11"	200000	"Senile macular degeneration"	267718000
+72	89346015	"D312000"	10000	"Senile purpura"	53751009
+279	275009014	"7G2C200"	60	"Debridement of burnt skin of head and neck"	177647003
+385	5133581000006115	" "	9	"Debridement of fracture"	239330006
+175	397841000006115	"Eu14600"	20	"[X]Mental and behav dis due to use cocaine: amnesic syndrome"	91388009
+65	249848014	"1281.00"	40000	"FH: Senile dementia"	160325007
+44	452866010	"7K35400"	40000	"Arthroscopic debridement of knee joint"	309438003
+199	6020951000006118	" "	1000	"Debridement of ulcer"	312775003
+407	490471000000110	"7G2J000"	3	"Larvae debridement therapy of skin of head or neck"	284391000000109
+169	298078011	"F460.00"	1000	"Infantile, juvenile and presenile cataracts"	193571008
+336	574651000006115	"F461x00"	80	"Combined form of senile cataract"	11422002
+309	4425141000006113	" "	90	"Debridement - action"	129317004
+45	3672921000006110	" "	2000	"Senile lentigo"	72100002
+226	369061000000112	"7K6by00"	100	"Other specified open debridement and irrigation of joint"	442400004
+156	2366391000000114	"8CET.00"	20000	"Dementia leaflet given"	715284000
+58	2676243017	"7K6b.00"	900	"Open debridement and irrigation of joint"	425765007
+32	148051000006114	"K5A3.11"	50000	"Senile (atrophic) vaginitis"	52441000
+91	359001000000115	"7H67500"	3000	"Debridement of soft tissue"	450671005
+83	66160017	"F461.00"	80000	"Senile cataract"	39450006
+264	985811000006117	"8BN..00"	200	"Sterile maggot wound debridement"	404916008
+119	148351000006111	"F580111"	5000	"Senile presbyacusis"	49526009
+234	3350351000006113	" "	90	"Senile vaginitis"	52441000
+157	304854014	"K533100"	3	"Senile involution of the ovary"	198301008
+41	453173012	"7K12D00"	10000	"Arthroscopic debridement of patella"	309703004
+315	298087019	"F460y00"	40	"Other nonsenile cataract"	193571008
+280	5692211000006112	" "	20	"Picking own skin"	284760000
+161	2282031000000115	"9OqD.00"	3000	"Dementia screening questionnaire sent to patient"	885351000000106
+358	8266511000006116	" "	20	"Arthroscopic debridement of ankle joint"	818561000000109
+21	2247561000000112	"38C1000"	500000	"Assessment for dementia"	869561000000101
+495	2983901000006111	" "	2	"Debridement of sacral pressure ulcer"	30063001
+246	399466011	"F4B4200"	90	"Senile corneal changes NOS"	111521006
+451	2812741000006114	" "	6	"Debridement and suture"	19697009
+304	490511000000118	"7G2Jz00"	50	"Debridement of skin using larvae"	798401000000109
+142	317931018	"R204.00"	400	"Senile exhaustion"	57494004
+102	257073011	"3AD..00"	40000	"Dementia test"	165320004
+212	308901016	"M213100"	200	"Senile degenerative atrophy of skin"	201069009
+54	2580021000006118	" "	3000	"Senile angioma"	5050001
+245	369081000000115	"7K6bz00"	100	"Open debridement and irrigation of joint NOS"	442400004
+378	1950821000006113	" "	40	"Dementia link worker - other mental health worker"	1950821000006109
+478	7330151000006118	" "	1	"Debridement of ankle region"	446791005
+53	746571000000111	"7K6p.00"	3000	"Debridement and irrigation of joint"	442400004
+497	1950851000006116	" "	1	"Dementia link worker - other third sector worker"	1950851000006100
+220	97154016	"C327200"	700	"Niemann-Pick disease"	58459009
+18	298096019	"F461900"	5000	"Nuclear senile cataract"	193589009
+340	3092791000006110	" "	80	"Debridement"	36777000
+204	54296011	"K55y000"	800	"Senile atrophy of cervix"	32515001
+110	13128017	"M145200"	100	"Senile dermatitis herpetiformis"	7354003
+489	1876391000006114	" "	2	"Dementia screening questionnaire completed"	1876391000006105
+453	5969481000006110	" "	2	"Arthroscopic debridement of articular ulcerations of knee"	307522001
+492	5106381000006113	" "	1	"Debridement of breast"	237374004
+458	2451471000000113	" "	3	"Dementia assessment care plan"	961891000000104
+423	1973941000006119	" "	1	"Mental & behav dis due to use cocaine: resid & late-onset psychot dis, dementia"	1973941000006103
+317	106281000006116	"3AD2.00"	300	"Thirty seven item dementia test"	165322007
+465	7340011000006117	" "	1	"Debridement of nail bed"	447442008
+474	6633901000006117	" "	1	"Senile asteatotic eczema"	400051008
+396	2975351000006118	" "	1	"Arthroscopy of shoulder with limited debridement"	29563005
+371	301877010	"J000300"	2	"Senile anodontia"	196267002
+99	747011000000114	"7K6py00"	400	"Other specified debridement and irrigation of joint"	442400004
+105	1699141000006114	" "	2000	"At risk of dementia"	1699141000006105
+93	46755018	"7K1T100"	2000	"Debridement of open fracture"	27930000
+435	299957018	"G532100"	1	"Pick's disease of heart"	85598007
+216	5080721000006117	" "	80	"Debridement of pancreatic and peripancreatic necrosis"	235471009
+468	296991018	"F102100"	3	"Cerebral degeneration in Niemann-Pick disease"	192792002
+326	64862013	"F434100"	50	"Senile atrophy of choroid"	38513001
+491	2808151000006112	" "	1	"Debridement of open fracture of foot"	19417000
+46	2281311000000115	"8IEu000"	20000	"Dementia screening questionnaire declined"	885051000000108
+369	8452411000006111	" "	10	"Assessment using DiADeM (Diagnosing Advanced Dementia Mandate) Tool"	1077351000000108
+477	3006631000006116	" "	1	"Debridement of peripheral nerve"	31442000
+446	7321551000006118	" "	3	"Debridement of hand"	446246000
+79	608481000006115	"7244600"	400	"Debridement of lesion of cornea"	172410004
+19	1150521000000117	"14Od.00"	1000000	"At risk of dementia"	698464007
+63	119054015	"F4E1100"	6000	"Senile ectropion"	71659009

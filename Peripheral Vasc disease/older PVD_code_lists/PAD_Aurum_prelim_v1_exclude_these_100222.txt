@@ -1,0 +1,87 @@
+v1	medcodeid	observations	cleansedreadcode	term	snomedctconceptid
+2106	61979019	20	"G73y811"	"Erythralgia"	37151006
+3089	90802010	4000	"7A1A300"	"Aortography"	54640009
+2105	61977017	5000	"G73y800"	"Erythromelalgia"	37151006
+1426	41903014	5000	"G73y200"	"Acrocyanosis"	25003006
+47012	410975015	1	"7A49.12"	"Reconstruction of deep femoral artery"	275052005
+27697	300512014	600	"G73y600"	"Acroparaesthesia - unspecified"	79256006
+27897	300966013	100	"Gyu7700"	"[X]Other diseases of capillaries"	58729003
+17176	272080015	8	"7A50z00"	"Revision of reconstruction of artery NOS"	175729002
+44803	395792010	200000	"G730100"	"Raynaud's phenomenon"	266261006
+95119	865871000006117	100	"7A1A396"	"Translumbar aortogram"	54640009
+34798	317357011	6000	"R055500"	"Septic shock"	76571007
+95117	865851000006110	400	"7A18.99"	"Coarctation of aorta correct"	175337007
+136709	2263901000000118	800	"G735.00"	"HAVS - Hand-arm vibration syndrome"	234034005
+47084	411078012	50	"7A49.15"	"Reconstruction of superficial femoral artery"	275145005
+17147	272020017	100	"7A49900"	"Reconstruction of popliteal artery with vein graft"	175698008
+9747	254794011	20	"27A1.00"	"On examination - vaginal examination - presenting part high"	163574008
+136548	2244281000000110	4000	"7P0G700"	"Cardiovascular stress test using Bruce protocol"	868361000000101
+130930	1924771000006111	5	"67A1100"	"Education about amino acid-based infant formula"	713407005
+95404	868911000006113	40	"7C10798"	"Therapeutic asp. spermatocele"	57633004
+17171	272075012	20	"7A50000"	"Revision of reconstruction involving aorta"	175730007
+95120	865881000006119	40	"7A1A397"	"Retrograde abdominal aortogram"	54640009
+42169	350655010	4000	"G730111"	"Vibratory white finger"	234034005
+93171	815331000006113	400	"7A18111"	"Hamilton repair of coarctation of aorta using subclavian flap"	175339005
+90748	731481000000119	8000	"38DJ.00"	"Edinburgh claudication questionnaire"	441941004
+68200	187331000006112	40	"7A49y00"	"Reconstruction of femoral or popliteal artery OS"	265528006
+4206	124092018	800	"G73y700"	"Erythrocyanosis"	74725000
+74615	345601000000113	60	"727A100"	"Indocyanine angiography evaluation of retina"	252823001
+23326	288265016	30	"AyuG700"	"[X]Cysticercosis of other sites"	59051007
+54601	1222509017	40	"R055111"	"[D]Heart shock"	89138009
+138461	2445351000000110	2	"42G7000"	"Red blood cell pyruvate kinase screening test"	1013841000000101
+95118	865861000006112	30	"7A1A395"	"Thoracic angiography NOS"	54640009
+95122	865901000006117	20	"7A1A399"	"Thoracic angiography"	54640009
+80111	404601000006117	10	"Gyu7B00"	"[X]Oth disorders/arteries,arterioles+capillaries/diseases CE"	266259002
+54077	1216757012	5	"G73y411"	"Schultze's simple acroparaesthesia"	57105000
+34796	317354016	10	"R055300"	"[D]Gram-negative shock"	371769008
+17131	271880019	20	"7A42y00"	"Other specified reconstruction of iliac artery"	265516003
+68393	192131000006114	300000	"G730.00"	"Raynaud's syndrome"	195295006
+20574	279446012	50	"7M27100"	"Pectoralis major myocutaneous flap"	180760006
+17173	272077016	200	"7A50200"	"Revision of reconstruction involving femoral artery"	175732004
+60441	2535881015	200	"PKy7A11"	"Beals syndrome"	205821003
+47014	410977011	300	"7A49.13"	"Reconstruction of femoral artery"	275054006
+53978	1216110018	400	"R055511"	"[D]Septicaemic shock"	76571007
+130931	1924781000006114	10	"67A1200"	"Provision of information about extensively hydrolysed infant formula"	924431000000105
+16970	271502016	200	"7A18300"	"Release of vascular ring of aorta"	175341006
+77752	378261000006113	10	"U10G700"	"[X]Diving or jumping into water causing injury other than drowning or submersion, occurrence on farm"	424571000000106
+42079	349652010	20	"7A42.11"	"Reconstruction of common iliac artery"	233345007
+82237	454901000006118	50	"G73y400"	"Acroparaesthesia - Schultze's type"	57105000
+34797	317355015	700	"R055400"	"Hypovolaemic shock"	39419009
+68507	197301000006117	20	"A3BXE00"	"Proteus(mirabilis)(morganii)cause/dis classfd/oth chapter"	312105006
+17132	271881015	40	"7A42z00"	"Reconstruction of iliac artery NOS"	265516003
+154312	4056731000006118	5	" "	"Venous intermittent claudication"	95443002
+51696	461141014	30	"ZV6G700"	"Acquired absence of genital organ"	735929009
+103654	987781000006110	1	"7A1A394"	"Other trunk angiography"	54640009
+138615	2480961000000112	700	"PG73.00"	"Congenital umbilical hernia"	975231000000107
+95405	868921000006117	40	"7C10799"	"Diagn. asp. spermatocoele"	57633004
+48223	445146016	5000	"N14A.00"	"Neurogenic claudication"	303081002
+3936	115848011	40	"G702000"	"Monckeberg's medial sclerosis"	69742007
+53419	503681010	3	"G73y511"	"Nothnagel's vasomotor acroparaesthesia"	77788005
+17148	272022013	100	"7A49z00"	"Reconstruction of femoral or popliteal artery NOS"	265528006
+17175	272079018	20	"7A50y00"	"Other specified revision of reconstruction of artery"	175729002
+16983	271522017	20	"7A1A400"	"Transoesophageal aortography"	175357006
+42170	350656011	700	"G735.11"	"Vibration white finger"	234034005
+17174	272078014	40	"7A50300"	"Revision of reconstruction of popliteal artery"	175733009
+27685	300496013	50000	"G730000"	"Raynaud's disease"	195295006
+82236	454891000006117	2	"G73y500"	"Acroparaesthesia - Nothnagel's type"	77788005
+34794	317352017	3000	"R055100"	"Cardiogenic shock"	89138009
+95141	866101000006112	20	"7A44299"	"Pelvic organ angiography"	265523002
+137825	2371151000000115	2	"67A1300"	"Education about soya-based infant formula"	714034008
+27889	300958016	40	"Gyu7.00"	"[X]Diseases of arteries, arterioles and capillaries"	266259002
+2463	73336017	500	"M127A11"	"Actinic elastosis"	43982006
+131894	1944091000006113	8	"687G700"	"Cystic fibrosis screening, unsuitable sample: NHS number missing/not accurately recorded"	947241000000109
+81449	428881000006112	5	"U60G700"	"[X]Topically applied dental drugs causing adverse effects in therapeutic use"	417895009
+44386	394326010	60	"7A42.00"	"Reconstruction of iliac artery"	265516003
+27899	300969018	20	"Gyu7900"	"[X]Aortitis in diseases classified elsewhere"	70933002
+17170	272074011	20	"7A50.00"	"Revision of reconstruction of artery"	175729002
+95121	865891000006116	10	"7A1A398"	"Thoracic aortography"	54640009
+44397	394340011	400	"7A49.00"	"Reconstruction of femoral artery or popliteal artery"	265528006
+47013	410976019	200	"7A49.11"	"Reconstruction of common femoral artery"	275053000
+146166	3207251000006119	1	" "	"Jaw claudication"	43922008
+27686	300500010	6000	"G730z00"	"Raynaud's syndrome NOS"	195295006
+17146	272019011	200	"7A49800"	"Reconstruction of femoral artery with vein graft"	175697003
+34795	317353010	50	"R055200"	"Endotoxic shock"	371769008
+17172	272076013	3	"7A50100"	"Revision of reconstruction involving iliac artery"	175731006
+27896	300965012	30	"Gyu7600"	"[X]Other specified disorders of arteries and arterioles"	266259002
+47011	410974016	200	"7A49.14"	"Reconstruction of popliteal artery"	275051003
+77977	380381000006117	1	"U11G700"	"[X]Explosion and rupture of gas cylinder, occurrence on farm"	218073006

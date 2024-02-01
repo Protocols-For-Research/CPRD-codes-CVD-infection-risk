@@ -1,0 +1,63 @@
+v1	medcodeid	cleansedreadcode	observations	term	snomedctconceptid
+357	931961000006117	"G31y099"	200	"Acute coronary syndrome"	194823009
+117	2609111000000119	" "	600	"Non-obstructive coronary atherosclerosis"	719678003
+237	405146019	"P6y4400"	200	"Anomalous coronary artery communication"	270510008
+52	6601121000006118	" "	80	"Coronary artery thrombosis"	398274000
+665	3371361000006117	" "	20	"Coronary arteriosclerosis"	53741008
+746	5333531000006111	" "	2	"Anomalous origin of coronary artery from left pulmonary artery"	253708008
+373	36882018	"P6y4100"	100	"Single coronary artery"	21981000
+11	299782012	"G340000"	20000	"Single coronary vessel disease"	194842008
+530	3600701000006114	" "	400	"Coronary artery atheroma"	67682002
+370	271101015	"7923200"	80	"Prosthetic replacement of three coronary arteries"	736964008
+144	1786198013	"G30..16"	400	"Thrombosis - coronary"	398274000
+14	350346019	"G340.11"	40000	"Triple vessel disease of the heart"	233817007
+779	3525945011	" "	1	"Bypass of four or more coronary arteries with prosthesis"	736962007
+492	412682010	"Q494.00"	100	"Transient myocardial ischaemia of newborn"	276517000
+718	5056261000006112	" "	1	"Asymptomatic ischaemia"	233823002
+133	3371421000006117	" "	1000	"Coronary heart disease"	53741008
+399	271092018	"7922100"	70	"Allograft replacement of two coronary arteries"	736973000
+761	7119761000006112	" "	3	"Chronic left ventricular systolic dysfunction"	430396006
+13	2536395017	"G340.12"	200000	"Coronary artery disease"	53741008
+745	5333451000006117	" "	1	"Variant coronary origin from aortic sinus"	253700001
+529	271096015	"7922z00"	100	"Allograft replacement of coronary artery NOS"	175021005
+104	459859010	"G34z000"	5000	"Asymptomatic coronary heart disease"	315348000
+316	271088013	"7922.00"	300	"Allograft replacement of coronary artery"	175021005
+18	299783019	"G340100"	20000	"Double coronary vessel disease"	194843003
+238	2537483013	"G34y000"	400	"Chronic coronary insufficiency"	413844008
+359	3371411000006113	" "	900	"CHD - Coronary heart disease"	53741008
+23	411506018	"G581.13"	50000	"Impaired left ventricular function"	275514001
+426	271100019	"7923100"	40	"Prosthetic replacement of two coronary arteries"	736965009
+656	271095016	"7922y00"	4	"Other specified allograft replacement of coronary artery"	175021005
+8	595731000006114	"G340.00"	40000	"Coronary atherosclerosis"	443502000
+678	4776071000006117	" "	30	"Two coronary vessel disease"	194843003
+639	6546111000006118	" "	60	"ACS - Acute coronary syndrome"	394659003
+613	5056471000006118	" "	1	"Accelerated coronary artery disease in transplanted heart"	233844002
+525	3371381000006110	" "	90	"CAD - Coronary artery disease"	53741008
+627	3536601000006115	" "	3	"Coronary artery occluded"	63739005
+400	3536581000006113	" "	20	"Coronary occlusion"	63739005
+355	271099010	"7923000"	20	"Prosthetic replacement of one coronary artery"	736963002
+754	5517361000006114	" "	2	"Anomalous communication of coronary artery"	270510008
+391	271087015	"7922.11"	700	"Allograft bypass of coronary artery"	175021005
+218	2645983015	"P6y7.00"	300	"Myocardial bridge of coronary artery"	424045003
+119	459488019	"G31y300"	1000	"Transient myocardial ischaemia"	315026000
+522	271089017	"7922000"	50	"Allograft replacement of one coronary artery"	736971003
+153	299745015	"G31y000"	8000	"Acute coronary insufficiency"	194823009
+764	4776051000006110	" "	5	"Single vessel coronary artery disease"	194842008
+6	784191000006110	"33BA.00"	100000	"Impaired left ventricular function"	275514001
+638	6864781000006110	" "	70	"Myocardial ischaemia"	414795007
+724	8036721000006118	" "	30	"Chronic total occlusion of coronary artery"	117051000119103
+222	271093011	"7922200"	300	"Allograft replacement of three coronary arteries"	736972005
+77	350354017	"G344.00"	2000	"Silent myocardial ischaemia"	233823002
+444	494438016	"G31y200"	200	"Subendocardial ischaemia"	46109009
+12	1488382011	"G311500"	200000	"Acute coronary syndrome"	394659003
+61	1786197015	"G30..12"	3000	"Coronary thrombosis"	398274000
+366	271102010	"7923300"	50	"Prosthetic replacement of four or more coronary arteries"	736962007
+79	2534674015	"G34y100"	3000	"Chronic myocardial ischaemia"	413844008
+600	595691000006118	"P6y4200"	10	"Anomalous origin of coronary artery from aorta"	461105005
+786	6601131000006115	" "	1	"CT - Coronary thrombosis"	398274000
+29	313317014	"P551.00"	30000	"Patent foramen ovale"	204317008
+573	4824551000006110	" "	30	"PFO - Patent foramen ovale"	204317008
+571	5056201000006111	" "	50	"Triple vessel coronary artery disease"	233817007
+152	2160096015	"SP07600"	6000	"Coronary artery bypass graft occlusion"	408546009
+212	271094017	"7922300"	100	"Allograft replacement of four or more coronary arteries"	736970002
+776	4776081000006119	" "	1	"Double vessel coronary artery disease"	194843003

@@ -1,0 +1,3 @@
+v1	medcodeid	cleansedreadcode	observations	term	snomedctconceptid
+166	2675440012	"7A18600"	400	"Repair of interrupted aortic arch"	426869003
+44	132581000006113	"G73z100"	500	"Spasm of peripheral artery"	195313002

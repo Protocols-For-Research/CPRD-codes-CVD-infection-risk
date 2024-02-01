@@ -1,0 +1,4 @@
+v1	medcode	readcode	clinicalevents	readterm
+80	67046	"7A18600"	62	"Repair of interrupted aortic arch"
+49	15863	"G73z100"	591	"Spasm of peripheral artery"
+154	105704	"9OXE100"	664	"Influenza vaccination invitation second email"

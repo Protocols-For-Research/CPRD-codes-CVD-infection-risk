@@ -1,0 +1,7 @@
+medcode	readcode	clinical_events	immunisation_events	referral_events	test_events	read_term	database_build
+6183	"8B63.11"	51204	0	25	7	"Aspirin prophylaxis - IHD"	"February 2009"
+34214	"8H6D.00"	518	0	18	0	"Referral to GP - aspirin management"	"February 2009"
+11361	"8BG5.00"	2554	0	5	0	"Aspirin indicated"	"February 2009"
+19469	"Z1Q2200"	858	0	0	0	"Over the counter aspirin therapy"	"February 2009"
+9075	"8B3T.00"	146884	0	13	0	"Over the counter aspirin therapy"	"February 2009"
+6244	"8B63.12"	69356	0	25	0	"Aspirin prophylaxis"	"February 2009"

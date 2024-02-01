@@ -1,0 +1,5 @@
+v1	medcode	readcode	clinicalevents	readterm
+24	103506	"8HTy.00"	112	"Referral to atrial fibrillation clinic"
+25	105554	"8CMW200"	1777	"Atrial fibrillation care pathway"
+23	107936	"8OAD.00"	69	"Provision of written information about atrial fibrillation"
+27	104570	"1I12.00"	1300	"Atrial fibrillation excluded"

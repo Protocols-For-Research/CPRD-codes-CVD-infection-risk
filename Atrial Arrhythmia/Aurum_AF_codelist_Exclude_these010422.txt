@@ -1,0 +1,6 @@
+v1	medcodeid	observations	cleansedreadcode	term	snomedctconceptid
+121552	1755871000000117	2000	"8HTy.00"	"Referral to atrial fibrillation clinic"	758600000
+136849	2278971000000111	400	"8OAD.00"	"Provision of written information about atrial fibrillation"	699833006
+125719	1824151000006112	5	" "	"Atrial fibrillation clinical pathway protocol not followed"	1824151000006108
+135772	2127461000000113	3000	"1I12.00"	"Atrial fibrillation excluded"	816401000000105
+136172	2197581000000114	2000	"8CMW200"	"Atrial fibrillation care pathway"	847611000000104

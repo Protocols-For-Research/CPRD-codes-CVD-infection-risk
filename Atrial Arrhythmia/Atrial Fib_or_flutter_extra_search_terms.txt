@@ -1,0 +1,7 @@
+
+atrial fibrillation
+atrial flutter
+atrial tachycardia
+
+Exclusion:
+atrial fibrillation resolved

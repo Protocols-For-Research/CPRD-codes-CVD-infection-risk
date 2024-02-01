@@ -1,0 +1,16 @@
+	medcode	readcode	clinicalevents	immunisationevents	referralevents	testevents	readterm	databaserelease
+8712	98556	38DJ.00	40	0	0	0	Edinburgh claudication questionnaire	February 2010
+11599	106260	9m10.00	11842	0	3	0	Peripheral vascular disease monitoring first letter	June 2013
+18774	44528	SP12z00	9	0	0	0	Peripheral vascular complications of care NOS	February 2009
+29372	106660	9m11.00	2139	0	0	0	Peripheral vascular disease monitoring second letter	August 2013
+35199	106855	9m12.00	1065	0	0	0	Peripheral vascular disease monitoring third letter	August 2013
+41197	1517	G73z000	139116	0	24544	14	Intermittent claudication	February 2009
+45723	2760	G73zz00	57752	0	5490	6	Peripheral vascular disease NOS	February 2009
+48100	106224	9m1..00	2963	0	39	0	Peripheral vascular disease monitoring invitation	June 2013
+61778	59534	14NB.00	119	0	4	0	H/O: Peripheral vascular disease procedure	February 2009
+64915	56429	P76z.00	42	0	1	0	Peripheral vascular system anomaly NOS	February 2009
+77788	3530	G73z.00	71320	0	3866	0	Peripheral vascular disease NOS	February 2009
+85732	18499	662U.00	20647	0	284	0	Peripheral vascular disease monitoring	February 2009
+95784	98356	N14A.00	1018	0	62	0	Neurogenic claudication	January 2010
+107826	16148	SP12.00	224	0	23	0	Peripheral vascular complications of care	February 2009
+111002	101866	G73z012	62	0	0	0	Vascular claudication	March 2011
